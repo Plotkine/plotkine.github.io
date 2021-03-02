@@ -1,6 +1,6 @@
 ---
 title: /js-games
-layout: default
+layout: games
 permalink: /js-games
 ---
 
