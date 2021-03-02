@@ -4,8 +4,6 @@ layout: home
 permalink: /
 ---
 
-<p style="text-align:center;">
-  <img src="favicon.ico">
-</p>
+<img src="favicon.ico">
 
 Welcome to my blog.
