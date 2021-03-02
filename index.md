@@ -4,4 +4,4 @@ layout: home
 permalink: /
 ---
 
-This is my blog, where I upload various stuff I made. test.
+This is my blog, where I upload various stuff I make.
