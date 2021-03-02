@@ -5,3 +5,4 @@ permalink: /
 ---
 
 Welcome to my blog.
+<img src="favico.ico">
