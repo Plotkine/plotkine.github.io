@@ -4,4 +4,4 @@ layout: home
 permalink: /
 ---
 
-# Another infosec blog
+This is my blog, where I upload various stuff I made.
