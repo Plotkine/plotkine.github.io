@@ -4,8 +4,8 @@ title: /whoami
 permalink: /whoami
 ---
 
-I am plotkine, an information security enthousiast interested in:
-* network pentesting
-* web application pentesting
-* active directory pentesting
-* incident response
+I am Plotkine, an information security enthousiast interested in:
+* Network pentesting
+* Web application pentesting
+* Active Directory pentesting
+* Incident response
