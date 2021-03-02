@@ -1,6 +1,6 @@
 ---
 title: /js-games
-layout: snake
+layout: default
 permalink: /js-games
 ---
 
