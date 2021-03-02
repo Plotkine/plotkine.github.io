@@ -1,16 +1,16 @@
 title: 'plotkine.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+description: "Another infosec blog"
 baseurl: "/"
 url: "https://plotkine.github.io"
 
 header_pages:
   - index.md
   - peter.md
-  - about-me.md
+  - whoami.md
 
 style: hacker
 
-footer: '<a href="https://github.com/plotkine">github</a>'
+#footer: '<a href="https://github.com/plotkine">github</a>'
 
 # Build settings
 markdown: kramdown
