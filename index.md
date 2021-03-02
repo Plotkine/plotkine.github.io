@@ -6,4 +6,4 @@ permalink: /
 
 <img src="favicon.ico">
 
-Welcome to my blog..
+Welcome to my blog...
