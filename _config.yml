@@ -7,11 +7,10 @@ header_pages:
   - index.md
   - peter.md
   - about-me.md
-  - contact.md
 
 style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<a href="https://github.com/plotkine">github</a>'
 
 # Build settings
 markdown: kramdown
