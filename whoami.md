@@ -7,10 +7,11 @@ permalink: /whoami
 # whoami
 
 
-I am a cybersecurity enthousiast interested in:
+I am an information security enthousiast interested in:
 - network pentesting
 - web applications pentesting
 - active directory pentesting
 - incident response
 
 <a href="https://github.com/plotkine">GitHub</a>
+

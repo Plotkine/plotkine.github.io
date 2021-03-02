@@ -5,8 +5,8 @@ url: "https://plotkine.github.io"
 
 header_pages:
   - index.md
-  - peter.md
   - whoami.md
+  - hackthebox-writeups.md
 
 style: hacker
 
