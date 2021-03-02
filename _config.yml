@@ -6,7 +6,7 @@ url: "https://plotkine.github.io"
 header_pages:
   - index.md
   - peter.md
-  - about.md
+  - about-me.md
   - contact.md
 
 style: hacker
