@@ -6,6 +6,6 @@ permalink: /whoami
 
 I am an information security enthousiast interested in:
 * network pentesting
-* web applications pentesting
+* web application pentesting
 * active directory pentesting
 * incident response
