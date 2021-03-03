@@ -4,6 +4,6 @@ title: /OSCP/
 permalink: /OSCP/
 ---
 
-<h3><a href="/OSCP/learning-tips">Learning tips</a></h3>
+<p><a href="/OSCP/learning-tips">Learning tips</a></p>
 
-<h3><a href="/OSCP/scan-script">Enumeration script</a></h3>
+<p><a href="/OSCP/scan-script">Enumeration script</a></p>
