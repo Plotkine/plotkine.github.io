@@ -1,7 +1,7 @@
 ---
 title: /home
 layout: games
-permalink: /home
+permalink: /
 ---
 
 <h3>Welcome to my blog!</h3>
