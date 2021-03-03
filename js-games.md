@@ -8,7 +8,7 @@ permalink: /js-games
 
 ## Snake
 
-<iframe src="https://editor.p5js.org/Plotkine/present/wt0UfN_ce" width="340px" height="390px" frameBorder="1" title="snake"></iframe>
+<iframe src="https://editor.p5js.org/Plotkine/present/wt0UfN_ce" width="340px" height="440px" frameBorder="1" title="snake"></iframe>
 
 ## Freddie game
 
