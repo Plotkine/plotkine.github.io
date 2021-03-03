@@ -1,8 +1,12 @@
 ---
-title: /js-anims
+title: /animations
 layout: games
-permalink: /js-projects/anims
+permalink: /js-projects/animations
 ---
+
+/js-projects
+ ├── <a href="/js-projects/animations">animations</a>
+ └── <a href="/js-projects/games">games</a>
 
 <h1>Animations I made with <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer">p5.js</a></h1>
 

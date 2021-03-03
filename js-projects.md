@@ -4,4 +4,6 @@ title: /js-projects
 permalink: /js-projects
 ---
 
-<p><a href="/js-projects/anims">Animations</a> <a href="/js-projects/games">Games</a></p>
+<mark>/js-projects</mark>
+ ├── <a href="/js-projects/animations">animations</a>
+ └── <a href="/js-projects/games">games</a>

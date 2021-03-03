@@ -1,5 +1,5 @@
 ---
-title: /js-games
+title: /games
 layout: games
 permalink: /js-projects/games
 ---
