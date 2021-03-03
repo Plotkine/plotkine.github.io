@@ -6,7 +6,7 @@ permalink: /
 
 <h3>Welcome to my blog!</h3>
 
-<p>I am Plotkine, an information security enthusiast interested in:
+<p><br>I am Plotkine, an information security enthusiast interested in:
 - Pentesting (network, AD, webapp)
 - Incident response
 - Programming</p>
