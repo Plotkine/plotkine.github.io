@@ -4,7 +4,7 @@ title: /OSCP/scan-script
 permalink: /OSCP/scan-script
 ---
 
-/OSCP
+<a href="/OSCP">/OSCP</a>
  ├── <a href="/OSCP/learning-tips">learning tips</a>
  └── <mark>scan_script</mark>
 
