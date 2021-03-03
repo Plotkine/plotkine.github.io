@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /OSCP/whoami
-permalink: /OSCP/whoami
+title: /OSCP/learning-tips
+permalink: /OSCP/learning-tips
 ---
 
 <p><h1>My learning tips after passing on the 1st attempt</h1><p>
