@@ -6,9 +6,9 @@ permalink: /whoami
 
 <p><h1>My learning tips after passing on the 1st attempt</h1><p>
 
-My background before enrolling into PWK
+<p><h2>-1) My background before enrolling into PWK</h2></p>
 
-eJPT, eCPPT and hacked a few HTB machines
+<p>eJPT, eCPPT and hacked a few HTB machines</p>
 
 0) Exercises/lab report
 
