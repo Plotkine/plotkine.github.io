@@ -4,7 +4,7 @@ title: /OSCP/scan-script
 permalink: /OSCP/scan-script
 ---
 
-<!-- <h1>ENUMERATION SCRIPT FOR OSCP</h1> -->
+<h1>ENUMERATION SCRIPT FOR OSCP</h1>
 
 <p><br><img src="/OSCP/execution-example.png" alt="execution example" width="470.5" height="378.5"></p>
 
