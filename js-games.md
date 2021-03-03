@@ -4,7 +4,7 @@ layout: games
 permalink: /js-games
 ---
 
-# JavaScript games (play on computer)
+# Games I made with p5.js
 
 ## Snake
 

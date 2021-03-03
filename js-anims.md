@@ -4,7 +4,7 @@ layout: games
 permalink: /js-anims
 ---
 
-# JavaScript animations
+# Animations I made with p5.js
 
 ## Birds
 
