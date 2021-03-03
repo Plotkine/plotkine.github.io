@@ -12,4 +12,4 @@ permalink: /js-games
 
 ## Freddie game
 
-<iframe src="https://editor.p5js.org/Plotkine/present/_6t0LDFnp" width="340px" height="340px" frameBorder="1" title="snake"></iframe>
+<iframe src="https://editor.p5js.org/Plotkine/present/_6t0LDFnp" width="340px" height="390px" frameBorder="1" title="snake"></iframe>
