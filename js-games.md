@@ -23,21 +23,19 @@ window.addEventListener("keydown", function(e) {
 }, false);
 </script> -->
 
-    <script> 
-        var el_up = document.getElementById("GFG_UP"); 
-        var el_down = document.getElementById("GFG_DOWN"); 
+<script> 
+  var el_up = document.getElementById("GFG_UP"); 
+  var el_down = document.getElementById("GFG_DOWN"); 
+  el_up.innerHTML = "Click on the button to disable" 
+                  + " scrolling through arrow keys."; 
           
-        el_up.innerHTML = "Click on the button to disable" 
-                    + " scrolling through arrow keys."; 
-          
-        function gfg_Run() { 
-            window.addEventListener("keydown", function(e) { 
-                if([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1){ 
-                    e.preventDefault(); 
-                } 
-            }, false); 
+  function gfg_Run() { 
+    window.addEventListener("keydown", function(e) { 
+      if([32, 37, 38, 39, 40].indexOf(e.keyCode) > -1){ 
+        e.preventDefault(); 
+      } 
+    }, false); 
               
-            el_down.innerHTML =  
-                "Scrolling from arrow keys is disabled."; 
-        }          
-    </script>
+    el_down.innerHTML = "Scrolling from arrow keys is disabled."; 
+  }          
+</script>
