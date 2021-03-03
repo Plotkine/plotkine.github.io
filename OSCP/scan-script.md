@@ -6,7 +6,7 @@ permalink: /OSCP/scan-script
 
 /OSCP
  <b>├</b>── <a href="/OSCP/learning-tips">Learning tips</a>
- <b>└── <a href="/OSCP/scan-script">* Enumeration script</a></b>
+ <b>└── <a href="/OSCP/scan-script">* scan_script</a></b>
 
 <h1>What is scan_script?</h1>
 
