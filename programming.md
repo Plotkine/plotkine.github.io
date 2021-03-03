@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /js-projects
-permalink: /js-projects
+title: /programming
+permalink: /programming
 ---
 
 <mark>/js-projects</mark>
