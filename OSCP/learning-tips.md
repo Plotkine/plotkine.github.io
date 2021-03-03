@@ -8,7 +8,7 @@ permalink: /OSCP/learning-tips
 
 <h1>-1) My background before enrolling into PWK</h1>
 
-eJPT, eCPPT and hacked a few HTB machines
+eJPT, eCPPT, hacked a few HTB machines, python, linux basics
 
 <h1>0) Exercises/lab report</h1>
 
