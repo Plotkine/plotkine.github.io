@@ -4,15 +4,15 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
-<h1>My learning tips for OSCP students</h1>
+<h1>MY LEARNING TIPS FOR OSCP STUDENTS</h1>
 
-<h1>-1) My background before enrolling into PWK</h1>
+<h2>-1) My background before enrolling into PWK</h2>
 
-eJPT, eCPPT, hacked a few HTB machines, python, linux basics
+<br>eJPT, eCPPT, hacked a few HTB machines, python, linux basics
 
-<h1>0) Exercises/lab report</h1>
+<h2>0) Exercises/lab report</h2>
 
-<p>Whether you do exercises and lab report is your personal choice. Since the 2020 update there are alot of exercises (~90 sets if I remember correctly); taking you at least 15 days if you work hard on it.</p>
+<br><p>Whether you do exercises and lab report is your personal choice. Since the 2020 update there are alot of exercises (~90 sets if I remember correctly); taking you at least 15 days if you work hard on it.</p>
 
 <p>On one side, if you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so it's good to secure passing score. On the other side, time spent doing the exercises could be better spent in the labs rooting boxes.</p>
 
