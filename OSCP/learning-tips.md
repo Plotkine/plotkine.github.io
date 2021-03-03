@@ -4,7 +4,7 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
-<h2><u>LEARNING TIPS FOR OSCP</u></h2>
+<h1>Learning tips for OSCP</h1>
 
 <h2>* My background before enrolling into PWK</h2>
 
