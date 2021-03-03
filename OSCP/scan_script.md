@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /OSCP/learning-tips
-permalink: /OSCP/learning-tips
+title: /OSCP/scan-script
+permalink: /OSCP/scan-script
 ---
 
 <h1>LEARNING TIPS FOR OSCP STUDENTS</h1>
@@ -38,7 +38,7 @@ permalink: /OSCP/learning-tips
 
 <p>Once you approach the end of your lab time, launch your enumeration script against all the boxes you rooted to check if it's getting the right infos to spot the foothold.</p>
 
-I wrote a post about my own enumeration script <a href="/OSCP/scan-script" target="_blank" rel="noopener noreferrer">here</a>.
+I wrote a post about my own enumeration script <a href="/OSCP/scan_script" target="_blank" rel="noopener noreferrer">here</a>.
 
 <h2>2) Take smart notes</h2>
 
