@@ -10,6 +10,6 @@ permalink: /js-games
 
 <iframe src="https://editor.p5js.org/Plotkine/present/wt0UfN_ce" width="340px" height="340px" frameBorder="1" title="snake"></iframe>
 
-## Freddie game
+## Freddie game (to be played on big screen)
 
-<iframe src="https://editor.p5js.org/Plotkine/present/_6t0LDFnp" width="340px" height="390px" frameBorder="1" title="snake"></iframe>
+<iframe src="https://editor.p5js.org/Plotkine/present/_6t0LDFnp" width="750px" height="750px" frameBorder="1" title="freddieGame"></iframe>
