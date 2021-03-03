@@ -34,11 +34,11 @@ permalink: /OSCP/learning-tips
 
 <h2>3) Write your own enumeration script</h2>
 
-<p><br>From day 1 in the labs try to <b>automate (f.e. bash or python script) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much things as possible instead of launching the tools sequentially in your script.</p>
+<p><br>From day 1 in the labs try to <b>automate (f.e. bash or python script) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much as possible instead of launching the tools sequentially in your script.</p>
 
-<p>You can use or take inspiration from scripts made by others like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> but I highly recommend writing your own as you probably want your specific commands or other commands.</p>
+<p>You can use or take inspiration from scripts made by others like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> but I highly recommend writing your own as it is a good scripting exercise and you may want to run your specific commands with your specific options.</p>
 
-<p>Once you approach the end of your lab time, launch your enumeration script against all the boxes you rooted to check if it's getting the right infos to spot the foothold (if its easily spottable ofc).</p>
+<p>Once you approach the end of your lab time, launch your enumeration script against all the boxes you rooted to check if it's getting the right infos to spot the foothold (if its easily spottable).</p>
 
 I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" target="_blank" rel="noopener noreferrer">here</a>.
 
@@ -58,7 +58,7 @@ I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" t
 
 <h2>6) Exam</h2>
 
-<p><br>Start by focusing on the BOF box while your enumeration script is running.</br>
+<p><br>Start by focusing on the BOF box while your enumeration script is running.</p>
 
 <p>Once you are done with the BOF box, keep in mind that offsec gives you enough time to do the exam, so <b>be methodical and enumerate everything</b>. <i>Don't leave any stone unturned</i>) and you'll eventually end up finding the foothold for each box.</p>
 
