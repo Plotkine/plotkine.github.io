@@ -5,7 +5,6 @@ permalink: /js-games
 ---
 
 # JavaScript games
-<!-- <br> -->
 
 Snake
 

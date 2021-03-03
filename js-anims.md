@@ -5,7 +5,6 @@ permalink: /js-anims
 ---
 
 # JavaScript animations
-<!-- <br> -->
 
 Birds
 
