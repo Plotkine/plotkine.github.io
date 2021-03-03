@@ -58,9 +58,9 @@ I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" t
 
 <h2>5) Tooling</h2>
 
-<p><br>For enumeration: You can use <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> althought I recommend writing your own script.</p>
+<p><br>For initial enumeration you can use <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> althought I recommend writing your own script.</p>
 
-<p>For privilege escalation: winPEAS, LinEnum.sh, lse.sh, linpeas.sh, gtfobins, windows-exploit-suggestor.py,... (follow the two udemy courses and you should be fine).</p>
+<p>For privilege escalation: LinEnum.sh, lse.sh, linpeas.sh, gtfobins, winPEAS, windows-exploit-suggestor.py,... (follow the two udemy courses and you should be fine).</p>
 
 <h2>6) Exam</h2>
 
