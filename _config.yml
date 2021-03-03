@@ -1,6 +1,6 @@
 title: 'plotkine.github.io'
 description: "Another infosec blog"
-baseurl: "/home"
+baseurl: "/"
 url: "https://plotkine.github.io"
 
 header_pages:
