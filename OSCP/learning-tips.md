@@ -4,9 +4,9 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
-<!-- <h1>LEARNING TIPS FOR OSCP</h1> -->
+<h2>LEARNING TIPS FOR OSCP</h2>
 
-<h2>-1) My background before enrolling into PWK</h2>
+<h3>* My background before enrolling into PWK</h3>
 
 <p><br>- linux basics, python programming
 - rooted a few HTB boxes
