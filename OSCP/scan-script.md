@@ -20,4 +20,4 @@ permalink: /OSCP/scan-script
 
 <h2>Execution example</h2>
 
-<img src="/OSCP/execution-example.png" alt="execution example" style="width:800px;height:auto;">
+<p><br><img src="/OSCP/execution-example.png" alt="execution example" style="width:800px;height:auto;"></p>
