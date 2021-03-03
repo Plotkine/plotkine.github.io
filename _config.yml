@@ -5,11 +5,11 @@ url: "https://plotkine.github.io"
 
 header_pages:
   - home.md
-  - whoami.md
   - HTB-writeups.md
   - OSCP.md
   - js-games.md
   - js-anims.md
+  - contact.md
 
 style: hacker
 
