@@ -8,12 +8,12 @@ permalink: /js-anims
 
 <h2>Birds</h2>
 
-<p><iframe src="https://editor.p5js.org/Plotkine/present/NYcHr4h5V" width="750px" height="750px" frameBorder="0" title="birds"></iframe></p>
+<iframe src="https://editor.p5js.org/Plotkine/present/NYcHr4h5V" width="750px" height="750px" frameBorder="0" title="birds"></iframe>
 
-<p>Gravity balls
+<h2>Gravity balls</h2>
 
-<iframe src="https://editor.p5js.org/Plotkine/present/I-eeyxqFo" width="750px" height="750px" frameBorder="0" title="birds"></iframe></p>
+<iframe src="https://editor.p5js.org/Plotkine/present/I-eeyxqFo" width="750px" height="750px" frameBorder="0" title="birds"></iframe>
 
-<p>Game of life
+<h2>Game of life</h2>
 
-<iframe src="https://editor.p5js.org/Plotkine/present/I0OtMYTba" width="750px" height="750px" frameBorder="1" title="birds"></iframe></p>
+<iframe src="https://editor.p5js.org/Plotkine/present/I0OtMYTba" width="750px" height="750px" frameBorder="1" title="birds"></iframe>
