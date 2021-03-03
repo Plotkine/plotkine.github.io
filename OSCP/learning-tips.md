@@ -22,7 +22,7 @@ permalink: /OSCP/learning-tips
 
 <h2>1) Root as many boxes as you can</h2>
 
-<p><br>Rooting boxes is when you really learn (more than reading the PDF) I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes because those topics were not covered in the exam at the time I passed it.</p>
+<p><br>Rooting boxes is when you really learn (more than reading the PDF) I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes as those topics were not covered in the exam at the time I passed it.</p>
 
 <p>Don't spend too much time on a single box. If you don't find a foothold, use PWK forum and discord communities like <a href="https://discord.com/invite/mEtEFhp" target="_blank" rel="noopener noreferrer">InfoSecPrep</a> to get hints. I never spent more than 2-3 hours without asking for hints.</p>
 
@@ -42,7 +42,7 @@ permalink: /OSCP/learning-tips
 
 I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" target="_blank" rel="noopener noreferrer">here</a>.
 
-<h2>5) TJNull OSCP-like boxes list and privesc resources</h2>
+<h2>4) TJNull OSCP-like boxes list and privesc resources</h2>
 
 <p><br>You don't necessarily have to do all the boxes from the HTB and vulnhub lists but these boxes are really good training to prepare for the exam. You may come across the same kind of tricks or exploits in the exam.</p>
 
@@ -50,17 +50,11 @@ I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" t
 - <a href="https://www.udemy.com/course/windows-privilege-escalation/" target="_blank" rel="noopener noreferrer">Windows privilege escalation</a>
 - <a href="https://www.udemy.com/course/linux-privilege-escalation/" target="_blank" rel="noopener noreferrer">Linux privilege escalation</a></p>
 
-<h2>3) Write an enumeration methodology</h2>
+<h2>5) Write an enumeration methodology</h2>
 
 <p><br>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, <b>write an enumeration methodology</b> and personal tips to not fall in the same traps as the ones you falled into.</p>
 
 <p>This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
-
-<h2>5) Tooling</h2>
-
-<p><br>For initial enumeration you can use <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> althought I recommend writing your own script.</p>
-
-<p>For privilege escalation: LinEnum.sh, lse.sh, linpeas.sh, gtfobins, winPEAS, windows-exploit-suggestor.py,... (follow the two udemy courses and you should be fine).</p>
 
 <h2>6) Exam</h2>
 
