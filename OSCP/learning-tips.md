@@ -12,7 +12,7 @@ permalink: /OSCP/learning-tips
 - rooted a few HTB boxes
 - eJPT, eCPPT</p>
 
-<h2>0) About exercises/lab reports</h2>
+<h3>* About exercises/lab reports</h3>
 
 <p><br><b>I don't recommend doing the exercises and lab reports</b> if you have some pentesting basics like I did have.</p>
 
@@ -20,19 +20,19 @@ permalink: /OSCP/learning-tips
 
 <p>If you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so those 10 points can really make the difference. However imo, time spent doing exercises and lab reports are better spent in the labs rooting boxes.</p>
 
-<h2>1) Root as many boxes as you can</h2>
+<h3>* Root as many boxes as you can</h3>
 
 <p><br>Rooting boxes is what makes you learn the most. I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes as those topics were not covered in the exam at the time I passed it.</p>
 
 <p>Don't spend too much time on a single box. If you don't find a foothold, use PWK forum and discord communities like <a href="https://discord.com/invite/mEtEFhp" target="_blank" rel="noopener noreferrer">InfoSecPrep</a> to get hints. I never spent more than 2-3 hours without asking for hints.</p>
 
-<h2>2) Take smart notes</h2>
+<h3>* Take smart notes</h3>
 
 <p><br>More important than rooting boxes: <b>take notes about what you learned when rooting each box and about the things you didn't see</b>. What you should keep in mind when taking notes about a box is that these notes should help you overcome the difficulties you encountered doing the box when facing a similar box. If you don't do this you'll fall in the same traps over and over again.</p>
 
 <p>Don't take stupid screenshot notes that you'll never read again. Take efficient, searchable notes describing how you rooted each box and the commands you used.</p>
 
-<h2>3) Write your own enumeration script</h2>
+<h3>* Write your own enumeration script</h3>
 
 <p><br>From day 1 in the labs try to <b>automate (with bash or python) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much things as possible in your script.</p>
 
@@ -42,7 +42,7 @@ permalink: /OSCP/learning-tips
 
 I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
 
-<h2>4) TJNull OSCP-like boxes list and privesc resources</h2>
+<h3>* TJNull OSCP-like boxes list and privesc resources</h3>
 
 <p><br>You don't necessarily have to do all the boxes from the <a href="https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159" target="_blank" rel="noopener noreferrer">HTB list</a> but these boxes are really good training to prepare for the exam. You may come across the same kind of tricks or exploits in the exam.</p>
 
@@ -50,13 +50,13 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
 - <a href="https://www.udemy.com/course/windows-privilege-escalation/" target="_blank" rel="noopener noreferrer">Windows privilege escalation</a>
 - <a href="https://www.udemy.com/course/linux-privilege-escalation/" target="_blank" rel="noopener noreferrer">Linux privilege escalation</a></p>
 
-<h2>5) Write an enumeration methodology</h2>
+<h3>* Write an enumeration methodology</h3>
 
 <p><br>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, <b>write an enumeration methodology</b> and personal tips to not fall in the same traps as the ones you falled into.</p>
 
 <p>This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
 
-<h2>6) Exam</h2>
+<h3>* Exam</h3>
 
 <p><br>Start by focusing on the BOF box while your enumeration script is running.</p>
 
@@ -68,7 +68,7 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
 
 <p>You should take into account that the proctoring software can take a lot of resources on your computer (for me: streaming 3 screens and a webcam). When I launched my enumeration script my CPU peaked regularly at 100% because of it; that didn't lead big lags but my computer was clearly pushed.</p>
 
-<h2>7) Report</h2>
+<h3>* Report</h3>
 
 <p><br><b>Don't underestimate the time needed to write your report</b>: I took ~7 hours to make it while I thought I would be done in 2-3 hours. You really don't want to write you report in a hurry like I did so my advice would be to sleep some hours after the exam and immediately start writing your report afterwards. I used <a href="https://github.com/whoisflynn/OSCP-Exam-Report-Template" target="_blank" rel="noopener noreferrer">this template</a>.
 </p>
