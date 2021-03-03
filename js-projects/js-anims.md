@@ -1,7 +1,7 @@
 ---
 title: /js-anims
 layout: games
-permalink: /js-anims
+permalink: /js-projects/anims
 ---
 
 <h1>Animations I made with <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer">p5.js</a></h1>

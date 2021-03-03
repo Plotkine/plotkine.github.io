@@ -7,8 +7,7 @@ header_pages:
   - home.md
   - HTB-writeups.md
   - OSCP.md
-  - js-games.md
-  - js-anims.md
+  - js-projects.md
   - contact.md
 
 style: hacker
