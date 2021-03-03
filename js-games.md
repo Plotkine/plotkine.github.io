@@ -4,7 +4,7 @@ layout: games
 permalink: /js-games
 ---
 
-# JavaScript games
+# JavaScript games (play on computer)
 
 ## Snake
 
