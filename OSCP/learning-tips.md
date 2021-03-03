@@ -34,29 +34,27 @@ permalink: /OSCP/learning-tips
 
 <h2>3) Write your own enumeration script</h2>
 
-<p><br>From day 1 in the labs try to automate the stuff you do everytime you enumerate a box (nmap, dirbuster, smb and ftp recon, etc..) and keep adding stuff to your enumeration script (could be written f.e. in bash or python).</p>
+<p><br>From day 1 in the labs try to <b>automate (f.e. bash or python script) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs.</p>
 
-<p>Once you approach the end of your lab time, launch your enumeration script against all the boxes you rooted to check if it's getting the right infos to spot the foothold.</p>
+<p>You can use or take inspiration from scripts made by others like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> but I highly recommend writing your own as you probably want your specific commands or other commands.</p>
 
-I wrote a post about my own enumeration script <a href="/OSCP/scan-script" target="_blank" rel="noopener noreferrer">here</a>.
+<p>Once you approach the end of your lab time, launch your enumeration script against all the boxes you rooted to check if it's getting the right infos to spot the foothold (if its easily spottable ofc).</p>
 
-<h2>2) Take smart notes</h2>
+I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" target="_blank" rel="noopener noreferrer">here</a>.
+
+<h2>5) TJNull OSCP-like boxes list and privesc resources</h2>
+
+<p><br>You don't necessarily have to do all the boxes from the HTB and vulnhub lists but these boxes are really good training to prepare for the exam. You may come across the same kind of tricks or exploits in the exam.</p>
+
+<p>For privesc I recommend taking those two udemy courses:
+- <a href="https://www.udemy.com/course/windows-privilege-escalation/" target="_blank" rel="noopener noreferrer">Windows privilege escalation</a>
+- <a href="https://www.udemy.com/course/linux-privilege-escalation/" target="_blank" rel="noopener noreferrer">Linux privilege escalation</a></p>
 
 <h2>3) Write an enumeration methodology</h2>
 
-<p><br>From all your pwned box in PWK labs/HTB & vulnhub lists, write an enumeration methodology and personal tips to not fall in the same traps as the ones you falled into.</p>
+<p><br>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, write an enumeration methodology and personal tips to not fall in the same traps as the ones you falled into.</p>
 
-<p>This is crucial. You should have a methodical way of enumerating boxes and their services.</p>
-
-<h2>5) TJNull OSCP-like boxes list</h2>
-
-You don't have to do all the boxes from the HTB and vulnhub lists but these boxes are really good training to prepare for the exam. You may come across the same kind of tricks or exploits in the exam.
-
-4) Privilege escalation
-
-I recommend taking those two udemy courses:https://www.udemy.com/course/windows-privilege-escalation/https://www.udemy.com/course/linux-privilege-escalation/
-
-They are truly awesome and help you have a good methodology to enumerate boxes for privilege escalation vectors.
+<p>This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
 
 5) Tooling
 
