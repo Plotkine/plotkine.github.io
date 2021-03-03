@@ -4,19 +4,19 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
-<p><h1>My learning tips after passing on the 1st attempt</h1><p>
+<h1>My learning tips after passing on the 1st attempt</h1>
 
-<p><h2>-1) My background before enrolling into PWK</h2></p>
+<h2>-1) My background before enrolling into PWK</h2>
 
-<p>eJPT, eCPPT and hacked a few HTB machines</p>
+eJPT, eCPPT and hacked a few HTB machines
 
-0) Exercises/lab report
+<h2>0) Exercises/lab report</h2>
 
-Whether you do exercises and lab report is your personal choice. Since the 2020 update there are alot of exercises (~90 sets if I remember correctly); taking you at least 15 days if you work hard on it.
+<p>Whether you do exercises and lab report is your personal choice. Since the 2020 update there are alot of exercises (~90 sets if I remember correctly); taking you at least 15 days if you work hard on it.</p>
 
-On one side, if you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so it's good to secure passing score. On the other side, time spent doing the exercises could be better spent in the labs rooting boxes.
+<p>On one side, if you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so it's good to secure passing score. On the other side, time spent doing the exercises could be better spent in the labs rooting boxes.</p>
 
-I personnally don't recommend doing the exercises and the lab report. Lab is the place where you really learn things [edit: if you have some pentesting basics].
+<p>I personnally don't recommend doing the exercises and the lab report. Lab is the place where you really learn things [edit: if you have some pentesting basics].</p>
 
 1) Rooting boxes
 
