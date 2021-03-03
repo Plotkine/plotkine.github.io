@@ -4,7 +4,7 @@ layout: games
 permalink: /home
 ---
 
-<p>Welcome to my blog!</p>
+<h3>Welcome to my blog!</h3>
 
 <p>I am Plotkine, an information security enthusiast interested in:
 - Pentesting (network, AD, webapp)
