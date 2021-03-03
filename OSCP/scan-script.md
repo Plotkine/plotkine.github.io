@@ -4,9 +4,11 @@ title: /OSCP/scan-script
 permalink: /OSCP/scan-script
 ---
 
-<p>Scan_script is a bash script I wrote for OSCP to automate port scanning and basic enumeration and run in parallel what can be. I wrote it in bash instead of python to practice bash scripting.</p>
+<p>Scan_script is a bash script I wrote for OSCP to automate port scanning and basic enumeration.</p>
 
-<p>It would have been simpler to use python async functions instead of bash waits to run commands in parallel but I wanted to practice bash scripting.</p>
+<p>It would have been simpler to use python async functions (instead of bash waits) to run commands in parallel, like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> does, but I wanted to practice bash scripting.</p>
+
+<p>Still, the script is very efficient as running in parallel what can be.</p>
 
 <p>You can find the source code and instructions on how to use it <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
