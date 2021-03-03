@@ -20,9 +20,9 @@ permalink: /OSCP/learning-tips
 
 <p>If you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so those 10 points can really make the difference. But in my opinion, time spent doing exercises and lab reports could be better spent in the labs rooting boxes.</p>
 
-<h2>1) Root boxes</h2>
+<h2>1) Root as many boxes as you can</h2>
 
-<p><br><b>Root as many boxes as you can in the labs</b>. I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes because those topics were not covered in the exam at the time I passed it.</p>
+<p><br>Rooting boxes is when you really learn (more than reading the PDF) I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes because those topics were not covered in the exam at the time I passed it.</p>
 
 <p>Don't spend too much time on a single box. If you don't find a foothold, use PWK forum and discord communities like <a href="https://discord.com/invite/mEtEFhp" target="_blank" rel="noopener noreferrer">InfoSecPrep</a> to get hints. I never spent more than 2-3 hours without asking for hints.</p>
 
