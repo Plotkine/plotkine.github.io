@@ -13,3 +13,12 @@ permalink: /js-games
 ## Freddie game
 
 <iframe src="https://editor.p5js.org/Plotkine/present/_6t0LDFnp" width="750px" height="750px" frameBorder="0" title="freddieGame"></iframe>
+
+<script>
+window.addEventListener("keydown", function(e) {
+    // space and arrow keys
+    if([32, 37, 38, 39, 40].indexOf(e.code) > -1) {
+        e.preventDefault();
+    }
+}, false);
+</script>
