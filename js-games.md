@@ -12,7 +12,7 @@ permalink: /js-games
 
 <h2>Snake</h2>
 
-<p><iframe src="https://editor.p5js.org/Plotkine/present/wt0UfN_ce" width="500px" height="575px" frameBorder="0" title="snake"></iframe></p>
+<iframe src="https://editor.p5js.org/Plotkine/present/wt0UfN_ce" width="500px" height="575px" frameBorder="0" title="snake"></iframe>
 
 <h2>Freddie game</h2>
 
