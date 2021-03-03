@@ -16,7 +16,7 @@ permalink: /OSCP/learning-tips
 
 <p><br><b>I don't recommend doing the exercises and lab reports</b>, especially if you are a minimum familiar with kali linux tools like I was.</p>
 
-<p>Since the 2020 update there are alot of exercises (~90 sets iirc); taking you at least 15 days if you work hard on it (I remember offsec mentioning ~100 hours of work to complete them).</p>
+<p>Since the 2020 update there are a lot of exercises (~90 sets iirc); taking you at least 15 days if you work hard on it (I remember offsec mentioning ~100 hours of work to complete them).</p>
 
 <p>If you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so those 10 points can really make the difference. But in my opinion, time spent doing exercises and lab reports could be better spent in the labs rooting boxes.</p>
 
@@ -62,14 +62,14 @@ I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" t
 
 <p>Once you are done with the BOF box, keep in mind that offsec gives you enough time to do the exam, so <b>be methodical and enumerate everything</b>. <i>Don't leave any stone unturned</i>) and you'll eventually end up finding the foothold for each box.</p>
 
-<p>It is important to proceed methodically because there are alot of services to enumerate in the exam. You don't want to be unsure if you forgot to do something and loose time enumerating the same thing twice.</p>
+<p>It is important to proceed methodically because <b>there are a lot of services to enumerate in the exam</b>. You don't want to be unsure if you forgot to do something and loose time enumerating the same thing twice.</p>
 
 <p>You'll most probably be blocked at some points in the exam. Don't panick and review your methodology: what did you miss? what could you try?</p>
 
-<p>Beware of the proctoring software that offsec uses during the exam. It took alot of resources on my computer (streaming 3 screens and a webcam). You should take that into account because when I launched my enumeration script my CPU peaked regularly at 100% because of this proctoring software running in parallel. That didn't lead to freezing or other problems but my computer was clearly pushed.</p>
+<p>You should take into account that the proctoring software as it may take a lot of resources on my computer (for me: streaming 3 screens and a webcam). When I launched my enumeration script my CPU peaked regularly at 100% because of the proctoring software. That didn't lead to freezing or other problems but my computer was clearly pushed.</p>
 
 <h2>7) Report</h2>
 
-Don't underestimate the time needed to write your report: I took ~7 hours to make it while I thought I would be done in 2-3 hours. You really don't want to write you report in a hurry like I did. My advice would be to sleep some hours after the exam and immediately start writing your report afterwards. I used offensive security templates.
+<p><br>Don't underestimate the time needed to write your report</b>: I took ~7 hours to make it while I thought I would be done in 2-3 hours. You really don't want to write you report in a hurry like I did. My advice would be to sleep some hours after the exam and immediately start writing your report afterwards. I used offensive security templates.</p>
 
-I wish you the best of luck. If I did it, so can you!
+<p>I wish you the best of luck. If I did it, so can you!</p>
