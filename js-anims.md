@@ -4,9 +4,9 @@ layout: games
 permalink: /js-anims
 ---
 
-<p><h1>Animations I made with <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer">p5.js</a></h1></p>
+<h1>Animations I made with <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer">p5.js</a></h1>
 
-<p>Birds</p>
+<h2>Birds</h2>
 
 <p><iframe src="https://editor.p5js.org/Plotkine/present/NYcHr4h5V" width="750px" height="750px" frameBorder="0" title="birds"></iframe></p>
 

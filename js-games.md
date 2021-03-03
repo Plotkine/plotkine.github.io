@@ -4,7 +4,7 @@ layout: games
 permalink: /js-games
 ---
 
-<p><h1>Games I made with <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer">p5.js</a></h1></p>
+<h1>Games I made with <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer">p5.js</a></h1>
 
 <p>Note:
 - Use a real keyboard and click on the game to start interacting with it
