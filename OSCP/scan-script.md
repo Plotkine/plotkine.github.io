@@ -6,7 +6,7 @@ permalink: /OSCP/scan-script
 
 <!-- <h1>ENUMERATION SCRIPT FOR OSCP</h1> -->
 
-<p><br><img src="/OSCP/execution-example.png" alt="execution example" width=470.5px height=378.5;></p>
+<p><br><img src="/OSCP/execution-example.png" alt="execution example" width="470.5" height="378.5";></p>
 
 <h2>What is scan_script?</h2>
 
