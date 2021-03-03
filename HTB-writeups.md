@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /HTB-writeups/
-permalink: /HTB-writeups/
+title: /HTB-writeups
+permalink: /HTB-writeups
 ---
 
 To be done
