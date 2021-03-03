@@ -6,9 +6,9 @@ permalink: /OSCP/scan-script
 
 <!-- <h1>Enumeration script for OSCP</h1> -->
 
-<p><br><img src="/OSCP/execution-example.png" alt="execution example" width="800" height="auto"></p>
-
 <h1>What is scan_script?</h1>
+
+<p><br><img src="/OSCP/execution-example.png" alt="execution example" width="800" height="auto"></p>
 
 <p><br>Scan_script is a bash script I wrote for OSCP to automate port scanning and basic enumeration.</p>
 
