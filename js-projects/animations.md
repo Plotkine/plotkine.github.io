@@ -4,8 +4,8 @@ layout: games
 permalink: /js-projects/animations
 ---
 
-/js-projects
- ├── <a href="/js-projects/animations">animations</a>
+<a href="/js-projects">/js-projects</a>
+ ├── <mark>animations</mark>
  └── <a href="/js-projects/games">games</a>
 
 <h1>Animations I made with <a href="https://p5js.org/" target="_blank" rel="noopener noreferrer">p5.js</a></h1>
