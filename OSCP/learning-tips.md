@@ -34,7 +34,7 @@ permalink: /OSCP/learning-tips
 
 <h2>3) Write your own enumeration script</h2>
 
-<p><br>From day 1 in the labs try to <b>automate (f.e. bash or python script) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs.</p>
+<p><br>From day 1 in the labs try to <b>automate (f.e. bash or python script) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much things as possible instead of launching the tools sequentially in your script.</p>
 
 <p>You can use or take inspiration from scripts made by others like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> but I highly recommend writing your own as you probably want your specific commands or other commands.</p>
 
@@ -60,17 +60,15 @@ I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" t
 
 <p><br>Start by focusing on the BOF box while your enumeration script is running.</br>
 
-<p>Then take your time. 24 hours is alot so <b>be methodical and enumerate everything</b> (<i>Don't leave any stone unturned</i>), and you'll eventually end up finding the foothold for each box. It is important to proceed methodically because you don't want to loose time enumerating the same thing twice because you are unsure you did all you can.</p>
+<p>Once you are done with the BOF box, keep in mind that offsec gives you enough time to do the exam, so <b>be methodical and enumerate everything</b>. <i>Don't leave any stone unturned</i>) and you'll eventually end up finding the foothold for each box.</p>
+
+<p>It is important to proceed methodically because there are alot of services to enumerate in the exam. You don't want to be unsure if you forgot to do something and loose time enumerating the same thing twice.</p>
 
 <p>You'll most probably be blocked at some points in the exam. Don't panick and review your methodology: what did you miss? what could you try?</p>
 
-<p>As people already said there are "lots of rabbit holes in the exam", meaning you'll get alot of things to enumerate and that's why you should be as methodical as you can.</p>
+<p>Beware of the proctoring software that offsec uses during the exam. It took alot of resources on my computer (streaming 3 screens and a webcam). You should take that into account because when I launched my enumeration script my CPU peaked regularly at 100% because of this proctoring software running in parallel. That didn't lead to freezing or other problems but my computer was clearly pushed.</p>
 
-During my exam my focus dropped dramatically after ~15 hours in, also due to the fact that I couldn't sleep the night before. I took regular breaks (around 5 minutes every hour, and a longer break to eat).
-
-One thing I wasn't expecting in the exam is that the proctoring software took alot of resources on my computer (streaming 3 screens and a webcam). You should take that into account because when I launched my enumeration script at the beginning of the exam my CPU peaked regularly at 100% because of this proctoring software running in parallel. That didn't lead to freezing or other problems but my computer was clearly pushed.
-
-7) Report
+<h2>7) Report</h2>
 
 Don't underestimate the time needed to write your report: I took ~7 hours to make it while I thought I would be done in 2-3 hours. You really don't want to write you report in a hurry like I did. My advice would be to sleep some hours after the exam and immediately start writing your report afterwards. I used offensive security templates.
 
