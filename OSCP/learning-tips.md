@@ -14,27 +14,27 @@ permalink: /OSCP/learning-tips
 
 <h2>0) About exercises/lab reports</h2>
 
-<p><br><b>I don't recommend doing the exercises and lab reports</b>, especially if you are a minimum familiar with kali linux tools like I was.</p>
+<p><br><b>I don't recommend doing the exercises and lab reports</b> if you have some pentesting basics like I did have.</p>
 
-<p>Since the 2020 update there are a lot of exercises (~90 sets iirc); taking you at least 15 days if you work hard on it (I remember offsec mentioning ~100 hours of work to complete them).</p>
+<p>Since the 2020 update there are ~90 sets of exercises; taking you at least 15 days if you work full time on it (Offsec mentions ~100 hours of work to complete them).</p>
 
-<p>If you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so those 10 points can really make the difference. But in my opinion, time spent doing exercises and lab reports could be better spent in the labs rooting boxes.</p>
+<p>If you do quick maths you'll realize it's easy to be stuck at 65 or 67.5 points in the exam so those 10 points can really make the difference. However imo, time spent doing exercises and lab reports are better spent in the labs rooting boxes.</p>
 
 <h2>1) Root as many boxes as you can</h2>
 
-<p><br>Rooting boxes is when you really learn (more than reading the PDF) I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes as those topics were not covered in the exam at the time I passed it.</p>
+<p><br>Rooting boxes is what makes you learn the most. I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes as those topics were not covered in the exam at the time I passed it.</p>
 
 <p>Don't spend too much time on a single box. If you don't find a foothold, use PWK forum and discord communities like <a href="https://discord.com/invite/mEtEFhp" target="_blank" rel="noopener noreferrer">InfoSecPrep</a> to get hints. I never spent more than 2-3 hours without asking for hints.</p>
 
 <h2>2) Take smart notes</h2>
 
-<p><br>More importantly than rooting boxes: <b>take notes about what you learned rooting each boxes and the mistakes you did</b>. The thing to keep in mind when taking notes about a box is that they should help you overcome the difficulties you encountered doing the box when facing a similar box. If you don't do this you'll fall in the same traps over and over again.</p>
+<p><br>More important than rooting boxes: <b>take notes about what you learned when rooting each box and about the things you didn't see</b>. What you should keep in mind when taking notes about a box is that these notes should help you overcome the difficulties you encountered doing the box when facing a similar box. If you don't do this you'll fall in the same traps over and over again.</p>
 
-<p>Don't take stupid screenshot notes that you'll never read again. Write searchable notes describing how you rooted each box and the commands you used.</p>
+<p>Don't take stupid screenshot notes that you'll never read again. Take efficient, searchable notes describing how you rooted each box and the commands you used.</p>
 
 <h2>3) Write your own enumeration script</h2>
 
-<p><br>From day 1 in the labs try to <b>automate (f.e. bash or python script) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much as possible instead of launching the tools sequentially in your script.</p>
+<p><br>From day 1 in the labs try to <b>automate (with bash or python) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much things as possible in your script.</p>
 
 <p>You can use or take inspiration from scripts made by others like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> but I highly recommend writing your own as it is a good scripting exercise and you may want to run your specific commands with your specific options.</p>
 
@@ -44,7 +44,7 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script" target="_
 
 <h2>4) TJNull OSCP-like boxes list and privesc resources</h2>
 
-<p><br>You don't necessarily have to do all the boxes from the HTB and vulnhub lists but these boxes are really good training to prepare for the exam. You may come across the same kind of tricks or exploits in the exam.</p>
+<p><br>You don't necessarily have to do all the boxes from the <a href="https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159" target="_blank" rel="noopener noreferrer">HTB list</a> but these boxes are really good training to prepare for the exam. You may come across the same kind of tricks or exploits in the exam.</p>
 
 <p>For privesc I recommend taking those two udemy courses:
 - <a href="https://www.udemy.com/course/windows-privilege-escalation/" target="_blank" rel="noopener noreferrer">Windows privilege escalation</a>
