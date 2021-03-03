@@ -6,6 +6,7 @@ url: "https://plotkine.github.io"
 header_pages:
   - index.md
   - whoami.md
+  - HTB-writeups.md
   - OSCP.md
   - js-games.md
   - js-anims.md
