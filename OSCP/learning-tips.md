@@ -4,8 +4,8 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
-/OSCP
- ├── <a href="/OSCP/learning-tips">Learning tips</a>
+<b>/OSCP</b>
+ ├── <b><a href="/OSCP/learning-tips">Learning tips</a></b>
  └── <a href="/OSCP/scan-script">Enumeration script</a>
 
 <h1>My background before enrolling into PWK</h1>
