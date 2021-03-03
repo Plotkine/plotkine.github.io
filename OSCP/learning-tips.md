@@ -73,4 +73,4 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script" target="_
 <p><br><b>Don't underestimate the time needed to write your report</b>: I took ~7 hours to make it while I thought I would be done in 2-3 hours. You really don't want to write you report in a hurry like I did so my advice would be to sleep some hours after the exam and immediately start writing your report afterwards. I used <a href="https://github.com/whoisflynn/OSCP-Exam-Report-Template" target="_blank" rel="noopener noreferrer">this template</a>.
 </p>
 
-<p>I wish you the best of luck. If I did it, so can you!</p>
+<p><b>I wish you the best of luck. If I did it, so can you!</b></p>
