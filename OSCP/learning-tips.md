@@ -6,7 +6,7 @@ permalink: /OSCP/learning-tips
 
 /OSCP
  ├── <mark>learning tips</mark>
- └── <mark><a href="/OSCP/scan-script">scan_script</a>
+ └── <a href="/OSCP/scan-script">scan_script</a>
 
 <h1>My background before enrolling into PWK</h1>
 
