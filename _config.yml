@@ -4,7 +4,7 @@ baseurl: "/"
 url: "https://plotkine.github.io"
 
 header_pages:
-  - index.md
+  - home.md
   - whoami.md
   - HTB-writeups.md
   - OSCP.md
