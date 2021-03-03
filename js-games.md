@@ -4,7 +4,7 @@ layout: games
 permalink: /js-games
 ---
 
-# Games I made with p5.js
+# Games I made with <a href="https://p5js.org/">p5.js</a>
 
 ## Snake
 
