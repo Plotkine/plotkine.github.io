@@ -37,5 +37,6 @@ window.addEventListener("keydown", function(e) {
     }, false); 
               
     el_down.innerHTML = "Scrolling from arrow keys is disabled."; 
-  }          
+  }
+  gfg_Run();          
 </script>
