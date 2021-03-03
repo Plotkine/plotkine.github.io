@@ -6,11 +6,11 @@ permalink: /OSCP/learning-tips
 
 <h1>My learning tips to OSCP students</h1>
 
-<h2>-1) My background before enrolling into PWK</h2>
+<h1>-1) My background before enrolling into PWK</h1>
 
 eJPT, eCPPT and hacked a few HTB machines
 
-<h2>0) Exercises/lab report</h2>
+<h1>0) Exercises/lab report</h1>
 
 <p>Whether you do exercises and lab report is your personal choice. Since the 2020 update there are alot of exercises (~90 sets if I remember correctly); taking you at least 15 days if you work hard on it.</p>
 
