@@ -16,4 +16,4 @@ permalink: /js-anims
 
 ## Game of life
 
-<iframe src="https://editor.p5js.org/Plotkine/present/kmFef9ExW" width="340px" height="340px" frameBorder="1" title="birds"></iframe>
+<iframe src="https://editor.p5js.org/Plotkine/present/I0OtMYTba" width="750px" height="750px" frameBorder="1" title="birds"></iframe>
