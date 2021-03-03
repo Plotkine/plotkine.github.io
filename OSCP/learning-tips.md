@@ -7,7 +7,7 @@ permalink: /OSCP/learning-tips
 <h1>LEARNING TIPS FOR OSCP STUDENTS</h1>
 
 <h2>-1) My background before enrolling into PWK</h2>
-<br><br>
+<br>
 - rooted a few HTB boxes
 - knowledge of: python, linux basics
 - certifications: eJPT, eCPPT
