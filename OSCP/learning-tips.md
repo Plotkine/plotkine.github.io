@@ -66,7 +66,7 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script" target="_
 
 <p>You'll most probably be blocked at some points in the exam. Don't panick and review your methodology: what did you miss? what could you try?</p>
 
-<p>You should take into account that the proctoring software as it may take a lot of resources on my computer (for me: streaming 3 screens and a webcam). When I launched my enumeration script my CPU peaked regularly at 100% because of the proctoring software. That didn't lead to freezing or other problems but my computer was clearly pushed.</p>
+<p>You should take into account that the proctoring software can take a lot of resources on your computer (for me: streaming 3 screens and a webcam). When I launched my enumeration script my CPU peaked regularly at 100% because of it; that didn't lead big lags but my computer was clearly pushed.</p>
 
 <h2>7) Report</h2>
 
