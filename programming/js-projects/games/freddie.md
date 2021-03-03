@@ -1,15 +1,11 @@
 ---
-title: /games
+title: /programming/js-projects/games/freddie
 layout: games
-permalink: /programming/js-projects/games/???
+permalink: /programming/js-projects/games/freddie
 ---
 
 <p>- Use a real keyboard and click on the game to start interacting with it
 - I must disable page scrolling with arrows</p>
-
-<h2>Snake</h2>
-
-<iframe src="https://editor.p5js.org/Plotkine/present/wt0UfN_ce" width="500px" height="575px" frameBorder="0" title="snake"></iframe>
 
 <h2>Freddie game</h2>
 
