@@ -52,23 +52,25 @@ I wrote a post about the enumeration script I made <a href="/OSCP/scan-script" t
 
 <h2>3) Write an enumeration methodology</h2>
 
-<p><br>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, write an enumeration methodology and personal tips to not fall in the same traps as the ones you falled into.</p>
+<p><br>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, <b>write an enumeration methodology</b> and personal tips to not fall in the same traps as the ones you falled into.</p>
 
 <p>This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
 
-5) Tooling
+<h2>5) Tooling</h2>
 
-For enumeration: You can use autorecon by tib3rius: https://github.com/Tib3rius/AutoRecon. I personnally made my own bash enumeration script to add more enumeration commands and to use the commands I prefer but this tool helped me alot in the labs.
+<p><br>For enumeration: You can use <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> althought I recommend writing your own script.</p>
 
-For privilege escalation: winPEAS, LinEnum.sh, lse.sh, linpeas, https://gtfobins.github.io/, windows-exploit-suggestor.py,... (follow the two udemy courses and you should be fine)
+<p>For privilege escalation: winPEAS, LinEnum.sh, lse.sh, linpeas.sh, gtfobins, windows-exploit-suggestor.py,... (follow the two udemy courses and you should be fine).</p>
 
-6) Exam
+<h2>6) Exam</h2>
 
-Take your time. Be methodical and enumerate everything you can, you'll end up finding the way in. As people use to say: "don't leave any stone unturned".
+<p><br>Start by focusing on the BOF box while your enumeration script is running.</br>
 
-You'll be most probably blocked at some points in the exam. Don't panick and review your methodology: what did you miss? what could you try?
+<p>Then take your time. 24 hours is alot so <b>be methodical and enumerate everything</b> (<i>Don't leave any stone unturned</i>), and you'll eventually end up finding the foothold for each box. It is important to proceed methodically because you don't want to loose time enumerating the same thing twice because you are unsure you did all you can.</p>
 
-As people already said there are "lots of rabbit holes in the exam", meaning you'll get alot of things to enumerate and that's why you should be as methodical as you can.
+<p>You'll most probably be blocked at some points in the exam. Don't panick and review your methodology: what did you miss? what could you try?</p>
+
+<p>As people already said there are "lots of rabbit holes in the exam", meaning you'll get alot of things to enumerate and that's why you should be as methodical as you can.</p>
 
 During my exam my focus dropped dramatically after ~15 hours in, also due to the fact that I couldn't sleep the night before. I took regular breaks (around 5 minutes every hour, and a longer break to eat).
 
