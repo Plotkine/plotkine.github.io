@@ -1,6 +1,6 @@
 ---
 title: /programming/js-projects/games/freddie
-layout: games
+layout: programmings
 permalink: /programming/js-projects/games/freddie
 ---
 

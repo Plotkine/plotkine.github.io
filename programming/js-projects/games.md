@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: programmings
 title: /programming/js-projects/games
 permalink: /programming/js-projects/games
 ---

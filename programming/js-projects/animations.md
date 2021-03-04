@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: programmings
 title: /programming/js-projects/animations
 permalink: /programming/js-projects/animations
 ---

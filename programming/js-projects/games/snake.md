@@ -1,6 +1,6 @@
 ---
 title: /programming/js-projects/games/snake
-layout: games
+layout: programmings
 permalink: /programming/js-projects/games/snake
 ---
 

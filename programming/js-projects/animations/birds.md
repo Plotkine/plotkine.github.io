@@ -1,6 +1,6 @@
 ---
 title: /programming/js-projects/animations/birds
-layout: games
+layout: programmings
 permalink: /programming/js-projects/animations/birds
 ---
 

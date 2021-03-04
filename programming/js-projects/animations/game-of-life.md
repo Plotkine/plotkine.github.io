@@ -1,6 +1,6 @@
 ---
 title: /programming/js-projects/animations/game-of-life
-layout: games
+layout: programmings
 permalink: /programming/js-projects/animations/game-of-life
 ---
 
