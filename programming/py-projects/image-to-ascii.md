@@ -1,7 +1,7 @@
 ---
-title: /programming/js-projects/animations/birds
+title: /programming/py-projects/image-to-ascii
 layout: programmings
-permalink: /programming/js-projects/animations/birds
+permalink: /programming/py-projects/image-to-ascii
 ---
 
 To be done
