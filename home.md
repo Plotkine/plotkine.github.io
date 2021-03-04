@@ -4,7 +4,7 @@ layout: homepages
 permalink: /
 ---
 
-<!-- <h1>Welcome to my blog!</h1> -->
+<!-- <h1>Welcome to my blog!!</h1> -->
 
 <p>plot@kine:~$ whoami<mark> </mark></p>
 
