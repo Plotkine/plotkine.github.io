@@ -4,7 +4,7 @@ layout: programmings
 permalink: /programming/js-projects/games/snake
 ---
 
-<h1>Snake</h1>
+<!-- <h1>Snake</h1> -->
 
 <p>- Use a real keyboard and click on the game to start interacting with it
 - I must disable page scrolling with arrows</p>

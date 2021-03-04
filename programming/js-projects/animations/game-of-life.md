@@ -4,7 +4,7 @@ layout: programmings
 permalink: /programming/js-projects/animations/game-of-life
 ---
 
-<h1>Game of life</h1>
+<!-- <h1>Game of life</h1> -->
 
 <iframe src="https://editor.p5js.org/Plotkine/present/I0OtMYTba" width="750px" height="750px" frameBorder="1" title="game of life"></iframe>
 
