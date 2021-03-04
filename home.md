@@ -6,7 +6,7 @@ permalink: /
 
 <h1>Welcome to my blog!</h1>
 
-<p><br>plot@kine:~$ whoami<mark> </mark></p>
+<p><br>plot@kine:~$ whoami<mark><blink> </blink></mark></p>
 
 <p>I am an information security enthusiast interested in:
 - Pentesting (network, AD, webapp)
