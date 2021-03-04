@@ -1,12 +1,8 @@
 ---
-layout: page
+layout: OSCPs
 title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
-
-<a href="/OSCP">/OSCP</a>
- ├── <mark>learning tips</mark>
- └── <a href="/OSCP/scan-script">scan_script</a>
 
 <h1>My background before enrolling into PWK</h1>
 

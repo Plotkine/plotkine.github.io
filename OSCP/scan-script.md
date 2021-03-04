@@ -1,12 +1,8 @@
 ---
-layout: page
+layout: OSCPs
 title: /OSCP/scan-script
 permalink: /OSCP/scan-script
 ---
-
-<a href="/OSCP">/OSCP</a>
- ├── <a href="/OSCP/learning-tips">learning tips</a>
- └── <mark>scan_script</mark>
 
 <h1>What is scan_script?</h1>
 
