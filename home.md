@@ -6,9 +6,9 @@ permalink: /
 
 <h3>Welcome to my blog!!</h3>
 
-<p><span style="color:red;">plot@k1ne</span>:<span style="color:grey;">~</span>$ whoami</p>
+<p><br><mark>plot@kine:~$ whoami</mark></p>
 
-<p><br>I am an information security enthusiast interested in:
+<p>I am an information security enthusiast interested in:
 - Pentesting (network, AD, webapp)
 - Incident response
 - Programming</p>
