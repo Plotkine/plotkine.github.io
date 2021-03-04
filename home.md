@@ -1,6 +1,6 @@
 ---
 title: /home
-layout: games
+layout: homepages
 permalink: /
 ---
 
