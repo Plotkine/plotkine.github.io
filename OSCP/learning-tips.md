@@ -54,7 +54,7 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
 
 <p>This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
 
-<h1>Exam</h1>
+<h1>The exam</h1>
 
 <p><br>Start by focusing on the BOF box while your enumeration script is running.</p>
 
@@ -66,7 +66,7 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
 
 <p>You should take into account that the proctoring software can take a lot of resources on your computer (for me: streaming 3 screens and a webcam). When I launched my enumeration script my CPU peaked regularly at 100% because of it; that didn't lead big lags but my computer was clearly pushed.</p>
 
-<h1>Report</h1>
+<h1>The report</h1>
 
 <p><br><b>Don't underestimate the time needed to write your report</b>: I took ~7 hours to make it while I thought I would be done in 2-3 hours. You really don't want to write you report in a hurry like I did so my advice would be to sleep some hours after the exam and immediately start writing your report afterwards. I used <a href="https://github.com/whoisflynn/OSCP-Exam-Report-Template" target="_blank" rel="noopener noreferrer">this template</a>.
 </p>
