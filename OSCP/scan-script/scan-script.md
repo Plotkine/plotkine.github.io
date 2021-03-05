@@ -10,7 +10,7 @@ permalink: /OSCP/scan-script
 
 <p><br>I designed the code so that it:
 - runs in parallel commands that can be run in parallel (using background processes)
-- runs commands requiring other commands outputs as soon (using <i>wait</i>s) as these outputs are generated</p>
+- runs commands requiring other commands outputs as soon (using <i>wait</i>s) as these outputs are generated
 
 <img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p>
 
