@@ -12,7 +12,7 @@ permalink: /OSCP/scan-script
 
 <p>I designed the code in a way that:
 - run in parallel commands that can be (using background processes)
-- commands requiring other commands' output are run as soon as they can be (using <i>wait</i>s)</p>
+- commands requiring other commands outputs are run as soon as they can be (using <i>wait</i>s)</p>
 
 <p>Here is a graph of the script's flow:
 
