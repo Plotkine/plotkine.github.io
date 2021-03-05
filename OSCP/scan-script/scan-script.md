@@ -6,9 +6,7 @@ permalink: /OSCP/scan-script
 
 <h1>Description</h1>
 
-<p><br><a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">Scan_script</a> is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam.</p>
-
-<p>Execution example:
+<p><br><a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">Scan_script</a> is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam.
 
 <img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
 
