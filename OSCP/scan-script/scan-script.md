@@ -14,4 +14,32 @@ permalink: /OSCP/scan-script
 
 <img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p>
 
+                     +--------------------+                                   +----------------+
+                     | UDP version/script |                                   | TCP vuln scan  |
+                     |     open ports     |                                   |   open ports   |
+                     +--------------------+                                   +----------------+
+                       ^                                                        ^
+                       |                                                        |
+                       |                                                        |
++--------------+     +--------------------+     +-----------------------+     +----------------+     +--------------------+     +--------------+
+| OS detection |     |      UDP scan      |     |         START         |     |                |     | TCP version/script |     | HTTP(S) enum |
+|  open ports  | <-- |                    | <-- |                       | --> |                | --> |     open ports     | --> |  open ports  |
++--------------+     +--------------------+     +-----------------------+     |                |     +--------------------+     +--------------+
+  ^                    |                          |                           |    TCP SYN     |
+  |                    |                          |                           |   all ports    |
+  |                    v                          v                           |                |
+  |                  +--------------------+     +-----------------------+     |                |     +--------------------+
+  |                  |       Netcat       |     |        TCP SYN        |     |                |     |       Netcat       |
+  |                  |   open UDP ports   |     |   common web ports    |  +- |                | --> |   open TCP ports   |
+  |                  +--------------------+     +-----------------------+  |  +----------------+     +--------------------+
+  |                                               |                        |    |
+  |                                               |                        |    |
+  |                                               v                        |    v
+  |                                             +-----------------------+  |  +----------------+
+  |                                             |     HTTP(S) enum      |  |  |    Smb enum    |
+  |                                             | open common web ports |  |  | open smb ports |
+  |                                             +-----------------------+  |  +----------------+
+  |                                                                        |
+  +------------------------------------------------------------------------+
+
 <!-- <p>Source code and instructions on how to use this script <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p> -->
