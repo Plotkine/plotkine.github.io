@@ -26,7 +26,7 @@ permalink: /programming/bash/scan-script
                        |                                                        |
                        |                                                        |
 +--------------+     +--------------------+     +-----------------------+     +----------------+     +--------------------+     +--------------+
-| OS detection |     |      UDP scan      |     |         <mark>START</mark>         |     |                |     | TCP version/script |     | HTTP(S) enum |
+| OS detection |     |      UDP scan      |     |         <mark><b>START</b></mark>         |     |                |     | TCP version/script |     | HTTP(S) enum |
 |  open ports  | <-- |                    | <-- |                       | --> |                | --> |     open ports     | --> |  open ports  |
 +--------------+     +--------------------+     +-----------------------+     |                |     +--------------------+     +--------------+
   ^                    |                          |                           |    TCP SYN     |
