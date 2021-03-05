@@ -8,7 +8,7 @@ permalink: /
 
 <h1>plot@kine:~$ whoami<mark> </mark></h1>
 
-<p>I am an information security enthusiast based in Brussels and interested in:
+<p><br>I am an information security enthusiast based in Brussels and interested in:
 - Pentesting (network, AD, webapp)
 - Incident response</p>
 
