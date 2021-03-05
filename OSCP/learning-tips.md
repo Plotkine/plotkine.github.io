@@ -4,6 +4,10 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
+<h1>What this page is about</h1>
+
+This post describes learning tips I'd give to PWK students.
+
 <h1>My background before enrolling into PWK</h1>
 
 <p><br>- linux basics, python programming
