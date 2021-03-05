@@ -6,7 +6,7 @@ permalink: /OSCP/learning-tips
 
 <h1>What this page is about</h1>
 
-This post describes learning tips I'd give to PWK students.
+<p><br>This post describes learning tips I'd give to PWK students.</p>
 
 <h1>My background before enrolling into PWK</h1>
 
