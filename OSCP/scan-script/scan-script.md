@@ -26,7 +26,7 @@ permalink: /OSCP/scan-script
                        |                                                        |
                        |                                                        |
 +--------------+     +--------------------+     +-----------------------+     +----------------+     +--------------------+     +--------------+
-| OS detection |     |      UDP scan      |     |         <mark>START</mark>         |     |                |     | TCP version/script |     | HTTP(S) enum |
+| OS detection |     |      UDP scan      |     |         <br>START</br>         |     |                |     | TCP version/script |     | HTTP(S) enum |
 |  open ports  | <-- |                    | <-- |                       | --> |                | --> |     open ports     | --> |  open ports  |
 +--------------+     +--------------------+     +-----------------------+     |                |     +--------------------+     +--------------+
   ^                    |                          |                           |    TCP SYN     |
