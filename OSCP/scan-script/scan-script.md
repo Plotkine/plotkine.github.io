@@ -8,7 +8,9 @@ permalink: /OSCP/scan-script
 
 <img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
 
-<p>I designed the code so that it:
+<h1>Design</h1>
+
+<p><br>I designed the code so that it:
 - runs in parallel commands that can be run in parallel (using background processes)
 - runs commands requiring other commands outputs as soon (using <i>wait</i>s) as these outputs are generated
 
