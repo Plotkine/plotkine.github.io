@@ -8,7 +8,7 @@ permalink: /
 
 <h1>plotkine@website:~$ whoami<mark> </mark></h1>
 
-<p>I am an information security enthusiast interested in:
+<p>I am an information security enthusiast based in Brussels and interested in:
 - Pentesting (network, AD, webapp)
 - Incident response</p>
 
