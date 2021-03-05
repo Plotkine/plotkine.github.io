@@ -11,7 +11,7 @@ permalink: /OSCP/scan-script
 <p>I wrote it in bash instead of python because I wanted to practice bash scripting.
 
 <p>I designed the code in a way that:
-- commands that can be run in parallel are run in parallel (as background processes)
+- run in parallel commands that can be (using background processes)
 - commands requiring other commands' output are run as soon as they can be (using <i>wait</i>s)</p>
 
 <p>Here is a graph of the script's flow:
