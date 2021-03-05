@@ -14,4 +14,6 @@ permalink: /OSCP/scan-script
 
 <p>I spent quite alot of time designing the enumeration process in a way that commands are run as soon as they can be (some require previous results to be launched, for example the existence of a web service on a particular port to start bruteforcing its directories) and what commands can be run in parallel.</p>
 
+<p><img src="/OSCP/scan-script-flow.png" alt="script flow" width="800" height="auto"></p>
+
 <p>Source code and instructions on how to use it <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p>
