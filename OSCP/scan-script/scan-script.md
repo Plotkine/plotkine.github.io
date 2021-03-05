@@ -14,32 +14,32 @@ permalink: /OSCP/scan-script
 
 <img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p>
 
-                     +--------------------+                                   +----------------+
-                     | UDP version/script |                                   | TCP vuln scan  |
-                     |     open ports     |                                   |   open ports   |
-                     +--------------------+                                   +----------------+
-                       ^                                                        ^
-                       |                                                        |
-                       |                                                        |
-+--------------+     +--------------------+     +-----------------------+     +----------------+     +--------------------+     +--------------+
-| OS detection |     |      UDP scan      |     |         START         |     |                |     | TCP version/script |     | HTTP(S) enum |
-|  open ports  | <-- |                    | <-- |                       | --> |                | --> |     open ports     | --> |  open ports  |
-+--------------+     +--------------------+     +-----------------------+     |                |     +--------------------+     +--------------+
-  ^                    |                          |                           |    TCP SYN     |
-  |                    |                          |                           |   all ports    |
-  |                    v                          v                           |                |
-  |                  +--------------------+     +-----------------------+     |                |     +--------------------+
-  |                  |       Netcat       |     |        TCP SYN        |     |                |     |       Netcat       |
-  |                  |   open UDP ports   |     |   common web ports    |  +- |                | --> |   open TCP ports   |
-  |                  +--------------------+     +-----------------------+  |  +----------------+     +--------------------+
-  |                                               |                        |    |
-  |                                               |                        |    |
-  |                                               v                        |    v
-  |                                             +-----------------------+  |  +----------------+
-  |                                             |     HTTP(S) enum      |  |  |    Smb enum    |
-  |                                             | open common web ports |  |  | open smb ports |
-  |                                             +-----------------------+  |  +----------------+
-  |                                                                        |
-  +------------------------------------------------------------------------+
+<p>                     +--------------------+                                   +----------------+<br>
+                     | UDP version/script |                                   | TCP vuln scan  |<br>
+                     |     open ports     |                                   |   open ports   |<br>
+                     +--------------------+                                   +----------------+<br>
+                       ^                                                        ^<br>
+                       |                                                        |<br>
+                       |                                                        |<br>
++--------------+     +--------------------+     +-----------------------+     +----------------+     +--------------------+     +--------------+<br>
+| OS detection |     |      UDP scan      |     |         START         |     |                |     | TCP version/script |     | HTTP(S) enum |<br>
+|  open ports  | <-- |                    | <-- |                       | --> |                | --> |     open ports     | --> |  open ports  |<br>
++--------------+     +--------------------+     +-----------------------+     |                |     +--------------------+     +--------------+<br>
+  ^                    |                          |                           |    TCP SYN     |<br>
+  |                    |                          |                           |   all ports    |<br>
+  |                    v                          v                           |                |<br>
+  |                  +--------------------+     +-----------------------+     |                |     +--------------------+<br>
+  |                  |       Netcat       |     |        TCP SYN        |     |                |     |       Netcat       |<br>
+  |                  |   open UDP ports   |     |   common web ports    |  +- |                | --> |   open TCP ports   |<br>
+  |                  +--------------------+     +-----------------------+  |  +----------------+     +--------------------+<br>
+  |                                               |                        |    |<br>
+  |                                               |                        |    |<br>
+  |                                               v                        |    v<br>
+  |                                             +-----------------------+  |  +----------------+<br>
+  |                                             |     HTTP(S) enum      |  |  |    Smb enum    |<br>
+  |                                             | open common web ports |  |  | open smb ports |<br>
+  |                                             +-----------------------+  |  +----------------+<br>
+  |                                                                        |<br>
+  +------------------------------------------------------------------------+</p>
 
 <!-- <p>Source code and instructions on how to use this script <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p> -->
