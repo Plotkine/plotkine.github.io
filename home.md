@@ -8,7 +8,7 @@ permalink: /
 
 <h1>plot@kine:~$ whoami<mark> </mark></h1>
 
-<p>I am an information security enthusiast interested in:
+<p><br>I am an information security enthusiast interested in:
 - Pentesting (network, AD, webapp)
 - Incident response
 - Programming</p>
