@@ -8,11 +8,14 @@ permalink: /programming/python/image-to-ascii
 
 <h1>Example</h1>
 
-<p><br>animals.jpgg
+<p><br>animals.jpg
 
+<figure>
 <img src="/programming/python/animals.jpg" alt="animals" width="400" height="auto">
+<figcaption>An elephant at sunset</figcaption>
+</figure>
 
-command: ./image_to_ascii animals.jpg 140 light</p>
+command: ./image_to_ascii image.jpg 140 light</p>
 
 <p><small>:XXXSXXXXXSs~~s~~~~~;:----------------------------,,,,,,,,,,,,,,,,,,,,,,,,----:::::::::;:::;;;::::::::::::------:--:-:::-------------------:
 ;XXXS9&##9SSXSssss~~;:-------,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,---::::::::::::::------------,,,,,-------------------------:::::
