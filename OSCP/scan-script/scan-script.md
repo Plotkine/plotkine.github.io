@@ -14,7 +14,7 @@ permalink: /OSCP/scan-script
 - commands that can be run in parallel are run in parallel (as background processes)
 - commands that require output of other commands are run as soon as they can be (using <i>wait</i>s)</p>
 
-<p>Here is a flow graph of the script:
+<p>Here is a graph of the script's flow:
 
 <img src="/OSCP/scan-script/flow.png" alt="script flow" width="1200" height="auto"></p>
 
