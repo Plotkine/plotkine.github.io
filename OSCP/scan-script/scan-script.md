@@ -16,7 +16,7 @@ permalink: /OSCP/scan-script
 
 <p><br>I designed the code so that it:
 - runs in parallel commands that can be run in parallel (using background processes)
-- runs commands requiring other commands outputs as soon as they can be run (using <i>wait</i>s)</p>
+- runs commands requiring other commands outputs as soon as they can be run (using <i>wait</i>s)
 
 <!--  <img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p> -->
 
@@ -46,7 +46,7 @@ permalink: /OSCP/scan-script
   |                                             | open common web ports |  |  | open smb ports |
   |                                             +-----------------------+  |  +----------------+
   |                                                                        |
-  +------------------------------------------------------------------------+</div>
+  +------------------------------------------------------------------------+</div></p>
 
 <p>Graph made with <a href="https://github.com/ironcamel/Graph-Easy" target="_blank" rel="noopener noreferrer">Graph-Easy</a>.</p>
 
