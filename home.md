@@ -13,3 +13,5 @@ permalink: /
 - Incident response</p>
 
 <p><br><iframe src="https://editor.p5js.org/Plotkine/present/kmFef9ExW" width="340px" height="340px" frameBorder="1" title="gameOfLife"></iframe></p>
+
+<a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank" rel="noopener noreferrer">website template</a>
