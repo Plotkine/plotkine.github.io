@@ -8,8 +8,6 @@ permalink: /OSCP/scan-script
 
 <img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
 
-<figure><img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"><figcaption>Execution example</figcaption></figure>
-
 <h1>Design</h1>
 
 <p><br>I designed the code so that it:
