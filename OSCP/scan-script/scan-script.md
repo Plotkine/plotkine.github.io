@@ -16,6 +16,6 @@ permalink: /OSCP/scan-script
 - runs in parallel commands that can be run in parallel (using background processes)
 - runs commands requiring other commands outputs as soon (using <i>wait</i>s) as these outputs are generated</p>
 
-<img src="/OSCP/scan-script/flow.png" alt="script flow" width="1000" height="auto"></p>
+<img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p>
 
 <!-- <p>Source code and instructions on how to use this script <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p> -->
