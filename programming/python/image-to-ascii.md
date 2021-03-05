@@ -1,7 +1,7 @@
 ---
 layout: programmings
-title: /programming/bash/scan-script
-permalink: /programming/bash/scan-script
+title: /programming/python/image-to-ascii
+permalink: /programming/python/image-to-ascii
 ---
 
 <h1>What this post is about</h1>
