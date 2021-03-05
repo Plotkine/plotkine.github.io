@@ -1,7 +1,7 @@
 ---
-title: /programming/js-projects/games/snake
+title: /programming/javascript/games/snake
 layout: programmings
-permalink: /programming/js-projects/games/snake
+permalink: /programming/javascript/games/snake
 ---
 
 <!-- <h1>Snake</h1> -->

@@ -1,7 +1,7 @@
 ---
-title: /programming/py-projects/image-to-ascii
+title: /programming/python/image-to-ascii
 layout: programmings
-permalink: /programming/py-projects/image-to-ascii
+permalink: /programming/python/image-to-ascii
 ---
 
 To be done

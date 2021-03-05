@@ -1,7 +1,7 @@
 ---
-title: /programming/js-projects/animations/game-of-life
+title: /programming/javascript/animations/game-of-life
 layout: programmings
-permalink: /programming/js-projects/animations/game-of-life
+permalink: /programming/javascript/animations/game-of-life
 ---
 
 <!-- <h1>Game of life</h1> -->

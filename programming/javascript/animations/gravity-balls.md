@@ -1,7 +1,7 @@
 ---
-title: /programming/js-projects/animations/gravity-balls
+title: /programming/javascript/animations/gravity-balls
 layout: programmings
-permalink: /programming/js-projects/animations/gravity-balls
+permalink: /programming/javascript/animations/gravity-balls
 ---
 
 <!-- <h1>Gravity balls</h1> -->

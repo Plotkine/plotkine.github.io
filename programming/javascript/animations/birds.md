@@ -1,7 +1,7 @@
 ---
-title: /programming/js-projects/animations/birds
+title: /programming/javascript/animations/birds
 layout: programmings
-permalink: /programming/js-projects/animations/birds
+permalink: /programming/javascript/animations/birds
 ---
 
 <!-- <h1>Birds</h1> -->

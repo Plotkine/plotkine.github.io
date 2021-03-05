@@ -1,7 +1,7 @@
 ---
-title: /programming/js-projects/games/freddie
+title: /programming/javascript/games/freddie
 layout: programmings
-permalink: /programming/js-projects/games/freddie
+permalink: /programming/javascript/games/freddie
 ---
 
 <!-- <h1>Freddie game</h1> -->
