@@ -16,7 +16,7 @@ permalink: /OSCP/scan-script
 
 <!--  <img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p> -->
 
-                     +--------------------+                                   +----------------+
+<small>                     +--------------------+                                   +----------------+
                      | UDP version/script |                                   | TCP vuln scan  |
                      |     open ports     |                                   |   open ports   |
                      +--------------------+                                   +----------------+
@@ -42,7 +42,7 @@ permalink: /OSCP/scan-script
   |                                             | open common web ports |  |  | open smb ports |
   |                                             +-----------------------+  |  +----------------+
   |                                                                        |
-  +------------------------------------------------------------------------+</p>
+  +------------------------------------------------------------------------+</small></p>
 
 <p>Graph made with <a href="https://github.com/ironcamel/Graph-Easy" target="_blank" rel="noopener noreferrer">Graph-Easy</a>.</p>
 
