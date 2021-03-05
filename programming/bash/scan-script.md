@@ -1,7 +1,7 @@
 ---
-layout: OSCPs
-title: /OSCP/scan-script
-permalink: /OSCP/scan-script
+layout: programmings
+title: /programming/bash/scan-script
+permalink: /programming/bash/scan-script
 ---
 
 <p><a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">Scan_script</a> is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam.
