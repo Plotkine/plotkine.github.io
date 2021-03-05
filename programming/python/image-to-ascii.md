@@ -10,7 +10,7 @@ permalink: /programming/python/image-to-ascii
 
 <p><br><img src="/programming/python/animals.jpg" alt="animals" width="400" height="auto">
 
-./image_to_ascii animals.jpg 140 light</p>
+command: ./image_to_ascii animals.jpg 140 light</p>
 
 <h5>:XXXSXXXXXSs~~s~~~~~;:----------------------------,,,,,,,,,,,,,,,,,,,,,,,,----:::::::::;:::;;;::::::::::::------:--:-:::-------------------:<br>
 ;XXXS9&##9SSXSssss~~;:-------,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,---::::::::::::::------------,,,,,-------------------------:::::<br>
