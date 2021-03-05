@@ -4,7 +4,7 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
-<h1>What this page is about</h1>
+<h1>What this post is about</h1>
 
 <p><br>This post describes learning tips I'd give to PWK students.</p>
 
