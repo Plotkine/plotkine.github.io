@@ -14,7 +14,7 @@ permalink: /OSCP/scan-script
 
 <!--  <img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p> -->
 
-<p>                     +--------------------+                                   +----------------+
+                     +--------------------+                                   +----------------+
                      | UDP version/script |                                   | TCP vuln scan  |
                      |     open ports     |                                   |   open ports   |
                      +--------------------+                                   +----------------+
