@@ -4,8 +4,6 @@ title: /OSCP/scan-script
 permalink: /OSCP/scan-script
 ---
 
-<!--<h1>What is scan_script?</h1>-->
-
 <p><br> Scan_script is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam.<p>
 
 <p><img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
