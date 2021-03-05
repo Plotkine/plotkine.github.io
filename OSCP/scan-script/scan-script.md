@@ -4,7 +4,9 @@ title: /OSCP/scan-script
 permalink: /OSCP/scan-script
 ---
 
-<p><br><a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">Scan_script</a> is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam.
+<p><br><a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">Scan_script</a> is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam.</p>
+
+<p>Execution example:
 
 <img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
 
@@ -12,7 +14,7 @@ permalink: /OSCP/scan-script
 - runs in parallel commands that can be (using background processes)
 - runs commands requiring other commands outputs as soon as possible (using <i>wait</i>s)</p>
 
-<p>Here is the script flow:
+<p>Script flow:
 
 <img src="/OSCP/scan-script/flow.png" alt="script flow" width="1000" height="auto"></p>
 
