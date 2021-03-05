@@ -46,6 +46,6 @@ permalink: /programming/bash/scan-script
   |                                                                        |
   +------------------------------------------------------------------------+</p>
 
-<p>Graph made with <a href="https://github.com/ironcamel/Graph-Easy" target="_blank" rel="noopener noreferrer">Graph-Easy</a></p>
+<p>Graph made with <a href="https://github.com/ironcamel/Graph-Easy" target="_blank" rel="noopener noreferrer">Graph-Easy</a>.</p>
 
 <!-- <p>Source code and instructions on how to use this script <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p> -->
