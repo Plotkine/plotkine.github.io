@@ -8,7 +8,7 @@ permalink: /programming/python/image-to-ascii
 
 <h1>Example</h1>
 
-<p><br><img src="/programming/python/image.jpg" alt="image" width="400" height="auto"></a></p>
+<p><br><img src="/programming/python/image.jpg" alt="image" width="400" height="auto"></p>
 
 <p>command: ./image_to_ascii image.jpg 200 light</p>
 
