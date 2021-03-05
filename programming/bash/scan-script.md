@@ -1,5 +1,5 @@
 ---
-layout: OSCPs
+layout: programmings
 title: /programming/bash/scan-script
 permalink: /programming/bash/scan-script
 ---
