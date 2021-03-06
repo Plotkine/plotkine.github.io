@@ -4,7 +4,7 @@ layout: homepages
 permalink: /
 ---
 
-<!-- <h1>Welcome to my blog!</h1> -->
+<!-- <h1>Welcome to my blog</h1> -->
 
 <p>[website under construction; please visit on computer]</p>
 
