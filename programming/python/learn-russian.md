@@ -12,4 +12,4 @@ Source code <a href="https://github.com/Plotkine/games_animations/tree/master/le
 
 <h1>Execution example</h1>
 
-<p><img src="/programming/python/learn-russian.gif" alt="learn-russian gif"></p>
+<p><iframe src="/programming/python/learn-russian.gif" frameBorder="1" title ="learn-russian.gif"></iframe></p>
