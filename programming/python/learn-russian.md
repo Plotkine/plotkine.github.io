@@ -8,4 +8,4 @@ permalink: /programming/python/learn-russian
 
 <a href="https://github.com/Plotkine/games_animations/tree/master/learn_russian" target="_blank" rel="noopener noreferrer">source code</a>
 
-<img src="/programming/python/image.jpg" alt="image" width="400" height="auto"></p>
+<img src="/programming/python/learn-russian.gif" alt="image" width="400" height="auto"></p>
