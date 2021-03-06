@@ -6,7 +6,7 @@ permalink: /OSCP/scan-script
 
 <h1>Introduction</h1>
 
-<p>Scan_script is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam. It is a wrapper around different tools like nmap, netcat, enum4linux, smbclient, smbmap, dirsearch, gobuster, nikto. Directories named after the IPs of the targets are created, containing the outputs of the script as they are generated.</p>
+<p>Scan_script is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam. It is a wrapper around different tools like nmap, netcat, enum4linux, smbclient, smbmap, dirsearch, gobuster, nikto. Directories named after the IPs of the targets are created by the script in the current directory, containing the outputs of the scans performed by the script.</p>
 
 <p>Source code <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
