@@ -32,9 +32,9 @@ permalink: /OSCP-tips
 
 I wrote a post about my enumeration script <a href="/programming/bash/scan-script">here</a>.
 
-<h1>TJNull OSCP-like boxes list and privesc resources</h1>
+<h1>External resources to prepare for the exam</h1>
 
-<p>You don't necessarily have to do all the boxes from the <a href="https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159" target="_blank" rel="noopener noreferrer">HTB list</a> but these boxes are really good training to prepare for the exam. You may come across the same kind of tricks or exploits in the exam.</p>
+<p>You don't necessarily have to do all the boxes from the <a href="https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159" target="_blank" rel="noopener noreferrer">TJNull OSCP-like HTB boxes list</a> but these boxes are a really good resource to train for the exam. You may come across the same kind of tricks or exploits in the exam.</p>
 
 <p>For privesc I recommend taking those two udemy courses:
 - <a href="https://www.udemy.com/course/windows-privilege-escalation/" target="_blank" rel="noopener noreferrer">Windows privilege escalation</a>
@@ -53,4 +53,6 @@ I wrote a post about my enumeration script <a href="/programming/bash/scan-scrip
 <p><b>Don't underestimate the time needed to write your report</b>: I took ~7 hours to make it while I thought I would be done in 2-3 hours. You really don't want to write you report in a hurry like I did so my advice would be to sleep some hours after the exam and immediately start writing your report afterwards. I used <a href="https://github.com/whoisflynn/OSCP-Exam-Report-Template" target="_blank" rel="noopener noreferrer">this template</a>.
 </p>
 
-<p><b>I wish you the best of luck. If I did it, so can you!</b></p>
+<h1>Conclusion</h1>
+
+<p>I wish you the best of luck. If I did it, so can you!</b>
