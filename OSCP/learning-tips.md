@@ -4,9 +4,11 @@ title: /OSCP/learning-tips
 permalink: /OSCP/learning-tips
 ---
 
-<h1>What this post is about</h1>
+<h1>Introduction</h1>
 
-<p><br>This post describes learning tips I'd give to PWK students.</p>
+<p><br><a href="https://www.offensive-security.com/pwk-oscp/" target="_blank" rel="noopener noreferrer">OSCP</a> is a penetration testing certification I passed in june 2020.
+
+This post describes learning tips I'd give to people enrolled in PWK, the corresponding training.</p>
 
 <h1>My background before enrolling into PWK</h1>
 

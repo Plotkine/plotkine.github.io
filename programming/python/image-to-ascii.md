@@ -4,7 +4,9 @@ title: /programming/python/image-to-ascii
 permalink: /programming/python/image-to-ascii
 ---
 
-<p>Image_to_ascii is a python script I made to convert images to ascii.
+<h1>Introduction</h1>
+
+<p><br>Image_to_ascii is a python script I made to convert images to ascii.
 
 <a href="https://github.com/Plotkine/image_to_ascii" target="_blank" rel="noopener noreferrer">source code</a></p>
 
