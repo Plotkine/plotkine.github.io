@@ -12,7 +12,7 @@ permalink: /programming/bash/scan-script
 
 <h1>Execution example</h1>
 
-<p><img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
+<p><img src="/programming/bash/execution-example.png" alt="execution example" width="800" height="auto"></p>
 
 <h1>Design</h1>
 
