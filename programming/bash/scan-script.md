@@ -15,6 +15,7 @@ permalink: /programming/bash/scan-script
 <h1>Design</h1>
 
 <p><br>The code is designed so that:
+- partial results are outputted as soon as possible
 - commands that can be run in parallel are run in parallel (using background processes)
 - commands requiring other commands outputs are run as soon as they can be run (using <i>wait</i>s)
 
