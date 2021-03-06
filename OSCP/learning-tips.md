@@ -24,19 +24,13 @@ permalink: /OSCP/learning-tips
 
 <h1>Take smart notes</h1>
 
-<p>More important than rooting boxes: <b>take notes about what you learned when rooting each box and about the things you didn't see</b>. What you should keep in mind when taking notes about a box is that these notes should help you overcome the difficulties you encountered doing the box when facing a similar box. If you don't do this you'll fall in the same traps over and over again.</p>
-
-<p>Don't take stupid screenshot notes that you'll never read again. Take efficient, searchable notes describing how you rooted each box and the commands you used.</p>
+<p>More important than rooting boxes: <b>take notes about what you learned when rooting each box and about the things you didn't see</b>. What you should keep in mind when taking notes about a box is that these notes should help you overcome the difficulties you encountered doing the box when facing a similar box. If you don't do this you'll fall in the same traps over and over again. Don't take stupid screenshot notes that you'll never read again. Take efficient, searchable notes describing how you rooted each box and the commands you used.</p>
 
 <h1>Write your own enumeration script</h1>
 
-<p>From day 1 in the labs try to <b>automate (with bash or python) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much things as possible in your script.</p>
+<p>From day 1 in the labs try to <b>automate (with bash or python) the scanning phase (nmap) and the stuff you do everytime you come across particular services (http(s), smb, ftp,...)</b> and update your script as you progress through the labs. You should try to parallelize as much things as possible in your script. You can use or take inspiration from scripts made by others like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> but I highly recommend writing your own as it is a good scripting exercise and you may want to run your specific commands with your specific options.Once you approach the end of your lab time, launch your enumeration script against all the boxes you rooted to check if it's getting the right infos to spot the foothold (if its easily spottable).</p>
 
-<p>You can use or take inspiration from scripts made by others like <a href="https://github.com/Tib3rius/AutoRecon" target="_blank" rel="noopener noreferrer">AutoRecon</a> but I highly recommend writing your own as it is a good scripting exercise and you may want to run your specific commands with your specific options.</p>
-
-<p>Once you approach the end of your lab time, launch your enumeration script against all the boxes you rooted to check if it's getting the right infos to spot the foothold (if its easily spottable).</p>
-
-I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
+I wrote a post about my enumeration script <a href="/programming/bash/scan-script">here</a>.
 
 <h1>TJNull OSCP-like boxes list and privesc resources</h1>
 
@@ -48,21 +42,11 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
 
 <h1>Write an enumeration methodology</h1>
 
-<p>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, <b>write an enumeration methodology</b> and personal tips to not fall in the same traps as the ones you falled into.</p>
-
-<p>This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
+<p>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, <b>write an enumeration methodology</b> and personal tips to not fall in the same traps as the ones you falled into. This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
 
 <h1>The exam</h1>
 
-<p>Start by focusing on the BOF box while your enumeration script is running.</p>
-
-<p>Once you are done with the BOF box, keep in mind that offsec gives you enough time to do the exam, so <b>be methodical and enumerate everything</b>. <i>Don't leave any stone unturned</i>) and you'll eventually end up finding the foothold for each box.</p>
-
-<p>It is important to proceed methodically because <b>there are a lot of services to enumerate in the exam</b>. You don't want to be unsure if you forgot to do something and loose time enumerating the same thing twice.</p>
-
-<p>You'll most probably be blocked at some points in the exam. Don't panick and review your methodology: what did you miss? what could you try?</p>
-
-<p>You should take into account that the proctoring software can take a lot of resources on your computer (for me: streaming 3 screens and a webcam). When I launched my enumeration script my CPU peaked regularly at 100% because of it; that didn't lead big lags but my computer was clearly pushed.</p>
+<p>Start by focusing on the BOF box while your enumeration script is running. Once you are done with the BOF box, keep in mind that offsec gives you enough time to do the exam, so <b>be methodical and enumerate everything</b>. <i>Don't leave any stone unturned</i>) and you'll eventually end up finding the foothold for each box. It is important to proceed methodically because <b>there are a lot of services to enumerate in the exam</b>. You don't want to be unsure if you forgot to do something and loose time enumerating the same thing twice. You'll most probably be blocked at some points in the exam. Don't panick and review your methodology: what did you miss? what could you try? You should take into account that the proctoring software can take a lot of resources on your computer (for me: streaming 3 screens and a webcam). When I launched my enumeration script my CPU peaked regularly at 100% because of it; that didn't lead big lags but my computer was clearly pushed.</p>
 
 <h1>The report</h1>
 
