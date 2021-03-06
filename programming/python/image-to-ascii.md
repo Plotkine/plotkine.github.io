@@ -10,7 +10,7 @@ permalink: /programming/python/image-to-ascii
 
 Source code <a href="https://github.com/Plotkine/image_to_ascii" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
-<h1>Example</h1>
+<h1>Execution example</h1>
 
 <p><br><img src="/programming/python/image.jpg" alt="image" width="400" height="auto">
 
