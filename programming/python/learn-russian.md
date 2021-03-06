@@ -8,7 +8,7 @@ permalink: /programming/python/learn-russian
 
 <p><br>Learn-russian is an ascii game I made in python to learn russian words.
 
-<a href="https://github.com/Plotkine/games_animations/tree/master/learn_russian" target="_blank" rel="noopener noreferrer">source code</a></p>
+Source code <a href="https://github.com/Plotkine/games_animations/tree/master/learn_russian" target="_blank" rel="noopener noreferrer">here</a></p>.
 
 <h1>Execution example</h1>
 
