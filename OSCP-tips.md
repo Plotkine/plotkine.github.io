@@ -6,7 +6,7 @@ permalink: /OSCP-tips
 
 <h1>Introduction</h1>
 
-<p><a href="https://www.offensive-security.com/pwk-oscp/" target="_blank" rel="noopener noreferrer">OSCP</a> is a penetration testing certification I passed in june 2020. This post describes learning tips I'd give to people enrolled in PEN-200 (formerly PWK), the corresponding training.</p>
+<p><a href="https://www.offensive-security.com/pwk-oscp/" target="_blank" rel="noopener noreferrer">OSCP</a> is a penetration testing certification I passed in june 2020. This post describes learning tips regarding the corresponding PEN-200 training (formerly PWK) and the exam.</p>
 
 <h1>My background before enrolling into PWK</h1>
 
