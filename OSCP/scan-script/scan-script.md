@@ -12,18 +12,18 @@ permalink: /OSCP/scan-script
 
 <h1>Execution example</h1>
 
-<p><br><img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
+<p><img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto"></p>
 
 <h1>Design</h1>
 
-<p><br>The code is designed so that:
+<p>The code is designed so that:
 - partial results are outputted as soon as possible
 - commands that can be run in parallel are run in parallel (using background processes)
-- commands requiring other commands outputs are run as soon as they can be run (using <i>wait</i>s)
+- commands requiring other commands outputs are run as soon as they can be run (using <i>wait</i>s)</p>
 
 <!--  <img src="/OSCP/scan-script/flow.png" alt="script flow" width="800" height="auto"></p> -->
 
-<!--<div class="container-ascii-graph">-->                     +--------------------+                                   +----------------+
+<p>                     +--------------------+                                   +----------------+
                      | UDP version/script |                                   | TCP vuln scan  |
                      |     open ports     |                                   |   open ports   |
                      +--------------------+                                   +----------------+
