@@ -8,9 +8,9 @@ permalink: /OSCP/learning-tips
 
 <p><br><a href="https://www.offensive-security.com/pwk-oscp/" target="_blank" rel="noopener noreferrer">OSCP</a> is a penetration testing certification I passed in june 2020.
 
-This post describes learning tips I'd give to people enrolled in PEN-200, the corresponding training.</p>
+This post describes learning tips I'd give to people enrolled in PEN-200 (formerly PWK), the corresponding training.</p>
 
-<h1>My background before enrolling into PEN-200</h1>
+<h1>My background before enrolling into PWK</h1>
 
 <p><br>- linux basics, python programming
 - rooted a few HTB boxes
@@ -28,7 +28,7 @@ This post describes learning tips I'd give to people enrolled in PEN-200, the co
 
 <p><br>Rooting boxes is what makes you learn the most. I rooted around 35-40 boxes, skipping dependent boxes/AD boxes/client-side attacks boxes as those topics were not covered in the exam at the time I passed it.</p>
 
-<p>Don't spend too much time on a single box. If you don't find a foothold, use PEN-200 forum and discord communities like <a href="https://discord.com/invite/mEtEFhp" target="_blank" rel="noopener noreferrer">InfoSecPrep</a> to get hints. I never spent more than 2-3 hours without asking for hints.</p>
+<p>Don't spend too much time on a single box. If you don't find a foothold, use PWK forum and discord communities like <a href="https://discord.com/invite/mEtEFhp" target="_blank" rel="noopener noreferrer">InfoSecPrep</a> to get hints. I never spent more than 2-3 hours without asking for hints.</p>
 
 <h1>Take smart notes</h1>
 
@@ -56,7 +56,7 @@ I wrote a post about my enumeration script <a href="/OSCP/scan-script">here</a>.
 
 <h1>Write an enumeration methodology</h1>
 
-<p><br>From your notes of pwned PEN-200/HTB/vulnhub boxes and privesc courses, <b>write an enumeration methodology</b> and personal tips to not fall in the same traps as the ones you falled into.</p>
+<p><br>From your notes of pwned PWK/HTB/vulnhub boxes and privesc courses, <b>write an enumeration methodology</b> and personal tips to not fall in the same traps as the ones you falled into.</p>
 
 <p>This is crucial as <b>OSCP is all about enumeration</b>. You should have a methodical way of enumerating boxes and their services.</p>
 
