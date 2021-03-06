@@ -54,4 +54,4 @@ I wrote a post about my enumeration script <a href="/programming/bash/scan-scrip
 
 <h1>Conclusion</h1>
 
-<p>I wish you the best of luck. If I did it, so can you!</b>
+<p>I wish you the best of luck. If I did it, so can you!</p>
