@@ -8,7 +8,7 @@ permalink: /
 
 [website under construction; please visit on computer]
 
-<h1>plot@kine:~$ whoami<mark> </mark></h1>
+<h1>plot@kine:~$ whoami</h1>
 
 <p><br>I am an information security enthusiast, based in Brussels and interested in:
 - Pentesting (network, AD, webapp)
