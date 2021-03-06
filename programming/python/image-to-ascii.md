@@ -14,7 +14,7 @@ Source code <a href="https://github.com/Plotkine/image_to_ascii" target="_blank"
 
 <p><br><img src="/programming/python/image.jpg" alt="image" width="400" height="auto">
 
-<b>./image_to_ascii image.jpg 200 light</b>
+./image_to_ascii image.jpg 200 light
 
 <small>-9S999XXS999SXSxxs~sss~~s~~ss;;:------------------------------------------,,,-,,,,,,,,,,,,,,,,,,,,,,,,,---------::::::::::;;;;:::;~;;~;::::::::::::::::::-----::::::::::::::-----:::-----:--------,----:
 -S99XXX9B####9XSxxxssxxxxxx~~;:-----------------,-----,,,,,------,,,,,,-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-------:::;::::;;;;:;;;::;;;::::-:::---------------------------------------------------::::::;;
