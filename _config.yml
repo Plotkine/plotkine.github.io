@@ -6,7 +6,7 @@ url: "https://plotkine.github.io"
 header_pages:
   - home.md
   - HTB-writeups.md
-  - OSCP.md
+  - OSCP-tips.md
   - programming.md
   - contact.md
 
