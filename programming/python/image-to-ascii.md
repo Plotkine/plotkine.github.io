@@ -8,7 +8,7 @@ permalink: /programming/python/image-to-ascii
 
 <p><br>Image_to_ascii is a python script I made to convert images to ascii.
 
-Source code <a href="https://github.com/Plotkine/image_to_ascii" target="_blank" rel="noopener noreferrer">here</a></p>.
+Source code <a href="https://github.com/Plotkine/image_to_ascii" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
 <h1>Example</h1>
 

@@ -10,7 +10,7 @@ permalink: /programming/bash/scan-script
 
 <img src="/OSCP/scan-script/execution-example.png" alt="execution example" width="800" height="auto">
 
-<a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">source code</a></p>
+Source code <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
 <h1>Design</h1>
 
