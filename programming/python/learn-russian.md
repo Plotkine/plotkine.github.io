@@ -10,4 +10,4 @@ permalink: /programming/python/learn-russian
 
 <h1>Execution example</h1>
 
-<p><br><img src="/programming/python/learn-russian.gif" alt="image" width="400" height="auto"></p>
+<p><br><img src="/programming/python/learn-russian.gif" alt="learn-russian"></p>
