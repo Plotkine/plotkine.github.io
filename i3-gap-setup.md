@@ -14,7 +14,7 @@ permalink: /i3-gap-setup
 
 <p>We start by downloading <a href="https://raw.githubusercontent.com/Plotkine/kali-config/main/wallpaper.jpg" target="_blank" rel="noopener noreferrer">this image</a> at <code>~/Pictures/wallpaper.jpg</code>.
 
-<img src="/i3-gap-setup/saving_wallpaper.jpg" alt="saving wallpaper"</p>
+<img src="/i3-gap-setup/saving_wallpaper.jpg" alt="saving wallpaper">
 
 Then we install different tools that will be used by i3 to configure the wallpaper, execute applications, allow terminal transparency:
 <br><code>sudo apt install feh -y</code>
