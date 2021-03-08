@@ -7,6 +7,7 @@ header_pages:
   - home.md
   - HTB-writeups.md
   - OSCP-tips.md
+  - i3-gap-setup.md
   - programming.md
   - contact.md
 
