@@ -17,20 +17,20 @@ permalink: /i3-gap-setup
 <img src="/i3-gap-setup/saving_wallpaper.jpg" alt="saving wallpaper"</p>
 
 Then we install different tools that will be used by i3 to configure the wallpaper, execute applications, allow terminal transparency:
-<code>sudo apt install feh -y</code>
+<br><code>sudo apt install feh -y</code>
 <code>sudo apt install rofi -y</code>
 <code>sudo apt install compton -y</code>
 
 We finish by installing i3-gaps itself:
-<code>sudo apt install i3-gaps</code></p>
+<br><code>sudo apt install i3-gaps</code></p>
 
 <h1>Configuration files</h1>
 
 <p>Let us create the necessary foler with this command: <code>mkdir -p ~/.config/i3</code>. Then we can put the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_config" target="_blank" rel="noopener noreferrer">i3 general configuration file</a> at <code>~/.config/i3/config</code>.</p>
 
-<p>Now we can place the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">status bar configuration file</a></p> at <code>/etc/i3status.conf</code> (this file is owned by root).</p>
+<p>Now we can place the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">status bar configuration file</a> at <code>/etc/i3status.conf</code> (this file is owned by root).</p>
 
-<h1>Start an i3 session<h1>
+<h1>Start an i3 session</h1>
 
 <p>Logout:
 <img src="/i3-gap-setup/logout.jpg" alt="logout">
@@ -56,4 +56,4 @@ Modify configuration files according to your needs. For example, I set up:
 - burp suite to open in workspace 9 and open at startup
 [command]
 
-Read i3 documentation https://i3wm.org/docs/userguide.html</p>
+Read the <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">i3 documentation</a>.</p>
