@@ -107,10 +107,6 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <h1> TGT negociation </h1>
 
-<! --<h2>1. Client <-> Authentication Server</h2>
-
-<h3>1.1 Client -> Authentication Server</h3> -->
-
 <p>+-------------+                +----------------+
 |   User's    |  TGT request   | Authentication |
 | workstation | -------------> |     Server     |
@@ -122,7 +118,7 @@ After this negociation, client is authenticated to the service and sends its TGS
 - TGServer name/ID
 - requested TGT lifetime</p>
 
-<!-- <h3>1.2 Client <- Authentication Server</h3> -->
+<p>AS checks if client is in the KDC database. If found, AS generates a random session key K_{C-TGServer}.</p>
 
 <p>+-------------+                 +----------------+
 |   User's    |   TGT response  | Authentication |
