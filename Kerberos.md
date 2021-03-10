@@ -14,7 +14,9 @@ permalink: /Kerberos
 
 <h1>Summary of Kerberos negociations</h1>
 
-<p>+----------------+                        +--------------------+                        +-----------------+
+<p>When a user wants to use an service on a server, he provides a password. From there three negociations take place:
+
++----------------+                        +--------------------+                        +-----------------+
 | Authentication |  1. TGT negociation    |       User's       |  2. TGS negociation    | Ticket Granting |
 |     Server     | <--------------------> |    workstation     | <--------------------> |     Server      |
 +----------------+                        +--------------------+                        +-----------------+
