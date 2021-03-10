@@ -29,9 +29,7 @@ permalink: /Kerberos
                                           |       server       |
                                           +--------------------+</p>
 
-<p>A key is generated that will be used to negociate a Ticket Granting Ticket (TGT) with an Authentication Server (AS). This TGT will in turn be used to negociate a Ticket Granting Service (TGService) with a Ticket Granting Server (TGServer). Finally, this TGService will be used by the client to authenticate itself to the service.</p>
-
-<p>These negociations take place with cryptographic algorithms to avoid unauthorized clients to use the service.</p>
+<p>These three negociations take place with cryptographic algorithms to avoid unauthorized clients to use the service.</p>
 
 <h1>Terminology</h1>
 
