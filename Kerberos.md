@@ -14,9 +14,9 @@ permalink: /Kerberos
 
 <h1>Summary of Kerberos negociations</h1>
 
-<p>After a user provides his password to use a service implementing Kerberos authentication, a Ticket Granting Ticket (TGT) is requested, allowing a Ticket Granting Service (TGS) to be requested. This TGS is then used to authorize the user on the application.
+<p>After a user provides his password to use a service implementing Kerberos authentication, a Ticket Granting Ticket (TGT) is requested, allowing a Ticket Granting Service (TGS) to be requested. This TGS is then used to authorize the user on the application.</p>
 
-+----------------+                        +--------------------+                        +-----------------+
+<!-- +----------------+                        +--------------------+                        +-----------------+
 | Authentication |  1. TGT negociation    |       User's       |  2. TGS negociation    | Ticket Granting |
 |     Server     | <--------------------> |    workstation     | <--------------------> |     Server      |
 +----------------+                        +--------------------+                        +-----------------+
@@ -27,7 +27,7 @@ permalink: /Kerberos
                                           +--------------------+
                                           |    Application     |
                                           |       server       |
-                                          +--------------------+</p>
+                                          +--------------------+</p> -->
 
 <p>These three negociations take place with cryptographic algorithms to avoid unauthorized clients to use the service.</p>
 
