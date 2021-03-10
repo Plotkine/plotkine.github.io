@@ -103,22 +103,33 @@ After this negociation, client has:
 
 After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized. -->
 
-<h1>Kerberos steps in more details<h1>
+<!-- <h1>Kerberos steps in more details<h1> -->
 
-<h2>1. Client <-> Authentication Server</h2>
+<h1> TGT negociation </h1>
 
-<h3>1.1 Client -> Authentication Server</h3>
+<! --<h2>1. Client <-> Authentication Server</h2>
 
-Client sends a (plaintext) TGT request to the AS, containing:
+<h3>1.1 Client -> Authentication Server</h3> -->
+
+<p>+-------------+                +----------------+
+|   User's    |  TGT request   | Authentication |
+| workstation | -------------> |     Server     |
++-------------+                +----------------+</p>
+
+<p>The TGT request is not encrypted and contains:
 - client name/ID
 - client IP address
 - TGServer name/ID
-- requested TGT lifetime
+- requested TGT lifetime</p>
 
-<h3>1.2 Client <- Authentication Server</h3>
+<!-- <h3>1.2 Client <- Authentication Server</h3> -->
 
-AS checks if client is in the KDC database.
-If found, AS generates a random session key K_{C-TGServer}.
+<p>+----------------+                 +-------------+
+| Authentication |   TGT response  |   User's    |
+|     Server     | <-------------- | workstation |
++----------------+                 +-------------+</p>
+
+<p>AS checks if client is in the KDC database. If found, AS generates a random session key K_{C-TGServer}.</p>
 
 AS sends the <b>TGT (Ticket Granting Ticket)</b>, a message encrypted with K_TGServer, containing:
 - client name/ID
