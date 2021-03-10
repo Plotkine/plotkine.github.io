@@ -6,25 +6,23 @@ permalink: /Kerberos
 
 <h1>To do</h1>
 
-Add explanation "ski stations" from the book (+ add in reference).
+<p>Add explanation "ski stations" from the book (+ add in reference).</p>
 
 <h1>Introduction</h1>
 
-This post describes the different negocitations that take place when a client wants to authenticate to a service that implements Kerberos authentication.
+<p>This post describes the different negocitations that take place when a client wants to authenticate to a service that implements Kerberos authentication.</p>
 
-<h1>Kerberos in a few words</h1>
+<h1>Summary of Kerberos negociations</h1>
 
-In order for a client to use a service implementing Kerberos authentication, a client must have a valid Ticket Granting Service (TGService).
+<!--<p>To use a service implementing Kerberos authentication, a client must have a valid Ticket Granting Service (TGService). To get this TGService, the client must negociate with a Ticket Granting Server (TGServer), providing a Ticket Granting Ticket (TGT). To get this TGT, the client must have a valid client key and negociate with an Authentication Server (AS). To have this valid client key, the client must provide the right password.</p>-->
 
-In order to get this TGService, the client must negociate with a Ticket Granting Server (TGServer), providing a Ticket Granting Ticket (TGT).
+<p>When a client wants to use a service implementing Kerberos authentication, it must provide a password. From this password, a key is generated that will be used to negociate a Ticket Granting Ticket (TGT) with an Authentication Server (AS). This TGT will in turn be used to negociate a Ticket Granting Service (TGService) with a Ticket Granting Server (TGServer). Finally, this TGService will be used by the client to authenticate itself to the service.</p>
 
-In order to get this TGT, the client must have a valid client key and negociate with an Authentication Server (AS).
+<p>+----------+  salt, hash   +-----+  AS negociation   +-----+  TGServer negociation   +-----------+  Service negociation   +-------------------+
+| Password | ------------> | Key | ----------------> | TGT | ----------------------> | TGService | ---------------------> | Client authorized |
++----------+               +-----+                   +-----+                         +-----------+                        +-------------------+</p>
 
-In order to have this valid client key, the client must have provided the right password.
-
-These negociations are designed with cryptographic algorithms so that (in theory) only the authorized clients can use the said service.
-
-[schéma: password --hashing--> key --Negociation with AS--> TGT --Negociation with TGServer--> TGS --Negociation with service--> Client authorized]
+<p>These negociations are designed with cryptographic algorithms so that (in theory) only the authorized clients can use the said service.</p>
 
 <h1>Terminology</h1>
 
