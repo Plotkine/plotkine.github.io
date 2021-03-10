@@ -146,7 +146,18 @@ After this negociation, client is authenticated to the service and sends its TGS
 |        K_{C-TGServer}        |
 +------------------------------+</p>
 
-=> client cannot decrypt this TGT since it doesn't know K_TGS.</p>
+<p>+------------------------------+     +--------------------+
+| TGT (Ticket Granting Ticket) |     |                    |
+|                              |     |                    |
+|        client name/ID        |     | TGS server name/ID |
+|      client IP address       |     |    TGT lifetime    |
+|       TGServer name/ID       |     |     Timestamp      |
+|         TGT lifetime         |     |   K_{C-TGServer}   |
+|          Timestamp           |     |                    |
+|        K_{C-TGServer}        |     |                    |
++------------------------------+     +--------------------+</p>
+
+The client cannot decrypt the TGT since it doesn't know K_TGS.</p>
 
 <p>AS sends a second message to client, encrypted with K_C (client's secret key), containing:
 - TGS server name/ID
