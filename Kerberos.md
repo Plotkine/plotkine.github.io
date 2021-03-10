@@ -33,13 +33,14 @@ permalink: /Kerberos
 
 <!-- <h2>1. Client <-> Authentication Server</h2> -->
 
-<p>+--------------------+  1. TGT negociation   +-----------------------+
-| User's workstation | --------------------> | Authentication Server |
-+--------------------+                       +-----------------------+</p>
+<p>+-------------+                       +----------------+
+|   User's    |  1. TGT negociation   | Authentication |
+| workstation | --------------------> |     Server     |
++-------------+                       +----------------+</p>
 
-After this negociation, client has:
+<p>After this negociation, client has:
 - a TGT (he can't decrypt), with a certain life time, that proves to the TGServer he is who he is
-- a key K_{C-TGServer} that he can use to communicate K_S with TGServer
+- a key K_{C-TGServer} that he can use to communicate K_S with TGServer</p>
 
 <!-- <h2>2. Client <-> Ticket Granting Server</h2> -->
 
@@ -48,13 +49,18 @@ After this negociation, client has:
 | workstation | --------------------> |     Server      |
 +-------------+                       +-----------------+</p>
 
-After this negociation, client has:
+<p>After this negociation, client has:
 - a TGS (he can't decrypt), with a certain life time, that proves to the Service he is who he is
-- a key K_{C-S} that he can use to communicate with the service
+- a key K_{C-S} that he can use to communicate with the service</p>
 
 <!-- <h2>3. Client <-> Service</h2> -->
 
-After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.
+<p>+-------------+                      +-------------+
+|   User's    |  3. Authentication   | Application |
+| workstation | -------------------> |   Server    |
++-------------+                      +-------------+</p>
+
+<p>After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.</p>
 
 <h1>Terminology</h1>
 
