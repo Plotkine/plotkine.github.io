@@ -135,15 +135,16 @@ After this negociation, client is authenticated to the service and sends its TGS
 - timestamp
 - K_{C-TGServer} (TGServer session key)-->
 
-<p>+-------------------------------+
-| <b>TGT (Ticket Granting Ticket)</b>: |
-|        client name/ID         |
-|       client IP address       |
-|       TGServer name/ID        |
-|         TGT lifetime          |
-|           Timestamp           |
-|        K_{C-TGServer}         |
-+-------------------------------+</p>
+<p>+------------------------------+
+| <b>TGT (Ticket Granting Ticket)</b> |
+|                              |
+|        client name/ID        |
+|      client IP address       |
+|       TGServer name/ID       |
+|         TGT lifetime         |
+|          Timestamp           |
+|        K_{C-TGServer}        |
++------------------------------+</p>
 
 => client cannot decrypt this TGT since it doesn't know K_TGS.</p>
 
