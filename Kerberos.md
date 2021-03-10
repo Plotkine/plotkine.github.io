@@ -49,7 +49,7 @@ permalink: /Kerberos
 
 <p>After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.</p>
 
-<h1>Terminology</h1>
+<!-- <h1>Terminology</h1>
 
 <h2>Actors</h2>
 
@@ -79,9 +79,9 @@ K_{C-S} = Service session key, shared between client and service during the sess
 <h2>Tickets</h2>
 
 TGT = Ticket Granting Ticket
-TGService = Ticket Granting Service
+TGService = Ticket Granting Service -->
 
-<!-- <h1>Kerberos authentication steps</h1>
+<h1>Kerberos authentication steps</h1>
 
 Kerberos authentication consists in 3 negociations.
 
