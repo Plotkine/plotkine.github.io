@@ -10,7 +10,7 @@ permalink: /Kerberos
 
 <h1>Introduction</h1>
 
-<p>This post describes the different negocitations taking place when a client authenticates to use a service implementing Kerberos authentication.</p>
+<p>This post describes what happens under the hood when a client authenticates to use a service implementing Kerberos authentication.</p>
 
 <h1>Summary of Kerberos negociations</h1>
 
