@@ -122,7 +122,7 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <h2>1.2 TGT response</h2>
 
-<p>First part:</p>
+<p>First, the AS sends the TGT, encrypted with K_TGS:</p>
 
 <p>+-------------+     +------------------------------+     +----------------+
 |             |     | <b>TGT (Ticket Granting Ticket)</b> |     |                |
@@ -135,7 +135,9 @@ After this negociation, client is authenticated to the service and sends its TGS
 |             | <-- |        K_{C-TGServer}        | --- |                |
 +-------------+     +------------------------------+     +----------------+</p>
 
-The client cannot decrypt the TGT since it doesn't know K_TGS.</p>
+The client cannot decrypt this ticket since it doesn't know K_TGS.</p>
+
+Next, AS sends a message encrypted with K_C:
 
 <p>AS sends a second message to client, encrypted with K_C (client's secret key), containing:
 - TGS server name/ID
