@@ -147,7 +147,7 @@ After this negociation, client is authenticated to the service and sends its TGS
 |             |     | TGS server name/ID |     |                |
 |   User's    |     |    TGT lifetime    |     | Authentication |
 | workstation |     |     timestamp      |     |     server     |
-|             | --- |   K_{C-TGServer}   | --> |                |
+|             | <-- |   K_{C-TGServer}   | --- |                |
 +-------------+     +--------------------+     +----------------+</p>
 
 <p>The client can decrypt this message if and only if he has the correct K_C. This is the case only if the client provided the right password (that is used to generate K_C).
