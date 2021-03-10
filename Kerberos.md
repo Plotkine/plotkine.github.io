@@ -124,7 +124,9 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <p>First, the AS sends the TGT, encrypted with K_TGS:</p>
 
-<p>+-------------+     +------------------------------+     +----------------+
+<p>                    +------------------------------+
+                    |     encrypted with K_TGS     |
++-------------+     +------------------------------+     +----------------+
 |             |     | <b>TGT (Ticket Granting Ticket)</b> |     |                |
 |             |     |                              |     |                |
 |             |     |        client name/ID        |     |                |
