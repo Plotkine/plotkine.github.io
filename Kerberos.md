@@ -105,7 +105,7 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <!-- <h1>Kerberos steps in more details<h1> -->
 
-<h1> TGT negociation </h1>
+<h1>1. Ticket Granting Ticket negociation</h1>
 
 <p>+-------------+                +----------------+
 |   User's    |  TGT request   | Authentication |
@@ -125,25 +125,23 @@ After this negociation, client is authenticated to the service and sends its TGS
 | workstation | <-------------- |     Server     |
 +-------------+                 +----------------+</p>
 
-<p>AS checks if client is in the KDC database. If found, AS generates a random session key K_{C-TGServer}.</p>
-
-AS sends the <b>TGT (Ticket Granting Ticket)</b>, a message encrypted with K_TGServer, containing:
+<p>AS sends the <b>TGT (Ticket Granting Ticket)</b>, a message encrypted with K_TGServer, containing:
 - client name/ID
 - client IP address
 - TGS server name/ID
 - TGT lifetime (either the requested one or lower)
 - timestamp
 - K_{C-TGServer} (TGServer session key)
-=> client cannot decrypt this TGT since it doesn't know K_TGS.
+=> client cannot decrypt this TGT since it doesn't know K_TGS.</p>
 
-AS sends a second message to client, encrypted with K_C (client's secret key), containing:
+<p>AS sends a second message to client, encrypted with K_C (client's secret key), containing:
 - TGS server name/ID
 - TGT lifetime (either the requested one or lower)
 - timestamp
 - K_{C-TGServer} (TGServer session key)
 => client can decrypt this message if and only if he has the correct K_C.
 This is the case only if the client provided the right password (that is used to generate K_C).
-=> The client can get K{C-TGServer} if and only if he provided the right password.
+=> The client can get K{C-TGServer} if and only if he provided the right password.</p>
 
 <h2>2. Client <-> Ticket Granting Server</h2>
 
