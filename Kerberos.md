@@ -122,7 +122,7 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <h2>1.2 TGT response</h2>
 
-<p>First, the AS sends the TGT, encrypted with K_TGS:</p>
+<p>First, the AS sends the TGT encrypted with K_TGS:</p>
 
 <p>                    +------------------------------+
                     |     encrypted with K_TGS     |
@@ -137,17 +137,21 @@ After this negociation, client is authenticated to the service and sends its TGS
 |             | <-- |        K_{C-TGServer}        | --- |                |
 +-------------+     +------------------------------+     +----------------+</p>
 
-The client cannot decrypt this ticket since it doesn't know K_TGS.</p>
+<p>The client cannot decrypt this ticket since it doesn't know K_TGS.
 
-Next, AS sends a message encrypted with K_C:
+<p>Next, AS sends another message encrypted with K_C:</p>
 
-<p>AS sends a second message to client, encrypted with K_C (client's secret key), containing:
-- TGS server name/ID
-- TGT lifetime (either the requested one or lower)
-- timestamp
-- K_{C-TGServer} (TGServer session key)
-=> client can decrypt this message if and only if he has the correct K_C.
-This is the case only if the client provided the right password (that is used to generate K_C).
+<p>                    +--------------------+
+                    | encrypted with K_C |
++-------------+     +--------------------+     +----------------+
+|             |     | TGS server name/ID |     |                |
+|   User's    |     |    TGT lifetime    |     | Authentication |
+| workstation |     |     timestamp      |     |     server     |
+|             | --- |   K_{C-TGServer}   | --> |                |
++-------------+     +--------------------+     +----------------+</p>
+
+<p>The client can decrypt this message if and only if he has the correct K_C. This is the case only if the client provided the right password (that is used to generate K_C).
+
 => The client can get K{C-TGServer} if and only if he provided the right password.</p>
 
 <h2>2. Client <-> Ticket Granting Server</h2>
