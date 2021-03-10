@@ -14,7 +14,7 @@ permalink: /Kerberos
 
 <h1>Summary of Kerberos negociations</h1>
 
-<p>When a user wants to use an service on a server, he provides a password. From there three negociations take place:
+<p>When a user wants to use a service implementing Kerberos authentication, he must provide a password. From there a Ticket Granting Ticket (TGT) is requested, allowing a Ticket Granting Service (TGS) to be requested. This TGS is then used to authorize the user on the application.
 
 +----------------+                        +--------------------+                        +-----------------+
 | Authentication |  1. TGT negociation    |       User's       |  2. TGS negociation    | Ticket Granting |
@@ -29,7 +29,7 @@ permalink: /Kerberos
                                           |       server       |
                                           +--------------------+</p>
 
-<p>When a client wants to use a service implementing Kerberos authentication, it must provide a password. From this password, a key is generated that will be used to negociate a Ticket Granting Ticket (TGT) with an Authentication Server (AS). This TGT will in turn be used to negociate a Ticket Granting Service (TGService) with a Ticket Granting Server (TGServer). Finally, this TGService will be used by the client to authenticate itself to the service.</p>
+<p>A key is generated that will be used to negociate a Ticket Granting Ticket (TGT) with an Authentication Server (AS). This TGT will in turn be used to negociate a Ticket Granting Service (TGService) with a Ticket Granting Server (TGServer). Finally, this TGService will be used by the client to authenticate itself to the service.</p>
 
 <p>These negociations take place with cryptographic algorithms to avoid unauthorized clients to use the service.</p>
 
