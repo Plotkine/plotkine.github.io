@@ -124,10 +124,10 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <!-- <h3>1.2 Client <- Authentication Server</h3> -->
 
-<p>+----------------+                 +-------------+
-| Authentication |   TGT response  |   User's    |
-|     Server     | <-------------- | workstation |
-+----------------+                 +-------------+</p>
+<p>+-------------+                 +----------------+
+|   User's    |   TGT response  | Authentication |
+| workstation | <-------------- |     Server     |
++-------------+                 +----------------+</p>
 
 <p>AS checks if client is in the KDC database. If found, AS generates a random session key K_{C-TGServer}.</p>
 
