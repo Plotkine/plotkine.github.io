@@ -16,27 +16,14 @@ permalink: /Kerberos
 
 <p>After a user provides his password to use a service implementing Kerberos authentication, a Ticket Granting Ticket (TGT) is requested, allowing a Ticket Granting Service (TGS) to be requested. This TGS is then used to authorize the user on the application.</p>
 
-<!-- +----------------+                        +--------------------+                        +-----------------+
-| Authentication |  1. TGT negociation    |       User's       |  2. TGS negociation    | Ticket Granting |
-|     Server     | <--------------------> |    workstation     | <--------------------> |     Server      |
-+----------------+                        +--------------------+                        +-----------------+
-                                            ^
-                                            |
-                                            | 3. Authentication
-                                            v
-                                          +--------------------+
-                                          |    Application     |
-                                          |       server       |
-                                          +--------------------+</p> -->
-
 <p>These three negociations take place with cryptographic algorithms to avoid unauthorized clients to use the service.</p>
 
 <!-- <h2>1. Client <-> Authentication Server</h2> -->
 
 <p>+-------------+                       +----------------+
-|   User's    |  1. TGT negociation   | Authentication |
-| workstation | --------------------> |     Server     |
-+-------------+                       +----------------+</p>
+|   User's    |   1. TGT negociation   | Authentication |
+| workstation | <--------------------> |     Server     |
++-------------+                        +----------------+</p>
 
 <p>After this negociation, client has:
 - a TGT (he can't decrypt), with a certain life time, that proves to the TGServer he is who he is
@@ -45,9 +32,9 @@ permalink: /Kerberos
 <!-- <h2>2. Client <-> Ticket Granting Server</h2> -->
 
 <p>+-------------+                       +-----------------+
-|   User's    |  2. TGS negociation   | Ticket Granting |
-| workstation | --------------------> |     Server      |
-+-------------+                       +-----------------+</p>
+|   User's    |   2. TGS negociation   | Ticket Granting |
+| workstation | <--------------------> |     Server      |
++-------------+                        +-----------------+</p>
 
 <p>After this negociation, client has:
 - a TGS (he can't decrypt), with a certain life time, that proves to the Service he is who he is
@@ -56,9 +43,9 @@ permalink: /Kerberos
 <!-- <h2>3. Client <-> Service</h2> -->
 
 <p>+-------------+                      +-------------+
-|   User's    |  3. Authentication   | Application |
-| workstation | -------------------> |   Server    |
-+-------------+                      +-------------+</p>
+|   User's    |   3. Authentication   | Application |
+| workstation | <-------------------> |   Server    |
++-------------+                       +-------------+</p>
 
 <p>After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.</p>
 
