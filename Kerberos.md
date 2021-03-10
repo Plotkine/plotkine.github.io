@@ -29,7 +29,7 @@ permalink: /Kerberos
 
 <p>When a client wants to use a service implementing Kerberos authentication, it must provide a password. From this password, a key is generated that will be used to negociate a Ticket Granting Ticket (TGT) with an Authentication Server (AS). This TGT will in turn be used to negociate a Ticket Granting Service (TGService) with a Ticket Granting Server (TGServer). Finally, this TGService will be used by the client to authenticate itself to the service.</p>
 
-<p>These negociations are designed with cryptographic algorithms so that (in theory) only the authorized clients can use the said service.</p>
+<p>These negociations take place with cryptographic algorithms to avoid unauthorized clients to use the service.</p>
 
 <h1>Terminology</h1>
 
