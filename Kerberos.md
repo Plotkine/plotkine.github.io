@@ -125,13 +125,26 @@ After this negociation, client is authenticated to the service and sends its TGS
 | workstation | <-------------- |     Server     |
 +-------------+                 +----------------+</p>
 
-<p>AS sends the <b>TGT (Ticket Granting Ticket)</b>, a message encrypted with K_TGServer, containing:
+<p>The TGT response contains two parts:</p>
+
+<!-- <p>AS sends the <b>TGT (Ticket Granting Ticket)</b>, a message encrypted with K_TGServer, containing:
 - client name/ID
 - client IP address
 - TGS server name/ID
 - TGT lifetime (either the requested one or lower)
 - timestamp
-- K_{C-TGServer} (TGServer session key)
+- K_{C-TGServer} (TGServer session key)-->
+
+<p>+-------------------------------+
+| <b>TGT (Ticket Granting Ticket)</b>: |
+|        client name/ID         |
+|       client IP address       |
+|       TGServer name/ID        |
+|         TGT lifetime          |
+|           Timestamp           |
+|        K_{C-TGServer}         |
++-------------------------------+</p>
+
 => client cannot decrypt this TGT since it doesn't know K_TGS.</p>
 
 <p>AS sends a second message to client, encrypted with K_C (client's secret key), containing:
