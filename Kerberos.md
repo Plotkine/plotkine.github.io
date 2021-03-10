@@ -151,9 +151,9 @@ After this negociation, client is authenticated to the service and sends its TGS
 |                              |     |                    |
 |        client name/ID        |     | TGS server name/ID |
 |      client IP address       |     |    TGT lifetime    |
-|       TGServer name/ID       |     |     Timestamp      |
+|       TGServer name/ID       |     |     timestamp      |
 |         TGT lifetime         |     |   K_{C-TGServer}   |
-|          Timestamp           |     |                    |
+|          timestamp           |     |                    |
 |        K_{C-TGServer}        |     |                    |
 +------------------------------+     +--------------------+</p>
 
