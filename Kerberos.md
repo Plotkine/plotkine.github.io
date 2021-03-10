@@ -14,7 +14,7 @@ permalink: /Kerberos
 
 <h1>Summary of Kerberos negociations</h1>
 
-<p>When a user wants to use a service implementing Kerberos authentication, he must provide a password. From there a Ticket Granting Ticket (TGT) is requested, allowing a Ticket Granting Service (TGS) to be requested. This TGS is then used to authorize the user on the application.
+<p>After a user provides his password to use a service implementing Kerberos authentication, a Ticket Granting Ticket (TGT) is requested, allowing a Ticket Granting Service (TGS) to be requested. This TGS is then used to authorize the user on the application.
 
 +----------------+                        +--------------------+                        +-----------------+
 | Authentication |  1. TGT negociation    |       User's       |  2. TGS negociation    | Ticket Granting |
@@ -31,16 +31,41 @@ permalink: /Kerberos
 
 <p>These three negociations take place with cryptographic algorithms to avoid unauthorized clients to use the service.</p>
 
+<!-- <h2>1. Client <-> Authentication Server</h2> -->
+
+<p>+--------------------+  1. TGT negociation   +-----------------------+
+| User's workstation | --------------------> | Authentication Server |
++--------------------+                       +-----------------------+</p>
+
+After this negociation, client has:
+- a TGT (he can't decrypt), with a certain life time, that proves to the TGServer he is who he is
+- a key K_{C-TGServer} that he can use to communicate K_S with TGServer
+
+<!-- <h2>2. Client <-> Ticket Granting Server</h2> -->
+
+<p>+-------------+                       +-----------------+
+|   User's    |  2. TGS negociation   | Ticket Granting |
+| workstation | --------------------> |     Server      |
++-------------+                       +-----------------+</p>
+
+After this negociation, client has:
+- a TGS (he can't decrypt), with a certain life time, that proves to the Service he is who he is
+- a key K_{C-S} that he can use to communicate with the service
+
+<!-- <h2>3. Client <-> Service</h2> -->
+
+After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.
+
 <h1>Terminology</h1>
 
 <h2>Actors</h2>
 
-S: Service implementing Kerberos authentication, provided by a server
-C: Client, that would like to use the said service
+S = Service implementing Kerberos authentication, provided by a server
+C = Client, that would like to use the said service
 
-AS: Authentication Server
-TGServer: Ticket Granting Server
-KDC = AS + TGServer: Key Distribution Center
+AS = Authentication Server
+TGServer = Ticket Granting Server
+KDC = AS + TGServer = Key Distribution Center
 
 <h2>Keys</h2>
 
@@ -63,7 +88,7 @@ K_{C-S} = Service session key, shared between client and service during the sess
 TGT = Ticket Granting Ticket
 TGService = Ticket Granting Service
 
-<h1>Kerberos authentication steps</h1>
+<!-- <h1>Kerberos authentication steps</h1>
 
 Kerberos authentication consists in 3 negociations.
 
@@ -83,7 +108,7 @@ After this negociation, client has:
 
 <h2>3. Client <-> Service</h2>
 
-After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.
+After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.-->
 
 <h1>Kerberos steps in more details<h1>
 
