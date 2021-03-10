@@ -42,7 +42,7 @@ permalink: /Kerberos
 
 <!-- <h2>3. Client <-> Service</h2> -->
 
-<p>+-------------+                        +-------------+
+<p>+-------------+                         +-------------+
 |   User's    |     3. Authentication   | Application |
 | workstation | (<)-------------------> |   Server    |
 +-------------+                         +-------------+</p>
