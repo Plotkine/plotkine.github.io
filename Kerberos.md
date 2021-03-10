@@ -139,7 +139,7 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <p>The client cannot decrypt this ticket since it doesn't know K_TGS.
 
-<p>Next, AS sends another message encrypted with K_C:</p>
+Next, AS sends another message encrypted with K_C:</p>
 
 <p>                    +--------------------+
                     | encrypted with K_C |
