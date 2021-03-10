@@ -20,7 +20,7 @@ permalink: /Kerberos
 
 <!-- <h2>1. Client <-> Authentication Server</h2> -->
 
-<p>+-------------+                       +----------------+
+<p>+-------------+                        +----------------+
 |   User's    |   1. TGT negociation   | Authentication |
 | workstation | <--------------------> |     Server     |
 +-------------+                        +----------------+</p>
@@ -31,7 +31,7 @@ permalink: /Kerberos
 
 <!-- <h2>2. Client <-> Ticket Granting Server</h2> -->
 
-<p>+-------------+                       +-----------------+
+<p>+-------------+                        +-----------------+
 |   User's    |   2. TGS negociation   | Ticket Granting |
 | workstation | <--------------------> |     Server      |
 +-------------+                        +-----------------+</p>
@@ -42,10 +42,10 @@ permalink: /Kerberos
 
 <!-- <h2>3. Client <-> Service</h2> -->
 
-<p>+-------------+                      +-------------+
-|   User's    |   3. Authentication   | Application |
-| workstation | <-------------------> |   Server    |
-+-------------+                       +-------------+</p>
+<p>+-------------+                        +-------------+
+|   User's    |     3. Authentication   | Application |
+| workstation | (<)-------------------> |   Server    |
++-------------+                         +-------------+</p>
 
 <p>After this negociation, client is authenticated to the service and sends its TGService with each request to prove that he is authorized.</p>
 
