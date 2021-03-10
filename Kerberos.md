@@ -107,33 +107,22 @@ After this negociation, client is authenticated to the service and sends its TGS
 
 <h1>1. Ticket Granting Ticket negociation</h1>
 
-<p>+-------------+                +----------------+
-|   User's    |  TGT request   | Authentication |
-| workstation | -------------> |     Server     |
-+-------------+                +----------------+</p>
+<h2>1.1 TGT request</h2>
 
-<p>The TGT request is not encrypted and contains:
-- client name/ID
-- client IP address
-- TGServer name/ID
-- requested TGT lifetime</p>
+<p>The TGT request is not encrypted.</p>
+
+<p>+--------------------+     +------------------------+     +-----------------------+
+|                    |     |     client name/ID     |     |                       |
+| User's workstation |     |   client IP address    |     | Authentication server |
+|                    |     |    TGServer name/ID    |     |                       |
+|                    | --- | requested TGT lifetime | --> |                       |
++--------------------+     +------------------------+     +-----------------------+</p>
 
 <p>AS checks if client is in the KDC database. If found, AS generates a random session key K_{C-TGServer}.</p>
 
-<p>+-------------+                 +----------------+
-|   User's    |   TGT response  | Authentication |
-| workstation | <-------------- |     Server     |
-+-------------+                 +----------------+</p>
+<h2>1.2 TGT response</h2>
 
-<p>The TGT response contains two parts:</p>
-
-<!-- <p>AS sends the <b>TGT (Ticket Granting Ticket)</b>, a message encrypted with K_TGServer, containing:
-- client name/ID
-- client IP address
-- TGS server name/ID
-- TGT lifetime (either the requested one or lower)
-- timestamp
-- K_{C-TGServer} (TGServer session key)-->
+<p>First part:</p>
 
 <p>+-------------+     +------------------------------+     +----------------+
 |             |     | <b>TGT (Ticket Granting Ticket)</b> |     |                |
