@@ -22,7 +22,9 @@ Then we install different tools that will be used by i3 to configure the wallpap
 <code>sudo apt install compton -y</code>
 
 We finish by installing i3-gaps itself:
-<br><code>sudo apt install i3-gaps</code></p>
+<br><code>sudo apt install i3-gaps</code>
+
+If i3-gaps wasn't in the sources, do this: https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer</p>
 
 <h1>Configuration files</h1>
 
