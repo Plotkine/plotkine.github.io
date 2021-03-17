@@ -24,7 +24,9 @@ Then we install different tools that will be used by i3 to configure the wallpap
 We finish by installing i3-gaps itself:
 <br><code>sudo apt install i3-gaps</code>
 
-If i3-gaps wasn't in the sources, do this: https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer</p>
+If i3-gaps wasn't in the sources, do this: https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer
+
+To add i3wsr: https://github.com/roosta/i3wsr</p>
 
 <h1>Configuration files</h1>
 
