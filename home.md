@@ -6,7 +6,7 @@ permalink: /
 
 <!-- <h1>Welcome to my blog!</h1> -->
 
-<p>[website under construction; please visit on computer]</p>
+<p>[this website sucks on mobile so please visit on computer]</p>
 
 <h1>plot@kine:~$ whoami</h1>
 
