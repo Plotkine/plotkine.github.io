@@ -10,10 +10,11 @@ permalink: /
 
 <h1>plot@kine:~$ whoami</h1>
 
-<p>I am an information security enthusiast, based in Brussels and interested in:
-- Pentesting (network, AD, webapp)
-- Incident response</p>
+<p>I am an information security engineer, based in Brussels and interested in:
+- Programming
+- Penetration testing</p>
 
 <p><iframe src="https://editor.p5js.org/Plotkine/present/kmFef9ExW" width="340px" height="340px" frameBorder="1" title="gameOfLife"></iframe></p>
+<p><iframe src="https://editor.p5js.org/Plotkine/full/kmFef9ExW"></iframe></p>
 
 <!-- <a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank" rel="noopener noreferrer">website template</a> -->
