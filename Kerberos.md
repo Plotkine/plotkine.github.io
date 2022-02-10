@@ -4,10 +4,6 @@ title: /Kerberos
 permalink: /Kerberos
 ---
 
-<h1>To do</h1>
-
-<p>Add explanation "ski stations" from the book (+ add in reference).</p>
-
 <h1>Introduction</h1>
 
 <p>This post describes what happens under the hood when a client authenticates to use a service implementing Kerberos authentication.</p>
