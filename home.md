@@ -15,8 +15,3 @@ permalink: /
 - Penetration testing</p>
 
 <p><iframe src="https://editor.p5js.org/Plotkine/present/kmFef9ExW" width="360px" height="390px" frameBorder="1" title="gameOfLife"></iframe></p>
-
-<p><script>https://editor.p5js.org/app.0daa1dbb0d2b7e276bb4.js</script></p>
-
-
-<p><iframe src="https://editor.p5js.org/app.0daa1dbb0d2b7e276bb4.js" width="360px" height="390px" frameBorder="1" title="gameOfLife"></iframe></p>
