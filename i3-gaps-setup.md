@@ -1,7 +1,7 @@
 ---
-layout: i3-gap-setups
-title: /i3-gap-setup
-permalink: /i3-gap-setup
+layout: i3-gaps-setups
+title: /i3-gaps-setup
+permalink: /i3-gaps-setup
 ---
 
 This post describes how to setup the windows manager i3-gaps on kali linux. I will describe how to set it up with my custom configuration to obtain this result:
@@ -12,10 +12,10 @@ This post describes how to setup the windows manager i3-gaps on kali linux. I wi
 
 Download <a href="https://raw.githubusercontent.com/Plotkine/kali-config/main/wallpaper.jpg" target="_blank" rel="noopener noreferrer">this image</a> as <code>~/Pictures/wallpaper.jpg</code>.
 
-Install a few tools (to configure the wallpaper, execute applications and allow terminal transparency) and i3:
+Install a few tools (to configure the wallpaper, execute applications and allow terminal transparency) and i3-gaps:
 <code>sudo apt install -y feh rofi compton i3-gaps</code>
 
-If i3-gaps wasn't in the <code>/etc/apt/sources.list</code> file, do <a href="https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer" target="_blank" rel="noopener noreferrer">this</a>.
+If i3-gaps is not found, do <a href="https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer" target="_blank" rel="noopener noreferrer">this</a>.
 
 Add <a href="https://github.com/roosta/i3wsr" target="_blank" rel="noopener noreferrer">i3wsr</a>.
 
