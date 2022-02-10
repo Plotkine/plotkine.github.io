@@ -23,7 +23,7 @@ If i3-gaps wasn't in the sources file, <a href="https://launchpad.net/~kgilmer/+
 
 <h1>Configuration files</h1>
 
-Create the <code>~/.config/i3</code> and put the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_config" target="_blank" rel="noopener noreferrer">i3 general configuration file</a> at <code>~/.config/i3/config</code>. Place the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">status bar configuration file</a> at <code>/etc/i3status.conf</code>.
+Create the <code>~/.config/i3</code> and put the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_config" target="_blank" rel="noopener noreferrer">i3 general configuration file</a> at <code>~/.config/i3/config</code>. Place the status bar <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">config file</a> at <code>/etc/i3status.conf</code>.
 
 <h1>Start an i3 session</h1>
 
