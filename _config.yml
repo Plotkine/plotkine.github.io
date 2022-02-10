@@ -5,10 +5,9 @@ url: "https://plotkine.github.io"
 
 header_pages:
   - home.md
-  - HTB-writeups.md
-  - OSCP-tips.md
-  - i3-gaps-setup.md
-  - Kerberos.md
+  - oscp.md
+  - i3-gaps.md
+  - kerberos.md
   - programming.md
   - the-zen-way.md
   - contact.md
