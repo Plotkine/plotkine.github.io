@@ -36,4 +36,6 @@ Login again, right click on the terminal and select "Preferences". Configure eve
 
 <img src="/i3-gap-setup/settings.jpg" alt="configure preferences">
 
+<h1>Documentation</h1>
+
 Now that all is set, read the i3 <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">documentation</a> to configure it according to your needs.
