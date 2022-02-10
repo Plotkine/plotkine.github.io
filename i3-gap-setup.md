@@ -8,7 +8,7 @@ This post describes how to setup the windows manager i3-gaps on kali linux. I wi
 
 <img src="/i3-gap-setup/result.jpg" alt="configuration result" width="1200" height="auto">
 
-<h1>Install & configure i3-gaps</h1>
+<h2>Install & configure i3-gaps</h2>
 
 Download <a href="https://raw.githubusercontent.com/Plotkine/kali-config/main/wallpaper.jpg" target="_blank" rel="noopener noreferrer">this image</a> as <code>~/Pictures/wallpaper.jpg</code>.
 
