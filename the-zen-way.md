@@ -1,5 +1,5 @@
 ---
-layout: OSCP-tipss
+layout: the-zen-way
 title: /the-zen-way
 permalink: /the-zen-way
 ---
