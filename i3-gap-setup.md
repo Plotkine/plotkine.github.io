@@ -8,7 +8,7 @@ This post describes how to setup the windows manager i3-gaps on kali linux. I wi
 
 <img src="/i3-gap-setup/result.jpg" alt="configuration result" width="1200" height="auto">
 
-<h1>Installing i3-gaps</h1>
+<h1>Install & configure i3-gaps</h1>
 
 Download <a href="https://raw.githubusercontent.com/Plotkine/kali-config/main/wallpaper.jpg" target="_blank" rel="noopener noreferrer">this image</a> as <code>~/Pictures/wallpaper.jpg</code>.
 
@@ -22,9 +22,7 @@ If i3-gaps wasn't in the sources file, <a href="https://launchpad.net/~kgilmer/+
 
 Add <a href="https://github.com/roosta/i3wsr" target="_blank" rel="noopener noreferrer">i3wsr</a>.
 
-<h1>Configuration files</h1>
-
-Create the <code>~/.config/i3</code> and put the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_config" target="_blank" rel="noopener noreferrer">i3 general configuration file</a> at <code>~/.config/i3/config</code>. Place the status bar <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">config file</a> at <code>/etc/i3status.conf</code>.
+Create the <code>~/.config/i3</code> directeory and put the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_config" target="_blank" rel="noopener noreferrer">i3 general configuration file</a> at <code>~/.config/i3/config</code>. Place the status bar <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">config file</a> at <code>/etc/i3status.conf</code>.
 
 <h1>Start an i3 session</h1>
 
