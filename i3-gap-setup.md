@@ -37,15 +37,19 @@ To add i3wsr: https://github.com/roosta/i3wsr</p>
 <h1>Start an i3 session</h1>
 
 <p>Logout:
+  
 <img src="/i3-gap-setup/logout.jpg" alt="logout">
 
 Select i3 on the top right menu:
+
 <img src="/i3-gap-setup/select_i3.jpg" alt="select i3">
 
 Login again, right click on the terminal and select "Preferences":
+
 <img src="/i3-gap-setup/preferences.jpg" alt="select preferences">
 
 Configure everything like this:
+
 <img src="/i3-gap-setup/settings.jpg" alt="configure preferences"></p>
 
 <h1>What to do from there</h1>
