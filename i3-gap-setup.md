@@ -22,7 +22,7 @@ If i3-gaps wasn't in the <code>/etc/apt/sources.list</code> file, do <a href="ht
 
 Add <a href="https://github.com/roosta/i3wsr" target="_blank" rel="noopener noreferrer">i3wsr</a>.
 
-Create the <code>~/.config/i3</code> dir and put the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_config" target="_blank" rel="noopener noreferrer">i3 general config file</a> at <code>~/.config/i3/config</code>.
+Create the <code>~/.config/i3</code> dir and put the <a href="https://github.com/Plotkine/kali-config/blob/main/i3_config" target="_blank" rel="noopener noreferrer">general config file</a> at <code>~/.config/i3/config</code>.
 
 Place the status bar <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">config file</a> at <code>/etc/i3status.conf</code>.
 
