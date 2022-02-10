@@ -10,6 +10,7 @@ header_pages:
   - i3-gap-setup.md
   - Kerberos.md
   - programming.md
+  - the-zen-way.md
   - contact.md
 
 style: hacker
