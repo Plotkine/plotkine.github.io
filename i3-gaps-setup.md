@@ -1,7 +1,7 @@
 ---
-layout: i3-gaps-setups
-title: /i3-gaps-setup
-permalink: /i3-gaps-setup
+layout: i3-gapss
+title: /i3-gaps
+permalink: /i3-gaps
 ---
 
 This post describes how to setup the windows manager i3-gaps on kali linux. I will describe how to set it up with my custom configuration to obtain this result:
