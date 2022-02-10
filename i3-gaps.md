@@ -8,9 +8,7 @@ Here are instructions on how to set it up i3-gaps and other tools on kali to obt
 
 <img src="/i3-gap-setup/result.jpg" alt="configuration result" width="1200" height="auto">
 
-<h2>Install & configure i3-gaps</h2>
-
-Download <a href="https://raw.githubusercontent.com/Plotkine/kali-config/main/wallpaper.jpg" target="_blank" rel="noopener noreferrer">this image</a> as <code>~/Pictures/wallpaper.jpg</code>.
+Start by downloading <a href="https://raw.githubusercontent.com/Plotkine/kali-config/main/wallpaper.jpg" target="_blank" rel="noopener noreferrer">this image</a> as <code>~/Pictures/wallpaper.jpg</code>.
 
 Install a few tools (to configure the wallpaper, execute applications and allow terminal transparency) and i3-gaps:
 <code>sudo apt install -y feh rofi compton i3-gaps</code>
