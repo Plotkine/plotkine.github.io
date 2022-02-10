@@ -12,7 +12,7 @@ locations that have changed in the snap compares. Analyse,
 interpretate, evaluate."
 <a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 1</a></p>
 
-<br><br>
+<br>
 
 <p>"We are now very near to the crack... can
 you *feel* it? If not, prepare yourself a good Martini Vodka!
