@@ -8,7 +8,7 @@ permalink: /programming/bash/scan-script
 
 <p>Scan_script is a bash script I made to automate scanning and initial enumeration for the PWK labs and the OSCP exam. It is a wrapper around different tools like nmap, netcat, enum4linux, smbclient, smbmap, dirsearch, gobuster, nikto. Directories named after the IPs of the targets are created by the script in the current directory, containing the outputs of the scans performed by the script.</p>
 
-<p>Source code <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p><a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">source code</a>.</p>
 
 <h1>Execution example</h1>
 
@@ -51,6 +51,6 @@ permalink: /programming/bash/scan-script
   |                                                                        |
   +------------------------------------------------------------------------+<!--</div>--></p>
 
-<p>Graph made with <a href="https://github.com/ironcamel/Graph-Easy" target="_blank" rel="noopener noreferrer">Graph-Easy</a>.</p>
+[Graph made with <a href="https://github.com/ironcamel/Graph-Easy" target="_blank" rel="noopener noreferrer">Graph-Easy</a>]
 
 <!-- <p>Source code and instructions on how to use this script <a href="https://github.com/Plotkine/scan_script" target="_blank" rel="noopener noreferrer">here</a>.</p> -->
