@@ -8,7 +8,7 @@ permalink: /
 
 <p>[this blog sucks on mobile]</p>
 
-<h1>plot@kine:~$ whoami</h1>
+<h1>plotkine@blog:~$ whoami</h1>
 
 <p>I am an information security engineer who studied mathematics, based in Brussels and interested in:
 - Programming
