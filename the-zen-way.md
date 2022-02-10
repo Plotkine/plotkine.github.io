@@ -4,7 +4,7 @@ title: /the-zen-way
 permalink: /the-zen-way
 ---
 
-<p>"now comes the graceful "zen-cracking" moment: Sit down with<br>
+<p>"now comes the graceful "zen-cracking" moment: Sit down with
 a dry Martini and Wodka (obviously only russian Wodka will<br>
 do) and contemplate the printing of the various mutant<br>
 locations. Feel, perceive, empathize! Look closely at the<br>
