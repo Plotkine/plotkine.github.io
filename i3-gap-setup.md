@@ -16,8 +16,8 @@ permalink: /i3-gap-setup
 
 These tools will be used by i3 to configure the wallpaper, execute applications and allow terminal transparency:
 <br><code>sudo apt install feh -y
-<code>sudo apt install rofi -y
-<code>sudo apt install compton -y</code>
+sudo apt install rofi -y
+sudo apt install compton -y</code>
 
 Install i3-gaps:
 <code>sudo apt install i3-gaps</code>
