@@ -52,16 +52,6 @@ Configure everything like this:
 
 <img src="/i3-gap-setup/settings.jpg" alt="configure preferences"></p>
 
-<h1>What to do from there</h1>
+<h1>Further reading</h1>
 
-<p>Learn i3 shortcuts
-
-Modify configuration files according to your needs. For example, I set up:
-- wallpaper to set up at startup
-[command]
-- firefox open in workspace 8 and open at startup
-[commmand]
-- burp suite to open in workspace 9 and open at startup
-[command]
-
-Read the <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">i3 documentation</a>.</p>
+<p>Learn i3 shortcuts, read the <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">i3 documentation</a>.</p>
