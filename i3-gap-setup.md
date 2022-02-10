@@ -32,6 +32,6 @@ Logout and select i3 in the top right menu:
 
 Login again, right click on the terminal and select "Preferences". Configure everything like this:
 
-<img src="/i3-gap-setup/settings.jpg" alt="configure preferences"></p>
+<img src="/i3-gap-setup/settings.jpg" alt="configure preferences">
 
-<p>Now that all is set, read the i3 <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">documentation</a> to configure it according to your needs.
+Now that all is set, read the i3 <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">documentation</a> to configure it according to your needs.
