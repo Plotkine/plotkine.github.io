@@ -23,16 +23,12 @@ Create the <code>~/.config/i3</code> dir and put the <a href="https://github.com
 
 Place the status bar <a href="https://github.com/Plotkine/kali-config/blob/main/i3_i3status.conf" target="_blank" rel="noopener noreferrer">config file</a> at <code>/etc/i3status.conf</code>.
 
-<h1>Start an i3 session</h1>
-
-Logout and select i3 in the top right menu:
+To start an i3 session, logout and select i3 in the top right menu:
 
 <img src="/i3-gap-setup/select_i3.jpg" alt="select i3">
 
 Login again, right click on the terminal and select "Preferences". Configure everything like this:
 
 <img src="/i3-gap-setup/settings.jpg" alt="configure preferences">
-
-<h1>Documentation</h1>
 
 Now that all is set, read the i3 <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">documentation</a> to configure it according to your needs.
