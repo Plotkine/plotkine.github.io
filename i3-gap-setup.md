@@ -17,12 +17,12 @@ permalink: /i3-gap-setup
 <img src="/i3-gap-setup/saving_wallpaper.jpg" alt="saving wallpaper">
 
 These tools will be used by i3 to configure the wallpaper, execute applications and allow terminal transparency:
-<br><code>sudo apt install feh -y</code>
-<code>sudo apt install rofi -y</code>
+<br><code>sudo apt install feh -y
+<code>sudo apt install rofi -y
 <code>sudo apt install compton -y</code>
 
 Install i3-gaps:
-<br><code>sudo apt install i3-gaps</code>
+<code>sudo apt install i3-gaps</code>
 
 If i3-gaps wasn't in the sources file, do <a href="https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer" target="_blank" rel="noopener noreferrer">this</a>.
 
