@@ -14,7 +14,6 @@ permalink: /
 - Programming
 - Penetration testing</p>
 
-<p><iframe src="https://editor.p5js.org/Plotkine/present/kmFef9ExW" width="340px" height="340px" frameBorder="1" title="gameOfLife"></iframe></p>
-<p><iframe src="https://editor.p5js.org/Plotkine/full/kmFef9ExW"></iframe></p>
+<p><iframe src="https://editor.p5js.org/Plotkine/present/kmFef9ExW" width="400px" height="400px" frameBorder="1" title="gameOfLife"></iframe></p>
 
 <!-- <a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank" rel="noopener noreferrer">website template</a> -->
