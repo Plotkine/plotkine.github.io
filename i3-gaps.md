@@ -25,7 +25,7 @@ To start an i3 session, logout and select i3 in the top right menu:
 
 <img src="/i3-gap-setup/select_i3.jpg" alt="select i3">
 
-Login again, right click on the terminal and select "Preferences". Configure everything like this:
+Login again, right click on the terminal, select "Preferences" and apply this configuration:
 
 <img src="/i3-gap-setup/settings.jpg" alt="configure preferences">
 
