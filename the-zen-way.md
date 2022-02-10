@@ -9,7 +9,8 @@ a dry Martini and Wodka (obviously only russian Wodka will
 do) and contemplate the printing of the various mutant
 locations. Feel, perceive, empathize! Look closely at the
 locations that have changed in the snap compares. Analyse,
-interpretate, evaluate." <a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 1</a></p>
+interpretate, evaluate."
+<a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 1</a></p>
 
 <p>"We are now very near to the crack... can
 you *feel* it? If not, prepare yourself a good Martini Vodka!
@@ -24,4 +25,5 @@ This is the correct way to do it:
 Sit deeper and relax, sip slowly and *feel* where the code of the
 protection scheme you are cracking "moves"... It's like a
 current... a slow tide. If you still do not believe me, just try
-it." <a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 9</a></p>
+it."
+<a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 9</a></p>
