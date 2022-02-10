@@ -1,7 +1,7 @@
 ---
-layout: Kerbeross
-title: /Kerberos
-permalink: /Kerberos
+layout: kerbeross
+title: /kerberos
+permalink: /kerberos
 ---
 
 <h1>Introduction</h1>
