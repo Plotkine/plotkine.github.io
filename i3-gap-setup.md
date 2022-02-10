@@ -54,4 +54,4 @@ Configure everything like this:
 
 <h1>Further reading</h1>
 
-<p>Learn i3 shortcuts, read the <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">i3 documentation</a>.</p>
+<p>Learn i3 shortcuts, read the i3 <a href="https://i3wm.org/docs/userguide.html" target="_blank" rel="noopener noreferrer">documentation</a>.</p>
