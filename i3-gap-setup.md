@@ -13,10 +13,7 @@ This post describes how to setup the windows manager i3-gaps on kali linux. I wi
 Download <a href="https://raw.githubusercontent.com/Plotkine/kali-config/main/wallpaper.jpg" target="_blank" rel="noopener noreferrer">this image</a> as <code>~/Pictures/wallpaper.jpg</code>.
 
 Install a few tools (to configure the wallpaper, execute applications and allow terminal transparency) and i3:
-<code>sudo apt install feh -y
-sudo apt install rofi -y
-sudo apt install compton -y
-sudo apt install i3-gaps</code>
+<code>sudo apt install -y feh rofi compton i3-gaps</code>
 
 If i3-gaps wasn't in the <code>/etc/apt/sources.list</code> file, do <a href="https://launchpad.net/~kgilmer/+archive/ubuntu/speed-ricer" target="_blank" rel="noopener noreferrer">this</a>.
 
