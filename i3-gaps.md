@@ -4,7 +4,7 @@ title: /i3-gaps
 permalink: /i3-gaps
 ---
 
-This post describes how to setup the windows manager i3-gaps on kali linux. I will describe how to set it up with my custom configuration to obtain this result:
+Here are instructions on how to set it up i3-gaps and other tools on kali to obtain this result:
 
 <img src="/i3-gap-setup/result.jpg" alt="configuration result" width="1200" height="auto">
 
