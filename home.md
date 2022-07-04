@@ -124,9 +124,6 @@ function drawAliveCell(i,j) {
   document.getElementById("background").innerHTML += "<div class=\"animate\" style=\"top:" + topValue + "; left:" + leftValue + ";\"></div>"
 }
 </script>
-</head>
-
-<body>
 
 <div id="background"></div>
 
