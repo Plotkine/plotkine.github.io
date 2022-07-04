@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <!-- <h1>Welcome to my blog!</h1> -->
+<!-- dummy comment -->
 
 <p>[this blog sucks on mobile]</p>
 
