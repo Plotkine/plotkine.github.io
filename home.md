@@ -6,10 +6,6 @@ permalink: /
 
 <!-- <h1>Welcome to my blog!</h1> -->
 
-<p>[this blog sucks on mobile]</p>
-
 <h1>plotkine@blog:~$ whoami</h1>
 
-<p>I am an information security engineer who studied mathematics, based in Brussels and interested in:
-- Programming
-- Penetration testing</p>
+<p>I am an infosec consultant who studied mathematics, based in Brussels and interested in penetration testing and programming.</p>
