@@ -4,7 +4,7 @@ layout: homepages
 permalink: /
 ---
 
-<!-- <h1>Welcome to my blog!</h1> -->
+<!--Dummy comment-->
 
 <h1>plotkine@blog:~$ whoami</h1>
 
