@@ -28,7 +28,7 @@ Mathematics.
 Mathematics is never going to lead you to a higher truth.
 And you know why?
 Because it's boring. It's really boring."
-A beautiful mind</p>
+<a href="https://subslikescript.com/movie/A_Beautiful_Mind-268978#:~:text=Seriously,%20John.">A beautiful mind</a> (2001)</p>
 
 <br>
 
