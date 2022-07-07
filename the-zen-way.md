@@ -23,6 +23,15 @@ Sit deeper and relax, sip slowly and *feel* where the code of the protection sch
 
 <br>
 
+<p>"Seriously, John.
+Mathematics.
+Mathematics is never going to lead you to a higher truth.
+And you know why?
+Because it's boring. It's really boring."
+A beautiful mind</p>
+
+<br>
+
 <p>"It's like asking why Beethoven's Ninth Symphony is beautiful, if you don't see why, someone can't tell you. I know numbers are beautiful. If they aren't beautiful, nothing is." <a href="https://bobson.ludost.net/copycrime/35559997-Man-Who-Loved-Only-Numbers-Paul-Hoffman.pdf#page=53" target="_blank" rel="noopener noreferrer">Paul Erdös</a></p>
 
 <br>
