@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <!--Dummy comment-->
+<!--Another dummy comment-->
 
 <h1>plotkine@blog:~$ whoami</h1>
 
