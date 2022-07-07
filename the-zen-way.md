@@ -18,7 +18,7 @@ This is the correct way to do it:
  * Add a zest of lemon (From Malta or Southern France);
  * Add a green "sound" olive (from Italy or Israel);
  * Add Schweppes Indian Tonic. Fill to the brim.
-Sit deeper and relax, sip slowly and *feel* where the code of the protection scheme you are cracking "moves"... It's like a current... a slow tide. If you still do not believe me, just try it."
+Sit deeper and relax, sip slowly and *feel* where the code of the protection scheme you are cracking "moves"... It's like a current... a slow tide."
 <i><a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 9</a></i></p>
 
 <br>
