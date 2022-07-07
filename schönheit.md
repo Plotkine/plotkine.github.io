@@ -4,4 +4,4 @@ title: /schönheit
 permalink: /schönheit
 ---
 
-[to add]
+<p>to add</p>
