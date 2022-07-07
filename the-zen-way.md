@@ -6,7 +6,9 @@ permalink: /the-zen-way
 
 <p>"now comes the graceful "zen-cracking" moment: Sit down with a dry Martini and Wodka (obviously only russian Wodka will do) and contemplate the printing of the various mutant locations. Feel, perceive, empathize! Look closely at the locations that have changed in the snap compares. Analyse, interpretate, evaluate."
 +ORC, <a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">HOW TO CRACK, A TUTORIAL - LESSON 1</a></p>
+
 <br>
+
 <p>"We are now very near to the crack... can you *feel* it? If not, prepare yourself a good Martini Vodka!
 This is the correct way to do it:
  * Get a "highball" glass;
@@ -18,3 +20,11 @@ This is the correct way to do it:
  * Add Schweppes Indian Tonic. Fill to the brim.
 Sit deeper and relax, sip slowly and *feel* where the code of the protection scheme you are cracking "moves"... It's like a current... a slow tide. If you still do not believe me, just try it."
 +ORC, <a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">HOW TO CRACK, A TUTORIAL - LESSON 9</a></p>
+
+<br>
+
+<p>"It's like asking why Beethoven's Ninth Symphony is beautiful, if you don't see why, someone can't tell you. I know numbers are beautiful. If they aren't beautiful, nothing is." <a href="https://bobson.ludost.net/copycrime/35559997-Man-Who-Loved-Only-Numbers-Paul-Hoffman.pdf#page=53" target="_blank" rel="noopener noreferrer">Paul Erdös</a></p>
+
+<br>
+
+<p>"Mathematics, rightly viewed, possesses not only truth, but supreme beauty—a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show.." Bertrand Russell, <a href="https://revistaliterariakatharsis.org/myslog.pdf#page=27" target="_blank" rel="noopener noreferrer">The study of mathematics</a></p>
