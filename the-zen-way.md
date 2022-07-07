@@ -5,7 +5,7 @@ permalink: /the-zen-way
 ---
 
 <p>"now comes the graceful "zen-cracking" moment: Sit down with a dry Martini and Wodka (obviously only russian Wodka will do) and contemplate the printing of the various mutant locations. Feel, perceive, empathize! Look closely at the locations that have changed in the snap compares. Analyse, interpretate, evaluate."
-+ORC, <a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">HOW TO CRACK, A TUTORIAL - LESSON 1</a></p>
+<a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 1</a></p>
 
 <br>
 
@@ -19,7 +19,7 @@ This is the correct way to do it:
  * Add a green "sound" olive (from Italy or Israel);
  * Add Schweppes Indian Tonic. Fill to the brim.
 Sit deeper and relax, sip slowly and *feel* where the code of the protection scheme you are cracking "moves"... It's like a current... a slow tide. If you still do not believe me, just try it."
-+ORC, <a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">HOW TO CRACK, A TUTORIAL - LESSON 9</a></p>
+<a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 9</a></p>
 
 <br>
 
@@ -28,7 +28,7 @@ Mathematics.
 Mathematics is never going to lead you to a higher truth.
 And you know why?
 Because it's boring. It's really boring."
-<a href="https://subslikescript.com/movie/A_Beautiful_Mind-268978#:~:text=Seriously,%20John.">A beautiful mind</a> (2001)</p>
+<a href="https://subslikescript.com/movie/A_Beautiful_Mind-268978#:~:text=Seriously,%20John.">A beautiful mind (2001)</a></p>
 
 <br>
 
@@ -36,4 +36,4 @@ Because it's boring. It's really boring."
 
 <br>
 
-<p>"Mathematics, rightly viewed, possesses not only truth, but supreme beauty—a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show." Bertrand Russell, <a href="https://revistaliterariakatharsis.org/myslog.pdf#page=27" target="_blank" rel="noopener noreferrer">The study of mathematics</a></p>
+<p>"Mathematics, rightly viewed, possesses not only truth, but supreme beauty—a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show." <a href="https://revistaliterariakatharsis.org/myslog.pdf#page=27" target="_blank" rel="noopener noreferrer">Bertrand Russell, The study of mathematics</a></p>
