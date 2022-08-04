@@ -4,12 +4,12 @@ title: /the-zen-way
 permalink: /the-zen-way
 ---
 
-<p>"now comes the graceful "zen-cracking" moment: Sit down with a dry Martini and Wodka (obviously only russian Wodka will do) and contemplate the printing of the various mutant locations. Feel, perceive, empathize! Look closely at the locations that have changed in the snap compares. Analyse, interpretate, evaluate."
+<!--<p>"now comes the graceful "zen-cracking" moment: Sit down with a dry Martini and Wodka (obviously only russian Wodka will do) and contemplate the printing of the various mutant locations. Feel, perceive, empathize! Look closely at the locations that have changed in the snap compares. Analyse, interpretate, evaluate."
 <i><a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 1</a></i></p>
 
 <br>
 
-<p>"We are now very near to the crack... can you *feel* it? If not, prepare yourself a good Martini Vodka!
+--><p>"We are now very near to the crack... can you *feel* it? If not, prepare yourself a good Martini Vodka!
 This is the correct way to do it:
  * Get a "highball" glass;
  * Put some ice cubes inside it (2 or 3);
