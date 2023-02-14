@@ -18,6 +18,7 @@ header_pages:
 style: hacker
 
 #footer: '<a href="https://github.com/plotkine">github</a>'
+#dummy
 
 # Build settings
 markdown: kramdown
