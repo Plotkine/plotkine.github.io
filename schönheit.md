@@ -28,7 +28,11 @@ In this world of troubles
 My music pulls me through"
 John Miles, <i>Music</i></p>
 
+<br>
 
+<p>
+"Car les choses de l’Univers ne se lassent jamais de parler d’elles-mêmes et de se révéler, à celui qui se soucie d’entendre. Et la maison la plus belle, celle en laquelle apparaît l’amour de l’ouvrier, n’est pas celle qui est plus grande ou plus haute que d’autres. La belle maison est celle qui reflète fidèlement la structure et la beauté cachées des choses."
+Alexandre Grothendieck, <i>Récoltes et Semailles</i></p>
 
 
 
