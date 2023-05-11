@@ -13,5 +13,20 @@ permalink: /schönheit
 
 <br>
 
-<p>"Ma vie actuelle est exactement l'inverse d'un songe. Mon corps va, vient, agit, se trouve au milieu du fer, des canons, des hommes, traverse l'Europe au gré d'une puissance à laquelle j'obéis en la méprisant. Mon âme n'a nulle conscience de ces actes, elle reste fixe, plongée dans une idée, engourdie par cette idée, la recherche de l'Absolu, de ce principe par lequel des graines, absolument semblables, mises dans un même milieu, donnent, l'une des calices blancs, l'autre des calices jaunes!" <i>Honoré de Balzac - La Recherche de l´Absolu.</i></p>
+<p>"Ma vie actuelle est exactement l'inverse d'un songe. Mon corps va, vient, agit, se trouve au milieu du fer, des canons, des hommes, traverse l'Europe au gré d'une puissance à laquelle j'obéis en la méprisant. Mon âme n'a nulle conscience de ces actes, elle reste fixe, plongée dans une idée, engourdie par cette idée, la recherche de l'Absolu, de ce principe par lequel des graines, absolument semblables, mises dans un même milieu, donnent, l'une des calices blancs, l'autre des calices jaunes!" <i>Honoré de Balzac - La Recherche de l'Absolu.</i></p>
+
+<br>
+
+<p>"Music was my first love
+And it will be my last
+Music of the future
+And music of the past
+To live without my music
+Would be impossible to do
+In this world of troubles
+My music pulls me through" <i>John Miles</i></p>
+
+
+
+
 
