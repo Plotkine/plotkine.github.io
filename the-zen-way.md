@@ -32,7 +32,7 @@ Because it's boring. It's really boring."
 
 <br>
 
-<p>Another one got caught today, it's all over the papers.  "Teenager
+<p>"Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
         Damn kids.  They're all alike.
 
@@ -87,7 +87,7 @@ My crime is that of outsmarting you, something that you will never forgive me
 for.
 
         I am a hacker, and this is my manifesto.  You may stop this individual,
-but you can't stop us all... after all, we're all alike.
+but you can't stop us all... after all, we're all alike."
 <b>The Mentor</b>, <i><a href="http://phrack.org/issues/7/3.html" target="_blank" rel="noopener noreferrer">The Conscience of a Hacker</i></a></p>
 
 </br>
