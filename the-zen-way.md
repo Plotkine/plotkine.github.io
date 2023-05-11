@@ -22,7 +22,7 @@ Sit deeper and relax, sip slowly and *feel* where the code of the protection sch
 <b>+ORC</b>, <i><a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">HOW TO CRACK, A TUTORIAL - LESSON 9</a></i></p>
 
 <br>
-____________________
+
 <p>"Seriously, John.
 Mathematics.
 Mathematics is never going to lead you to a higher truth.
@@ -31,7 +31,7 @@ Because it's boring. It's really boring."
 <i><a href="https://subslikescript.com/movie/A_Beautiful_Mind-268978#:~:text=Seriously,%20John." target="_blank" rel="noopener noreferrer">A beautiful mind (2001)</a></i></p>
 
 <br>
-____________________
+
 <p>"Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
         Damn kids.  They're all alike.
@@ -91,7 +91,7 @@ but you can't stop us all... after all, we're all alike."
 <b>The Mentor</b>, <i><a href="http://phrack.org/issues/7/3.html" target="_blank" rel="noopener noreferrer">The Conscience of a Hacker</a></i></p>
 
 <br>
-____________________
+
 <p>"<i>Why hacking?</i>
 <b>For fun :)</b>
 
