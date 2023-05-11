@@ -92,8 +92,8 @@ but you can't stop us all... after all, we're all alike."
 
 <br>
 
-<p><i>Why hacking?</i>
-<b>For fun :)</b>
+<p>"<i>Why hacking?</i>
+<b>For fun :)</b> 
 <i>Why poly network?</i>
 <b>Cross chain hacking is hot</b>
 <i>Why transfering tokens?</i>
@@ -119,6 +119,6 @@ but you can't stop us all... after all, we're all alike."
 <i>Why cex? noob?</i>
 <b>Whatever :) The key challenge of this hack is to invoke some contract from the ontology network (my favourite part). You have to get some "gas" for the ontology network, which is called "ong". However, it's not a defi tradable token. I can only find it on some chinese (?) cexes. Why bother trading from dex if you have to go through cex? Why do you think I may leave traces in the dexes?</b>
 <i>Why refund? Coward?</i>
-<b>Whatever :) When you judge others, you do not define them, you define yourself. I already enjoyed what I cared most: hacking & guiding. Few hackers can understand the situation of defi security. Yes, you see a lot of hacks, but most of them are not enjoyable as a real hacker. Some stupid code leads to huge amount of loss, but it's not challenging. It's like fighting against a teenager. I would admit that the poly hack is not as fancy as you imagine, but I did experienced something new from the project. I would say figuing out the blind spot in the archtecture of poly network would be one of the best moments in my life. I have got enough money as the growth of the crypto world. I have been exploring the meaning of life for a while. I hope my life can be composed of unique adventures, so I like learn & hack everything in order to fight against the fate. Sein zum Tode. To be honest, I did have some selfish motives to do something cool but not harmful by leveraging the huge fund, like the dao idea. Then I realized being the moral leader would be the coolest hack I could ever archive! cheers!</b>
+<b>Whatever :) When you judge others, you do not define them, you define yourself. I already enjoyed what I cared most: hacking & guiding. Few hackers can understand the situation of defi security. Yes, you see a lot of hacks, but most of them are not enjoyable as a real hacker. Some stupid code leads to huge amount of loss, but it's not challenging. It's like fighting against a teenager. I would admit that the poly hack is not as fancy as you imagine, but I did experienced something new from the project. I would say figuing out the blind spot in the archtecture of poly network would be one of the best moments in my life. I have got enough money as the growth of the crypto world. I have been exploring the meaning of life for a while. I hope my life can be composed of unique adventures, so I like learn & hack everything in order to fight against the fate. Sein zum Tode. To be honest, I did have some selfish motives to do something cool but not harmful by leveraging the huge fund, like the dao idea. Then I realized being the moral leader would be the coolest hack I could ever archive! cheers!"</b>
 <b>Poly Network hacker</b>, <i><a href="https://twitter.com/tomrobin/status/1425487745166753794" target="_blank" rel="noopener noreferrer">q&a</a></i></p>
 <b>Poly Network hacker</b>, <i><a href="https://twitter.com/tomrobin/status/1425487745166753794" target="_blank" rel="noopener noreferrer">Q&A</a></i></p>
