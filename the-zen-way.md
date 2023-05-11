@@ -92,7 +92,7 @@ but you can't stop us all... after all, we're all alike."
 
 <br>
 
-<p><i>Q: WHY HACKING?
+<p><i>Q: WHY HACKING?</i>
 A: FOR FUN :)
 <i>Q: WHY POLY NETWORK?</i>
 A: CROSS CHAIN HACKING IS HOT
