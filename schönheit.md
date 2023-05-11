@@ -4,7 +4,7 @@ title: /schönheit
 permalink: /schönheit
 ---
 <p>"Mathematics, rightly viewed, possesses not only truth, but supreme beauty—a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry. What is best in mathematics deserves not merely to be learnt as a task, but to be assimilated as a part of daily thought, and brought again and again before the mind with ever−renewed encouragement. Real life is, to most men, a long second−best, a perpetual compromise between the ideal and the possible; but the world of pure reason knows no compromise, no practical limitations, no barrier to the creative activity embodying in splendid edifices the passionate aspiration after the perfect from which all great work springs. Remote from human passions, remote even from the pitiful facts of nature, the generations have gradually created an ordered cosmos, where pure thought can dwell as in its natural home, and where one, at least, of our nobler impulses can escape from the dreary exile of the actual world."
-<a href="https://revistaliterariakatharsis.org/myslog.pdf#page=27" target="_blank" rel="noopener noreferrer"><b>Bertrand Russell</b>, <i>The study of mathematics</i></a></p>
+<b>Bertrand Russell</b>, <a href="https://revistaliterariakatharsis.org/myslog.pdf#page=27" target="_blank" rel="noopener noreferrer"><i>The study of mathematics</i></a></p>
 
 <br>
 
@@ -32,5 +32,5 @@ My music pulls me through"
 
 <p>
 "Car les choses de l’Univers ne se lassent jamais de parler d’elles-mêmes et de se révéler, à celui qui se soucie d’entendre. Et la maison la plus belle, celle en laquelle apparaît l’amour de l’ouvrier, n’est pas celle qui est plus grande ou plus haute que d’autres. La belle maison est celle qui reflète fidèlement la structure et la beauté cachées des choses."
-<a href="https://uberty.org/wp-content/uploads/2015/12/Grothendeick-RetS.pdf" target="_blank" rel="noopener noreferrer"><b>Alexandre Grothendieck</b>, <i>Récoltes et Semailles</i></a></p>
+<b>Alexandre Grothendieck</b>, <a href="https://uberty.org/wp-content/uploads/2015/12/Grothendeick-RetS.pdf#page=48" target="_blank" rel="noopener noreferrer"><i>Récoltes et Semailles</i></a></p>
 
