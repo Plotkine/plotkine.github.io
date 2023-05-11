@@ -93,32 +93,45 @@ but you can't stop us all... after all, we're all alike."
 <br>
 
 <p>"<i>Why hacking?</i>
-<b>For fun :)</b> 
+<b>For fun :)</b>
+
 <i>Why poly network?</i>
 <b>Cross chain hacking is hot</b>
+
 <i>Why transfering tokens?</i>
 <b>To keep it safe. When spotting the bug, I had a mixed feeling. Ask yourself what to do had you facing so much fortune. Asking the project team politely so that they can fix it? Anyone could be the traitor given one billion! I can trust nobody! The only solution I can come up with is saving it in a _trusted account while keeping myself _anonymous_and_safe_. Now everyone smells a sense of conspiracy. Insider? Not me, but who knows? I take the resposibility to expose the vulnerability before any insiders hiding and exploiting it!</b>
+
 <i>Why so sophisticated?</i>
 <b>The poly network is decent system. It's one of the most challenging attacks that a hacker can enjoy. And I had to be quick to beat any insiders or hackers, I took it as a bonus chall :)</b>
+
 <i>Are you exposed?</i>
 <b>No. Never. I understood the risk of exposing myself even if I don't do evil. So I used temporary email, ip or so called fingerprint, which were untracable. I prefer to stay in the dark and save the world.</b>
+
 <i>What really happened 30 hours ago?</i>
 <b>Long story. Believe it or not, I was forced to play the game. The poly network is a sophisticated system, I didn't manage to build a local testing environment. I failed to produce a poc at the beginning. However, the aha momemnt came just before I was to give up. After debugging all night, I crafted a single_ message to the ontology network. I was planning to launch a cool blitzkrieg to take over the four network: eth, bsc, polygon & heco. However the heco network goes wrong! The relayer does not behave like the others, a keeper just relayed my exploit directly, and the key was updated to some wrong parameters. It ruined my plan. I should have stopped at that moment, but I decided to let the show go on! What if they patch the bug secretly without any notification? However, I didn't want to cause _real_ panic of the crypto world. So I chose to ignore shit coins, so people didn't have to worry about them going to zero. I took important tokens (except for shib) and didn't sell any of them.</b>
+
 <i>Then why selling/swapping the stables?</i>
 <b>I was pissed by the poly team for their initial reponse. They urged others to blame & hate me before I had any chance to reply! Of course I knew there are fake defi coins, but I didn't take it seriously since I had no plan laundering them. In the meanwhile, depositing the stables could earn some interest to cover potential cost so that I have more time to negotiate with the poly team.</b>
+
 <i>Why tipping 13.37?</i>
 <b>I feeled the warmth from the ethereum community. I was busy investigating issues from heco and debugging my scripts. I thought it were networking issues why I could not deposit (I was behind a sophisticated proxy). So I shared my goodwill the guy.</b>
+
 <i>Why asking tornado and dao?</i>
 <b>Having witnessed so many hackings, I knew depositing into tornado is a wise but desperate decision. It was against my original intention. Being the crowdsourced hacker was just my bad joke after meeting so many beggars :)</b>
+
 <i>Why returning?</i>
 <b>That's always the plan! I am not very interested in money! I know it hurts when people are attacked, but shouldn't they learn something from those hacks? I announced the returning decision before midnight so people who had faith in me should had a good rest ;)</b>
+
 <i>Why returning slowly?</i>
 <b>I do need time to talk with the poly team. Sorry, it's the only way I know to prove my dignity while hiding myself identity. And I need some rest.</b>
+
 <i>The poly team?</i>
 <b>I already started talking with them briefly, the logs are on the ethereum. I may or may not publish them. the pains they have suffered is temporary but memorable. I would like to give them tips on how to secure their networks, so that they can be eligible to manage the billion project in the future. The poly network is a well designed system and it will handle more assets. they have got a lot of new followers on twitter, right?</b>
+
 <i>Why cex? noob?</i>
 <b>Whatever :) The key challenge of this hack is to invoke some contract from the ontology network (my favourite part). You have to get some "gas" for the ontology network, which is called "ong". However, it's not a defi tradable token. I can only find it on some chinese (?) cexes. Why bother trading from dex if you have to go through cex? Why do you think I may leave traces in the dexes?</b>
+
 <i>Why refund? Coward?</i>
 <b>Whatever :) When you judge others, you do not define them, you define yourself. I already enjoyed what I cared most: hacking & guiding. Few hackers can understand the situation of defi security. Yes, you see a lot of hacks, but most of them are not enjoyable as a real hacker. Some stupid code leads to huge amount of loss, but it's not challenging. It's like fighting against a teenager. I would admit that the poly hack is not as fancy as you imagine, but I did experienced something new from the project. I would say figuing out the blind spot in the archtecture of poly network would be one of the best moments in my life. I have got enough money as the growth of the crypto world. I have been exploring the meaning of life for a while. I hope my life can be composed of unique adventures, so I like learn & hack everything in order to fight against the fate. Sein zum Tode. To be honest, I did have some selfish motives to do something cool but not harmful by leveraging the huge fund, like the dao idea. Then I realized being the moral leader would be the coolest hack I could ever archive! cheers!"</b>
+
 <b>Poly Network hacker</b>, <i><a href="https://twitter.com/tomrobin/status/1425487745166753794" target="_blank" rel="noopener noreferrer">q&a</a></i></p>
-<b>Poly Network hacker</b>, <i><a href="https://twitter.com/tomrobin/status/1425487745166753794" target="_blank" rel="noopener noreferrer">Q&A</a></i></p>
