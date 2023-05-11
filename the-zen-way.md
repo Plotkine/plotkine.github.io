@@ -88,7 +88,7 @@ for.
 
         I am a hacker, and this is my manifesto.  You may stop this individual,
 but you can't stop us all... after all, we're all alike."
-<b>The Mentor</b>, <i><a href="http://phrack.org/issues/7/3.html" target="_blank" rel="noopener noreferrer">The Conscience of a Hacker</i></a></p>
+<b>The Mentor</b>, <i><a href="http://phrack.org/issues/7/3.html" target="_blank" rel="noopener noreferrer">The Conscience of a Hacker</a></i></p>
 
 </br>
 
