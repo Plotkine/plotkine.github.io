@@ -32,6 +32,19 @@ Because it's boring. It's really boring."
 
 <br>
 
+<p>"I need to look through...
+to the governing dynamics.
+Find a truly original idea.
+That's the only way
+I'll ever distinguish myself.
+It's the only way
+that I'll ever-
+Matter."
+
+<i><a href="https://www.scripts.com/script.php?id=a_beautiful_mind_3766&p=2#:~:text=I%20need%20%to%look%20through." target="_blank" rel="noopener noreferrer">A beautiful mind (2001)</a></i></p>
+
+<br>
+
 <p>"Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
         Damn kids.  They're all alike.
