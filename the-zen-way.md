@@ -31,7 +31,7 @@ And you know why?
 Because it's boring. It's really boring."
 <i><a href="https://subslikescript.com/movie/A_Beautiful_Mind-268978#:~:text=Seriously,%20John." target="_blank" rel="noopener noreferrer">A beautiful mind (2001)</a></i></p>
 
-<br>
+<!--<br>
 
 <p>"I need to look through...
 to the governing dynamics.
@@ -43,10 +43,10 @@ that I'll ever-
 Matter."
 <i><a href="https://www.scripts.com/script.php?id=a_beautiful_mind_3766&p=2#:~:text=I%20need%20%to%look%20through." target="_blank" rel="noopener noreferrer">A beautiful mind (2001)</a></i></p>
 
-<br>
+--><br>
 
 <p>Je suis psychologiquement à genoux, réalisa-t-il. Tout ce qui s'est passé... jusqu'au disque du juke-box — c'est beaucoup trop. Je crève de frousse, voilà tout. Et je suis désorienté. C'est peut-être la preuve que la mescaline n'a pas entièrement cessé de faire son effet, au fond. Pourtant, j'ai piloté ce petit flipflap sans aucun problème. Ça veut dire quelque chose. Saleté de came ! On sait toujours quand elle vous prend mais jamais quand elle vous lâche, à supposer qu'elle vous lâche jamais. Elle vous détruit pour toujours; du moins, c'est l'impression qu'on a. On ne peut pas savoir. Alors, les gens disent : « T'as les neurones grillés, mon pote ? » Et 'on répond : « C'est possible.» On ne peut rien savoir.
-<i>Coulez mes larmes, dit le policier</i>, Philip K. Dick</p>
+<b>Philip K. Dick</b>, <i>Coulez mes larmes, dit le policier</i></p>
 
 <!--<p>"Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
