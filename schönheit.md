@@ -11,8 +11,8 @@ permalink: /schönheit
 - Quand tu as lu <i>A rebrousse-temps</i>, as-tu eu l'impression de sentir la présence d'un être humain en filigrane ? [...]
 - Mais il ne le saura jamais. Surtout s'il est mort. Pourtant, il se peut que quelque chose de lui survive, que l'on aime à travers l'ouvrage.
 [...]
-— <i>A rebrousse-temps</i> n'est pas un livre comme ça.
-— Pas pour toi, peut-être. Mais pour quelqu'un d'autre, qui sait ? Il suffirait d'une seule personne habitant un petit bled perdu, complètement paumé, à un moment précis. Alors, l'auteur vivrait à nouveau fugitivement dans l'esprit de cette personne. Ce serait une sorte d'amour rare qu'on ne voit pas souvent. Mais un véritable amour quand même."
+- <i>A rebrousse-temps</i> n'est pas un livre comme ça.
+- Pas pour toi, peut-être. Mais pour quelqu'un d'autre, qui sait ? Il suffirait d'une seule personne habitant un petit bled perdu, complètement paumé, à un moment précis. Alors, l'auteur vivrait à nouveau fugitivement dans l'esprit de cette personne. Ce serait une sorte d'amour rare qu'on ne voit pas souvent. Mais un véritable amour quand même."
 <b>Philip K. Dick</b>, <i>Coulez mes larmes, dit le policier</i></p>
 
 <br>
