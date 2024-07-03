@@ -3,10 +3,10 @@ layout: schönheits
 title: /schönheit
 permalink: /schönheit
 ---
-<p>- Est-ce que tu as lu <i>A rebrousse-temps</i>?
+<p>"- Est-ce que tu as lu <i>A rebrousse-temps</i>?
 - Je ne crois pas. De qui est-ce ?
 - Dans ce roman, tout, hommes et choses, se déplace à l'envers — de l'avenir vers le passé. Alors, les gens rajeunissent.
-- C'est peut-être la seule solution. T'est-il déjà arrivé, Jason, après avoir lu un livre, de voir soudain l'auteur à travers le tissu d'ennui des mots? Tu comprends ce que je veux dire ?</p>
+- C'est peut-être la seule solution. T'est-il déjà arrivé, Jason, après avoir lu un livre, de voir soudain l'auteur à travers le tissu d'ennui des mots? Tu comprends ce que je veux dire?"</p>
 
 <br>
 
