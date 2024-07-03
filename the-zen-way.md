@@ -10,6 +10,7 @@ permalink: /the-zen-way
 <b>Honoré de Balzac</b>, <i>La recherche de l'absolu</i><p>
 
 
+
 <p>"We are now very near to the crack... can you *feel* it? If not, prepare yourself a good Martini Vodka!
 This is the correct way to do it:
  * Get a "highball" glass;
@@ -45,7 +46,7 @@ Matter."
 
 --><br>
 
-<p>Je suis psychologiquement à genoux, réalisa-t-il. Tout ce qui s'est passé... jusqu'au disque du juke-box — c'est beaucoup trop. Je crève de frousse, voilà tout. Et je suis désorienté. C'est peut-être la preuve que la mescaline n'a pas entièrement cessé de faire son effet, au fond. Pourtant, j'ai piloté ce petit flipflap sans aucun problème. Ça veut dire quelque chose. Saleté de came ! On sait toujours quand elle vous prend mais jamais quand elle vous lâche, à supposer qu'elle vous lâche jamais. Elle vous détruit pour toujours; du moins, c'est l'impression qu'on a. On ne peut pas savoir. Alors, les gens disent : « T'as les neurones grillés, mon pote ? » Et 'on répond : « C'est possible.» On ne peut rien savoir.
+<p>"Je suis psychologiquement à genoux, réalisa-t-il. Tout ce qui s'est passé... jusqu'au disque du juke-box — c'est beaucoup trop. Je crève de frousse, voilà tout. Et je suis désorienté. C'est peut-être la preuve que la mescaline n'a pas entièrement cessé de faire son effet, au fond. Pourtant, j'ai piloté ce petit flipflap sans aucun problème. Ça veut dire quelque chose. Saleté de came ! On sait toujours quand elle vous prend mais jamais quand elle vous lâche, à supposer qu'elle vous lâche jamais. Elle vous détruit pour toujours; du moins, c'est l'impression qu'on a. On ne peut pas savoir. Alors, les gens disent : « T'as les neurones grillés, mon pote ? » Et 'on répond : « C'est possible.» On ne peut rien savoir.
 <b>Philip K. Dick</b>, <i>Coulez mes larmes, dit le policier</i></p>
 
 <!--<p>"Another one got caught today, it's all over the papers.  "Teenager
