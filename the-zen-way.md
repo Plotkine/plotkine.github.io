@@ -10,6 +10,11 @@ permalink: /the-zen-way
 <br>
 
 -->
+<p>"Il existe à Douai dans la rue de Paris une maison dont la physionomie, les dispositions intérieures et les détails ont, plus que ceux d’aucun autre logis, gardé le caractère des vieilles constructions flamandes, si naïvement appropriées aux mœurs patriarcales de ce bon pays ; mais avant de la décrire, peut-être faut-il établir dans l’intérêt des écrivains la nécessité de ces préparations didactiques contre lesquelles protestent certaines personnes ignorantes et voraces qui voudraient des émotions sans en subir les principes générateurs, la fleur sans la graine, l’enfant sans la gestation. L’Art serait-il donc tenu d’être plus fort que ne l’est la Nature ? Les événements de la vie humaine, soit publique, soit privée, sont si intimement liés à l’architecture, que la plupart des observateurs peuvent reconstruire les nations ou les individus dans toute la vérité de leurs habitudes, d’après les restes de leurs monuments publics ou par l’examen de leurs reliques domestiques. L’archéologie est à la nature sociale ce que l’anatomie comparée est à la nature organisée. Une mosaïque révèle toute une société, comme un squelette d’ichthyosaure sous-entend toute une création."
+<b>Honoré de Balzac</b>, <i>La recherche de l'absolu</i><p>
+
+<br>
+
 <p>"We are now very near to the crack... can you *feel* it? If not, prepare yourself a good Martini Vodka!
 This is the correct way to do it:
  * Get a "highball" glass;
