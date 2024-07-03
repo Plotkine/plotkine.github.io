@@ -13,7 +13,7 @@ permalink: /schönheit
 
 <br>
 
-<p>"Au XVIIIe siècle vécut en France un homme qui compta parmi les personnages les plus géniaux et les plus abominables de cette époque qui pourtant ne manqua pas de génies abominables. C’est son histoire qu’il s’agit de raconter ici. Il s’appelait Jean-Baptiste Grenouille et si son nom, à la différence de ceux d’autres scélérats de génie comme par exemple Sade, Saint-Just, Fouché, Bonaparte, etc., est aujourd’hui tombé dans l’oubli, ce n’est assurément pas que Grenouille fût moins bouffi d’orgueil, moins ennemi de l’humanité, moins immoral, en un mot moins impie que ces malfaisants plus illustres, mais c’est que son génie et son unique ambition se bornèrent à un domaine qui ne laisse point de traces dans l’histoire : au royaume évanescent des senteurs."</p>
+<p>"Au XVIIIe siècle vécut en France un homme qui compta parmi les personnages les plus géniaux et les plus abominables de cette époque qui pourtant ne manqua pas de génies abominables. C’est son histoire qu’il s’agit de raconter ici. Il s’appelait Jean-Baptiste Grenouille et si son nom, à la différence de ceux d’autres scélérats de génie comme par exemple Sade, Saint-Just, Fouché, Bonaparte, etc., est aujourd’hui tombé dans l’oubli, ce n’est assurément pas que Grenouille fût moins bouffi d’orgueil, moins ennemi de l’humanité, moins immoral, en un mot moins impie que ces malfaisants plus illustres, mais c’est que son génie et son unique ambition se bornèrent à un domaine qui ne laisse point de traces dans l’histoire : au royaume évanescent des odeurs."</p>
 
 <br>
 
