@@ -26,7 +26,7 @@ Jason y avait réfléchi tout au long de sa vie adulte en fonction de ses relati
 - Mais pourquoi est-il bon de s'opposer à l'instinct de survie ?
 - ﻿﻿Tu n'en vois pas la raison ?
 - ﻿﻿Non, admit-il.
-- ﻿﻿Parce que, en fin de compte, l'instinct de survie est toujours perdant. C'est vrai pour toutes les créatures vivantes — les taupes, les chauves-souris, les humains, les grenouilles. Même les grenouilles qui fument le cigare et jouent aux échecs. On ne peut jamais réaliser ce que l'instinct de survivance cherche à obtenir. Alors, en définitive, tous nos efforts font long feu, on succombe devant la mort et c'est fini."
+- ﻿﻿Parce que, en fin de compte, l'instinct de survie est toujours perdant. C'est vrai pour toutes les créatures vivantes — les taupes, les chauves-souris, les humains, les grenouilles. [...] On ne peut jamais réaliser ce que l'instinct de survivance cherche à obtenir. Alors, en définitive, tous nos efforts font long feu, on succombe devant la mort et c'est fini."
 <b>Philip K. Dick</b>, <i>Coulez mes larmes, dit le policier</i></p>
 
 <br>
