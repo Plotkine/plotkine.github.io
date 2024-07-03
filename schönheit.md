@@ -8,7 +8,7 @@ permalink: /schönheit
 - Dans ce roman, tout, hommes et choses, se déplace à l'envers — de l'avenir vers le passé. Alors, les gens rajeunissent.
 - C'est peut-être la seule solution. T'est-il déjà arrivé, Jason, après avoir lu un livre, de voir soudain l'auteur à travers le tissu d'ennui des mots ? Tu comprends ce que je veux dire ?
 - Il ne comprenait pas.
-- Quand tu as lu A rebrousse-temps, as-tu eu l'impression de sentir la présence d'un être humain en filigrane ? [...]
+- Quand tu as lu <i>A rebrousse-temps</i>, as-tu eu l'impression de sentir la présence d'un être humain en filigrane ? [...]
 - Mais il ne le saura jamais. Surtout s'il est mort. Pourtant, il se peut que quelque chose de lui survive, que l'on aime à travers l'ouvrage."</p>
 
 <br>
