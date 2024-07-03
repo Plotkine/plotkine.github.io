@@ -12,7 +12,18 @@ permalink: /schönheit
 - Mais il ne le saura jamais. Surtout s'il est mort. Pourtant, il se peut que quelque chose de lui survive, que l'on aime à travers l'ouvrage.
 [...]
 — <i>A rebrousse-temps</i> n'est pas un livre comme ça.
-— Pas pour toi, peut-être. Mais pour quelqu'un d'autre, qui sait ? Il suffirait d'une seule personne habitant un petit bled perdu, complètement paumé, à un moment précis. Alors, l'auteur vivrait à nouveau fugitivement dans l'esprit de cette personne. Ce serait une sorte d'amour rare qu'on ne voit pas souvent. Mais un véritable amour quand même."</p>
+— Pas pour toi, peut-être. Mais pour quelqu'un d'autre, qui sait ? Il suffirait d'une seule personne habitant un petit bled perdu, complètement paumé, à un moment précis. Alors, l'auteur vivrait à nouveau fugitivement dans l'esprit de cette personne. Ce serait une sorte d'amour rare qu'on ne voit pas souvent. Mais un véritable amour quand même.
+[...]
+- Alors, pourquoi l'amour est-il si bon ?
+Jason y avait réfléchi tout au long de sa vie adulte en fonction de ses relations personnelles. Et la question se reposait maintenant à lui avec acuité. A cause des récents événements, jusqu'à l'épisode du lapin d'Emily. Ce moment de chagrin. On aime les gens et ils s'en vont. Un beau jour, ils font leurs paquets. « Que se passe-t-il ? » leur demande-t-on. Et ils répondent : « J'ai trouvé quelque chose de mieux. » Et ils sortent de notre vie pour toujours, et ensuite, jusqu'à notre dernier souffle, nous trimbalons un gros paquet d'amour sans avoir personne à qui le donner. Et si jamais on trouve quelqu'un à qui le donner, la même chose se reproduit. Ou bien on leur téléphone : « Ici Jason. » Ils répondent: « Qui ça ? » Et l'on comprend alors qu'il n'y a rien à faire. Ils ne savent plus qui vous êtes. J'en conclus qu'ils ne l'ont jamais su; on n'a jamais compté pour eux.
+- L'amour, ce n'est pas seulement vouloir une autre personne comme on veut posséder un objet qu'on voit dans une boutique. Ça, ce n'est que le désir. On souhaite emporter cet objet, l'amener chez soi, le poser quelque part comme une lampe. [...] C'est comme un père qui sauve ses enfants d'un incendie et qui meurt en allant les chercher. [...] Tu vois?
+- Et c'est bon ?
+Ça ne lui semblait pas l'être tellement.
+- Cela transcende l'instinct. Nos instincts nous poussent à nous battre pour survivre. Comme les pols qui encerclent les campus. On survit aux dépens des autres. Chacun se fraye son chemin à coups de griffes et de dents. [...]
+- Mais pourquoi est-il bon de s'opposer à l'instinct de survie ?
+- ﻿﻿Tu n'en vois pas la raison ?
+- ﻿﻿Non, admit-il.
+- ﻿﻿Parce que, en fin de compte, l'instinct de survie est toujours perdant. C'est vrai pour toutes les créatures vivantes — les taupes, les chauves-souris, les humains, les grenouilles. Même les grenouilles qui fument le cigare et jouent aux échecs. On ne peut jamais réaliser ce que l'instinct de survivance cherche à obtenir. Alors, en définitive, tous nos efforts font long feu, on succombe devant la mort et c'est fini."</p>
 
 <br>
 
