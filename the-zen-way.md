@@ -4,12 +4,10 @@ title: /the-zen-way
 permalink: /the-zen-way
 ---
 
-<!--<p>"now comes the graceful "zen-cracking" moment: Sit down with a dry Martini and Wodka (obviously only russian Wodka will do) and contemplate the printing of the various mutant locations. Feel, perceive, empathize! Look closely at the locations that have changed in the snap compares. Analyse, interpretate, evaluate."
-<i><a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 1</a></i></p>-->
 <p>"Il existe à Douai dans la rue de Paris une maison dont la physionomie, les dispositions intérieures et les détails ont, plus que ceux d’aucun autre logis, gardé le caractère des vieilles constructions flamandes, si naïvement appropriées aux mœurs patriarcales de ce bon pays ; mais avant de la décrire, peut-être faut-il établir dans l’intérêt des écrivains la nécessité de ces préparations didactiques contre lesquelles protestent certaines personnes ignorantes et voraces qui voudraient des émotions sans en subir les principes générateurs, la fleur sans la graine, l’enfant sans la gestation. L’Art serait-il donc tenu d’être plus fort que ne l’est la Nature ? Les événements de la vie humaine, soit publique, soit privée, sont si intimement liés à l’architecture, que la plupart des observateurs peuvent reconstruire les nations ou les individus dans toute la vérité de leurs habitudes, d’après les restes de leurs monuments publics ou par l’examen de leurs reliques domestiques. L’archéologie est à la nature sociale ce que l’anatomie comparée est à la nature organisée. Une mosaïque révèle toute une société, comme un squelette d’ichthyosaure sous-entend toute une création."
 <b>Honoré de Balzac</b>, <i>La recherche de l'absolu</i><p>
 
-
+<br>
 
 <p>"We are now very near to the crack... can you *feel* it? If not, prepare yourself a good Martini Vodka!
 This is the correct way to do it:
@@ -32,6 +30,14 @@ And you know why?
 Because it's boring. It's really boring."
 <i><a href="https://subslikescript.com/movie/A_Beautiful_Mind-268978#:~:text=Seriously,%20John." target="_blank" rel="noopener noreferrer">A beautiful mind (2001)</a></i></p>
 
+<br>
+
+<p>"Je suis psychologiquement à genoux, réalisa-t-il. Tout ce qui s'est passé... jusqu'au disque du juke-box — c'est beaucoup trop. Je crève de frousse, voilà tout. Et je suis désorienté. C'est peut-être la preuve que la mescaline n'a pas entièrement cessé de faire son effet, au fond. Pourtant, j'ai piloté ce petit flipflap sans aucun problème. Ça veut dire quelque chose. Saleté de came ! On sait toujours quand elle vous prend mais jamais quand elle vous lâche, à supposer qu'elle vous lâche jamais. Elle vous détruit pour toujours; du moins, c'est l'impression qu'on a. On ne peut pas savoir. Alors, les gens disent : « T'as les neurones grillés, mon pote ? » Et l'on répond : « C'est possible.» On ne peut rien savoir.
+<b>Philip K. Dick</b>, <i>Coulez mes larmes, dit le policier</i></p>
+
+<!--<p>"now comes the graceful "zen-cracking" moment: Sit down with a dry Martini and Wodka (obviously only russian Wodka will do) and contemplate the printing of the various mutant locations. Feel, perceive, empathize! Look closely at the locations that have changed in the snap compares. Analyse, interpretate, evaluate."
+<i><a href="http://www.textfiles.com/piracy/CRACKING/howto1.txt" target="_blank" rel="noopener noreferrer">+ORC, HOW TO CRACK, A TUTORIAL - LESSON 1</a></i></p>-->
+
 <!--<br>
 
 <p>"I need to look through...
@@ -45,9 +51,6 @@ Matter."
 <i><a href="https://www.scripts.com/script.php?id=a_beautiful_mind_3766&p=2#:~:text=I%20need%20%to%look%20through." target="_blank" rel="noopener noreferrer">A beautiful mind (2001)</a></i></p>
 
 --><br>
-
-<p>"Je suis psychologiquement à genoux, réalisa-t-il. Tout ce qui s'est passé... jusqu'au disque du juke-box — c'est beaucoup trop. Je crève de frousse, voilà tout. Et je suis désorienté. C'est peut-être la preuve que la mescaline n'a pas entièrement cessé de faire son effet, au fond. Pourtant, j'ai piloté ce petit flipflap sans aucun problème. Ça veut dire quelque chose. Saleté de came ! On sait toujours quand elle vous prend mais jamais quand elle vous lâche, à supposer qu'elle vous lâche jamais. Elle vous détruit pour toujours; du moins, c'est l'impression qu'on a. On ne peut pas savoir. Alors, les gens disent : « T'as les neurones grillés, mon pote ? » Et l'on répond : « C'est possible.» On ne peut rien savoir.
-<b>Philip K. Dick</b>, <i>Coulez mes larmes, dit le policier</i></p>
 
 <!--<p>"Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
