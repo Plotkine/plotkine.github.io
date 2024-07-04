@@ -8,6 +8,7 @@ permalink: /the-zen-way
 <b>Honoré de Balzac</b>, <i>La recherche de l'absolu</i><p>
 
 
+
 <p>"We are now very near to the crack... can you *feel* it? If not, prepare yourself a good Martini Vodka!
 This is the correct way to do it:
  * Get a "highball" glass;
