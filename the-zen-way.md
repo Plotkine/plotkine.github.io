@@ -5,7 +5,7 @@ permalink: /the-zen-way
 ---
 
 <p>"For high level performances, it is not enough to train half an hour a day. Many think so but it does not work like that. To be ultra efficient you have to be practically crazy."
-<b>Rüdiger Gamm</b>, <i>Voyage au centre du cerveau</i></p>
+<b>Rüdiger Gamm</b>, <i>Expedition ins Gehirn</i></p>
 
 <br>
 
