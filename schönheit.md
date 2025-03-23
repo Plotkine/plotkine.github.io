@@ -3,6 +3,12 @@ layout: schönheits
 title: /schönheit
 permalink: /schönheit
 ---
+
+<p>"Il existe à Douai dans la rue de Paris une maison dont la physionomie, les dispositions intérieures et les détails ont, plus que ceux d’aucun autre logis, gardé le caractère des vieilles constructions flamandes, si naïvement appropriées aux mœurs patriarcales de ce bon pays ; mais avant de la décrire, peut-être faut-il établir dans l’intérêt des écrivains la nécessité de ces préparations didactiques contre lesquelles protestent certaines personnes ignorantes et voraces qui voudraient des émotions sans en subir les principes générateurs, la fleur sans la graine, l’enfant sans la gestation. L’Art serait-il donc tenu d’être plus fort que ne l’est la Nature ? Les événements de la vie humaine, soit publique, soit privée, sont si intimement liés à l’architecture, que la plupart des observateurs peuvent reconstruire les nations ou les individus dans toute la vérité de leurs habitudes, d’après les restes de leurs monuments publics ou par l’examen de leurs reliques domestiques. L’archéologie est à la nature sociale ce que l’anatomie comparée est à la nature organisée. Une mosaïque révèle toute une société, comme un squelette d’ichthyosaure sous-entend toute une création."
+<b>Honoré de Balzac</b>, <i>La recherche de l'absolu</i></p>
+
+<br>
+
 <p>"- Est-ce que tu as lu <i>A rebrousse-temps</i> ?
 - Je ne crois pas. De qui est-ce ?
 - Dans ce roman, tout, hommes et choses, se déplace à l'envers — de l'avenir vers le passé. Alors, les gens rajeunissent.
@@ -59,20 +65,3 @@ Isidore se demandait, dans ces moments-la, si tous ceux qui restaient sur Terre,
 
 <p>"Car les choses de l’Univers ne se lassent jamais de parler d’elles-mêmes et de se révéler, à celui qui se soucie d’entendre. Et la maison la plus belle, celle en laquelle apparaît l’amour de l’ouvrier, n’est pas celle qui est plus grande ou plus haute que d’autres. La belle maison est celle qui reflète fidèlement la structure et la beauté cachées des choses."
 <b>Alexandre Grothendieck</b>, <a href="https://uberty.org/wp-content/uploads/2015/12/Grothendeick-RetS.pdf#page=48" target="_blank" rel="noopener noreferrer"><i>Récoltes et Semailles</i></a></p>
-
-<!-- 
-<p>"Mathematics, rightly viewed, possesses not only truth, but supreme beauty—a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as in poetry. What is best in mathematics deserves not merely to be learnt as a task, but to be assimilated as a part of daily thought, and brought again and again before the mind with ever−renewed encouragement. Real life is, to most men, a long second−best, a perpetual compromise between the ideal and the possible; but the world of pure reason knows no compromise, no practical limitations, no barrier to the creative activity embodying in splendid edifices the passionate aspiration after the perfect from which all great work springs. Remote from human passions, remote even from the pitiful facts of nature, the generations have gradually created an ordered cosmos, where pure thought can dwell as in its natural home, and where one, at least, of our nobler impulses can escape from the dreary exile of the actual world."
-<b>Bertrand Russell</b>, <a href="https://revistaliterariakatharsis.org/myslog.pdf#page=27" target="_blank" rel="noopener noreferrer"><i>The study of mathematics</i></a></p>
--->
-
-<!-- 
-<p>"Music was my first love
-And it will be my last
-Music of the future
-And music of the past
-To live without my music
-Would be impossible to do
-In this world of troubles
-My music pulls me through"
-<b>John Miles</b>, <i>Music</i></p>
--->
