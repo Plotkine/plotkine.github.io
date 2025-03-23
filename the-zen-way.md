@@ -4,6 +4,11 @@ title: /the-zen-way
 permalink: /the-zen-way
 ---
 
+<p>"J'avais envie de te dire que je me sens très courageux. C'est sans doute étrange de dire ça comme ça; je me fouette moi-même parfois d'être trop sérieux, pas assez rigolo, léger etc mais c'est sans doute un sacrifice que je fais inconsciemment parce que je répugne à l'idée d'être lâche. Sans doute certaines personnes sont capables de courage tout en étant des guignols, quoique je n'en ai vu que dans des films d'action américain, moi non. Dans la vie je suis tout le temps concentré, présent mentalement, à la fois parce que je veux éviter au maximum de faire du mal autour de moi et parce que je fixe un but, c'est vrai, parce que je n'ai pas envie de dépendre de qui ou de quoi que ce soit. Je crois que ce n'est pas qu'une question d'argent. Le seul truc que j'ai trouvé pour m'en sortir c'est de m'être fixé un but tellement difficile à atteindre que je suis obligé de me bouger sans arrêt, ne serait-ce que pour ne pas le perdre de vue. Sans doute que je passe à côté de certains plaisirs de l'existence et de l'amitié, voire du désir de certaines personnes, mais c'est un sacrifice bien maigre comparé à la perte de la liberté, ou pire: la perte de l'espoir. Je crois que je ne pourrais m'amuser qu'à ce prix: perdre tout espoir. Et la simple pensée de pouvoir un jour être heureux et de voir mes enfants s'amuser -si j'ai la chance d'en avoir- me console de ne plus en être un."
+<b>Lucas Debargue</b></p>
+
+<br>
+
 <p>"For high level performances, it is not enough to train half an hour a day. Many think so but it does not work like that. To be ultra efficient you have to be practically crazy."
 <b>Rüdiger Gamm</b>, <i>Expedition ins Gehirn</i></p>
 
