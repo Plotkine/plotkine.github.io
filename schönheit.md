@@ -7,8 +7,12 @@ permalink: /schönheit
 <p>"C'est ça le signe le plus important. Comment sait-on qu'une personne a été dans la justice, ou dans la vérité? Dans la façon dont ses actes ont nourri son être. Dans son regard. Dans la façon dont son visage reflète le monde."
 <a href="https://www.youtube.com/watch?v=-fI_5IieLf0" target="_blank" rel="noopener noreferrer"><b>LA COMMUNE : LE PLUS INCROYABLE MOMENT DE L’HISTOIRE DE FRANCE</b></a>, <i>Pacôme Thiellement</i></p>
 
+<br>
+
 <p>"En 1429, alors que les Anglais sont aux portes d'Orléans, une voix venue des cieux se fait entendre, non au roi de France mais à une petite paysanne de Domrémy, Jeanne."
 <b>Jeanne d'Arc</b>, <i>Régine Pernoud, Marie-Véronique Clin</i></p>
+
+<br>
 
 <p>"Il existe à Douai dans la rue de Paris une maison dont la physionomie, les dispositions intérieures et les détails ont, plus que ceux d’aucun autre logis, gardé le caractère des vieilles constructions flamandes, si naïvement appropriées aux mœurs patriarcales de ce bon pays ; mais avant de la décrire, peut-être faut-il établir dans l’intérêt des écrivains la nécessité de ces préparations didactiques contre lesquelles protestent certaines personnes ignorantes et voraces qui voudraient des émotions sans en subir les principes générateurs, la fleur sans la graine, l’enfant sans la gestation. L’Art serait-il donc tenu d’être plus fort que ne l’est la Nature ? Les événements de la vie humaine, soit publique, soit privée, sont si intimement liés à l’architecture, que la plupart des observateurs peuvent reconstruire les nations ou les individus dans toute la vérité de leurs habitudes, d’après les restes de leurs monuments publics ou par l’examen de leurs reliques domestiques. L’archéologie est à la nature sociale ce que l’anatomie comparée est à la nature organisée. Une mosaïque révèle toute une société, comme un squelette d’ichthyosaure sous-entend toute une création."
 <b>Honoré de Balzac</b>, <i>La recherche de l'absolu</i></p>
