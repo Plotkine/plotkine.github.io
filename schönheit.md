@@ -15,7 +15,7 @@ permalink: /schönheit
 <br>
 
 <p>"There is nothing free except the grace of God"
-<b>Charles Portis</b>, <i>True Grit</i>
+<b>Charles Portis</b>, <i>True Grit</i></p>
 
 <br>
 
