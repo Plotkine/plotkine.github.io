@@ -5,7 +5,7 @@ permalink: /schönheit
 ---
 
 <p>"C'est ça le signe le plus important. Comment sait-on qu'une personne a été dans la justice, ou dans la vérité? Dans la façon dont ses actes ont nourri son être. Dans son regard. Dans la façon dont son visage reflète le monde."
-<a href="https://www.youtube.com/watch?v=-fI_5IieLf0" target="_blank" rel="noopener noreferrer"><b>A COMMUNE : LE PLUS INCROYABLE MOMENT DE L’HISTOIRE DE FRANCE</b></a>, <i>Pacôme Thiellement</i></p>
+<a href="https://www.youtube.com/watch?v=-fI_5IieLf0" target="_blank" rel="noopener noreferrer"><b>LA COMMUNE : LE PLUS INCROYABLE MOMENT DE L’HISTOIRE DE FRANCE</b></a>, <i>Pacôme Thiellement</i></p>
 
 <p>"En 1429, alors que les Anglais sont aux portes d'Orléans, une voix venue des cieux se fait entendre, non au roi de France mais à une petite paysanne de Domrémy, Jeanne."
 <b>Jeanne d'Arc</b>, <i>Régine Pernoud, Marie-Véronique Clin</i></p>
