@@ -59,7 +59,7 @@ J'ai décidé d'aller laver le trottoir."
 
 <br>
 
-<p>"There is nothing free except the grace of God"
+<p>"You must pay for everything in this world one way and another. There is nothing free except the Grace of God. You cannot earn that or deserve it."
 <b>Charles Portis</b>, <i>True Grit</i></p>
 
 <br>
